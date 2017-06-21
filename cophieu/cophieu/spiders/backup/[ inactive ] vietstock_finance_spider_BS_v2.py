@@ -176,7 +176,7 @@ EQUITY = ["OWNER'S EQUITY",
 
 
 class FinanceSpider (scrapy.Spider):
-    name = "vietstock_finance_BS"
+    name = "vietstock_finance_BS_v2"
     ticker_dict = {}
     tickers_list = extract_tickers("tickerz.json")
     requests = []
@@ -185,44 +185,39 @@ class FinanceSpider (scrapy.Spider):
 
     # CREATE A LIST OF REQUEST BECAUSE scrapy DOES NOT ALLOW ORDERED REQUESTS
     for ticker in tickers_list:
-        ticker_dict[ticker] = []
+        ticker_dict[ticker] = {"ticker": ticker, "data": []}
         for page_n in range(8):
             # CREATE A REQUEST STRING AND APPEND IT TO requests
             request_str = 'http://finance.vietstock.vn/Controls/Report/Data/GetReport.ashx?rptType=CDKT\
-                                             &scode={0}&bizType=1&rptUnit=1000000&rptTermTypeID=2&page={1}'\
+                                             &scode={0}&bizType=1&rptUnit=1000000&rptTermTypeID=2&page={1}' \
                 .format(ticker, page_n + 1)
             requests.append(request_str)
 
-    # print (requests)
+    # print(requests)
 
     def start_requests(self):
-        # START CRAWLING EACH request str
-        while self.crawled < len(self.requests):
-            request_str = self.requests[self.crawled]
-            # page_n is a page in VStock, includes 4 quarters
-            req = scrapy.Request(request_str,callback=self.parse,
-                                    cookies={'finance_lang': 'en-US'})
-            req.meta["ticker"] = request_str[(request_str.find('scode')+6):
-                                                (request_str.find('&', request_str.find('scode')+6))]
-            req.meta["page_n"] = request_str[(request_str.find('&page')+6):]
-            yield req
+        # INITIAL REQUEST
+        start_request = self.requests[0]
+        # page_n is a page in VStock, includes 4 quarters
+        request = scrapy.Request(start_request, callback=self.parse,
+                                 cookies={'finance_lang': 'en-US'})
+        request.meta["ticker"] = start_request[(start_request.find('scode') + 6):
+        (start_request.find('&', start_request.find('scode') + 6))]
+        request.meta["page_n"] = start_request[(start_request.find('&page') + 6):]
+        yield request
 
         # IF THIS DOES NOT RUN AGAIN, HAVE TO USE PIPELINES
         for ticker, data in self.ticker_dict.items():
-            # KEEP ONLY UNIQUE QUARTERS
-            data_set = list({quarter_data['quarter']: quarter_data for quarter_data in data}.values())
-            filename = "vietstock_BS_data_{0}.json".format(ticker)
+            filename = "Vietstock_BS_data_{0}.json".format(ticker)
             file_path = make_directory (FINANCE_PATH, filename)
-
             with open (file_path, 'w') as fp:
-                json.dump (dict(ticker=ticker, data=data_set), fp, indent=INDENT)
+                json.dump (self.ticker_dict[ticker], fp, indent=INDENT)
 
-        with open("vietstock_BS_errors.json", "w") as error_file:
+        with open("Vietstock_BS_errors.json", "w") as error_file:
             json.dump(self.errors, error_file, indent=INDENT)
 
     def parse(self, response):
         result = []
-        self.crawled += 1
 
         if not response.xpath ("//table"):
             return
@@ -246,14 +241,24 @@ class FinanceSpider (scrapy.Spider):
                         get_quarter_data (response, account=account, section="equity", i=3-i,
                                           quarter_dict=quarter_dict)
 
-                    result.append(quarter_dict)
+                    result.append (quarter_dict)
 
-                    self.ticker_dict[response.meta["ticker"]] += result
-                    # data_set = set(self.ticker_dict[response.meta["ticker"]]["data"])
-                    # self.ticker_dict[response.meta["ticker"]]["data"] = \
-                    #     sorted(data_set, key=self.ticker_dict[response.meta["ticker"]]["data"].index)
-
+                self.ticker_dict[response.meta["ticker"]]["data"] += result
+                self.crawled += 1
 
             except:
-                error_data = handle_error(response)
+                error_data = handle_error (response)
                 self.errors.append(error_data)
+
+        # START CRAWLING EACH request str
+        if self.requests:
+            request_str = self.requests.pop(0)
+            # page_n is a page in VStock, includes 4 quarters
+            request = scrapy.Request(request_str, callback=self.parse,
+                                     cookies={'finance_lang': 'en-US'})
+            request.meta["ticker"] = request_str[(request_str.find('scode') + 6):
+            (request_str.find('&', request_str.find('scode') + 6))]
+            request.meta["page_n"] = request_str[(request_str.find('&page') + 6):]
+            yield request
+
+
