@@ -21,7 +21,7 @@ Visit https://drive.google.com/open?id=0B6OgUPdE214jUEc0SnR6UmpxMnc for a full v
         * `vietstock_finance_BS` for **balance sheets**.
         * `cophieu68_finance_IS` for **income statements**.
         * `cophieu68_finance_CF_direct_v2` for **direct cash flow statements**.
-        * `cophieu68_finance_CF_indirect` for **indirect cash flow statements**.
+        * `cophieu68_finance_CF_indirect_v2` for **indirect cash flow statements**.
 * Wait for miracle.
 * Please note that I did not split direct and indirect cash flow statements. That means outputs are in the same folder.
 

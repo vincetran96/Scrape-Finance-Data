@@ -92,7 +92,7 @@ NODENAMES = ['loi_nhuan_truoc_thue',
 
 
 class FinanceSpider (scrapy.Spider):
-    name = "cophieu68_finance_CF_indirect"
+    name = "cophieu68_finance_CF_indirect_v2"
     year_dict = {}
     indirect_list = []
     errors_list = []
