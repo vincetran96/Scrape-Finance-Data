@@ -4,6 +4,7 @@
 
 * Scraper for financial data from cophieu68 and Vietstock.
 * Including: Balance Sheets, Income Statements, Cash Flow Statements.
+* Output format: `json`.
 
 ### Example of output ###
 ![Untitled.png](https://bitbucket-assetroot.s3.amazonaws.com/repository/Gg6aEj9/2645979444-Untitled.png?Signature=krAbn2nXK5A2JemsPp3khmG0dq4%3D&Expires=1498021674&AWSAccessKeyId=AKIAIQWXW6WLXMB5QZAQ&versionId=Qd0RvjgEX0_vwGZdc_ikItAHUrWkkN2w)
