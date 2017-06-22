@@ -7,7 +7,7 @@
 * Output format: `json`.
 
 ### Example of output ###
-![Example.png](https://bitbucket.org/repo/Gg6aEj9/images/2645979444-Untitled.png)
+![Example](http://i.imgur.com/StnXSL2.png)
 
 ### Preview of outputs ###
 
@@ -26,7 +26,6 @@ Visit https://drive.google.com/open?id=0B6OgUPdE214jNVV4QzNyS051Nk0 for a full v
         
 * Wait for miracle.
 * Please note that you can only crawl for direct cash flow statements **after** crawling indirect cash flow statements.
-* Please note that I did not split direct and indirect cash flow statements. That means outputs are in the same folder.
 
 ### Most recent significant updates ###
 
