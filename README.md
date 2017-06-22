@@ -29,6 +29,7 @@ Visit https://drive.google.com/open?id=0B6OgUPdE214jNVV4QzNyS051Nk0 for a full v
 
 ### Most recent significant updates ###
 
+* Fixed integrity of all spiders.
 * Fixed a bug causing balance sheets spiders to return unordered timestamps.
 * Added a spider to crawl *sector codes* and each sector's relevant tickers.
 * Added 2 spiders to crawl Cash Flow data from cophieu68: direct CFs and indirect CFs.
