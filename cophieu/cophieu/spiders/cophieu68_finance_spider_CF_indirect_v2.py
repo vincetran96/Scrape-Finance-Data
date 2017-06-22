@@ -94,7 +94,7 @@ NODENAMES = ['loi_nhuan_truoc_thue',
 class FinanceSpider (scrapy.Spider):
     name = "cophieu68_finance_CF_indirect_v2"
     year_dict = {}
-    indirect_list = []
+    direct_list = []
     errors_list = []
 
     def start_requests(self):
@@ -106,12 +106,6 @@ class FinanceSpider (scrapy.Spider):
             request.meta["ticker"] = ticker
             yield request
 
-        with open ("direct_CF_list.json", "w") as indirect_file:
-            json.dump (self.indirect_list, indirect_file, indent=INDENT)
-
-        with open ("cophieu68_CF_indirect_errors.json", "w") as error_file:
-            json.dump (self.errors_list, error_file, indent=INDENT)
-
     def parse(self, response):
         result = {
             "ticker": response.meta["ticker"],
@@ -121,9 +115,15 @@ class FinanceSpider (scrapy.Spider):
         cash_flow_type = response.xpath ("//tr[@class='tr_header']/td/text()").extract()[0]
 
         # EXTRACT YEAR LIST
-        if cash_flow_type != "Cash Flow Direct":
+        if cash_flow_type == "Cash Flow Direct":
+            self.direct_list.append (response.meta["ticker"])
+            with open ("direct_CF_list.json", "w") as direct_file:
+                json.dump (self.direct_list, direct_file, indent=INDENT)
+            
+        else:
             quarters = response.xpath ("//tr[@class=\"tr_header\"]//td/text()").extract()[1:]
             n_quarters = len(quarters) - 1
+            
             try:
                 for i, quarter in enumerate(reversed(quarters)):
 
@@ -141,9 +141,10 @@ class FinanceSpider (scrapy.Spider):
                 with open (file_path, 'w') as fp:
                     json.dump (result, fp, indent=INDENT)
 
-            except Exception:
+            except:
                 error_data = handle_error (response)
                 self.errors_list.append(error_data)
+                with open ("cophieu68_CF_indirect_errors.json", "w") as error_file:
+                    json.dump (self.errors_list, error_file, indent=INDENT)
+                
 
-        else:
-            self.indirect_list.append (response.meta["ticker"])

@@ -72,20 +72,17 @@ NODENAMES = ['tien_thu_tu_ban_hang',
 class FinanceSpider (scrapy.Spider):
     name = "cophieu68_finance_CF_direct_v2"
     year_dict = {}
-    NA_dict = {}
     errors_list = []
 
     def start_requests(self):
         with open ("direct_CF_list.json", encoding="utf-8") as jsonfile:
             text = json.load (jsonfile)
-            for ticker in text:
+            for i, ticker in enumerate(text):
                 request = scrapy.Request ("http://www.cophieu68.vn/incomestatement.php?id={0}&view=cf&year=0%lang=vn"
                                           .format (ticker), callback=self.parse)
                 request.meta["ticker"] = ticker
+                request.meta['count'] = i
                 yield request
-
-            with open ("cophieu68_CF_direct_errors.json", "w") as error_file:
-                json.dump (self.errors_list, error_file, indent=INDENT)
 
     def parse(self, response):
         result = {
@@ -94,6 +91,7 @@ class FinanceSpider (scrapy.Spider):
         }
         quarters = response.xpath ("//tr[@class='tr_header']//td/text()").extract ()[1:]
         n_quarters = len(quarters) - 1
+
         try:
             for i, quarter in enumerate (reversed(quarters)):
 
@@ -112,4 +110,7 @@ class FinanceSpider (scrapy.Spider):
                 json.dump (result, fp, indent=INDENT)
 
         except:
-            self.errors_list.append (handle_error (response))
+            error_data = handle_error (response)
+            self.errors_list.append(error_data)
+            with open ("cophieu68_CF_indirect_errors.json", "w") as error_file:
+                json.dump (self.errors_list, error_file, indent=INDENT)
