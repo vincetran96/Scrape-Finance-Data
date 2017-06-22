@@ -7,7 +7,7 @@
 * Output format: `json`.
 
 ### Example of output ###
-![Untitled.png](https://bitbucket.org/repo/Gg6aEj9/images/2645979444-Untitled.png)
+![Example.png](https://bitbucket.org/repo/Gg6aEj9/images/2645979444-Untitled.png)
 
 ### Preview of outputs ###
 
@@ -28,6 +28,7 @@ Visit https://drive.google.com/open?id=0B6OgUPdE214jNVV4QzNyS051Nk0 for a full v
 
 ### Most recent significant updates ###
 
+* Fixed a bug causing balance sheets spiders to return unordered timestamps.
 * Added a spider to crawl *sector codes* and each sector's relevant tickers.
 * Added 2 spiders to crawl Cash Flow data from cophieu68: direct CFs and indirect CFs.
 * Added a spider to crawl Balance Sheet data from Vietstock, a more reliable source for all firms.
