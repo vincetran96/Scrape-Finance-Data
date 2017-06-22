@@ -7,7 +7,7 @@
 * Output format: `json`.
 
 ### Example of output ###
-![Untitled.png](https://bitbucket.org/repo/Gg6aEj9/images/2645979444-Untitled.png)
+![Example.png](https://bitbucket.org/repo/Gg6aEj9/images/2645979444-Untitled.png)
 
 ### Preview of outputs ###
 
