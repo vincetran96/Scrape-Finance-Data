@@ -65,6 +65,7 @@ ACCOUNTS = ["Net sales",
 class FinanceSpider (scrapy.Spider):
     name = "cophieu68_finance_IS"
     year_dict = {}
+    errors = []
 
     def start_requests(self):
         tickers_list = []
@@ -81,6 +82,9 @@ class FinanceSpider (scrapy.Spider):
                 callback=self.parse)
             request.meta["ticker"] = ticker
             yield request
+
+        with open("cophieu68_IS_errors.json", "w") as error_file:
+            json.dump(self.errors, error_file, indent=INDENT)
 
     def parse(self, response):
         result = {
@@ -106,5 +110,4 @@ class FinanceSpider (scrapy.Spider):
 
         except Exception:
             error_data = handle_error (response)
-            with open ("cophieu68_IS_error_{0}.json".format (response.meta["ticker"]), "w") as error_file:
-                json.dump (error_data, error_file, indent=INDENT)
+            self.errors.append(error_data)

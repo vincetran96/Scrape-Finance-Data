@@ -193,8 +193,6 @@ class FinanceSpider (scrapy.Spider):
                 .format(ticker, page_n + 1)
             requests.append(request_str)
 
-    # print (requests)
-
     def start_requests(self):
         # START CRAWLING EACH request str
         while self.crawled < len(self.requests):
@@ -207,16 +205,6 @@ class FinanceSpider (scrapy.Spider):
             req.meta["page_n"] = request_str[(request_str.find('&page')+6):]
             yield req
 
-        # IF THIS DOES NOT RUN AGAIN, HAVE TO USE PIPELINES
-        for ticker, data in self.ticker_dict.items():
-            # KEEP ONLY UNIQUE QUARTERS
-            data_set = list({quarter_data['quarter']: quarter_data for quarter_data in data}.values())
-            filename = "vietstock_BS_data_{0}.json".format(ticker)
-            file_path = make_directory (FINANCE_PATH, filename)
-
-            with open (file_path, 'w') as fp:
-                json.dump (dict(ticker=ticker, data=data_set), fp, indent=INDENT)
-
         with open("vietstock_BS_errors.json", "w") as error_file:
             json.dump(self.errors, error_file, indent=INDENT)
 
@@ -224,12 +212,13 @@ class FinanceSpider (scrapy.Spider):
         result = []
         self.crawled += 1
 
-        if not response.xpath ("//table"):
+        if not response.xpath("//table"):
             return
         else:
             try:
                 # GET DATA FROM NEW TO OLD QUARTERS
-                for i, quarter in enumerate (reversed(response.xpath ("//td[@class = 'BR_colHeader_Time']/text()").extract ())):
+                for i, quarter in enumerate (reversed(response.xpath ("//td[@class = 'BR_colHeader_Time']/text()")
+                                              .extract ())):
                     quarter_dict = {
                         "quarter": quarter,
                         "assets": {},
@@ -249,10 +238,16 @@ class FinanceSpider (scrapy.Spider):
                     result.append(quarter_dict)
 
                     self.ticker_dict[response.meta["ticker"]] += result
-                    # data_set = set(self.ticker_dict[response.meta["ticker"]]["data"])
-                    # self.ticker_dict[response.meta["ticker"]]["data"] = \
-                    #     sorted(data_set, key=self.ticker_dict[response.meta["ticker"]]["data"].index)
 
+                # WRITE DATA TO FILE OVER AND OVER AGAIN UNTIL A TICKER IS COMPLETE
+                data = self.ticker_dict[response.meta['ticker']]
+                # KEEP ONLY UNIQUE QUARTERS
+                data_set = list({quarter_data['quarter']: quarter_data for quarter_data in data}.values())
+                filename = "BS_data_{0}.json".format(response.meta['ticker'])
+                file_path = make_directory(FINANCE_PATH, filename)
+
+                with open(file_path, 'w') as fp:
+                    json.dump(dict(ticker=response.meta['ticker'], data=data_set), fp, indent=INDENT)
 
             except:
                 error_data = handle_error(response)

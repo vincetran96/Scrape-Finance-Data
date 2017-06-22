@@ -6,7 +6,7 @@ import os
 
 INDENT = 2
 
-FINANCE_PATH = "cash_flow_statements/"
+FINANCE_PATH = "cash_flow_statements/direct/"
 
 
 def make_directory(path, filename):
@@ -92,17 +92,19 @@ class FinanceSpider (scrapy.Spider):
             "ticker": response.meta["ticker"],
             "data": []
         }
+        quarters = response.xpath ("//tr[@class='tr_header']//td/text()").extract ()[1:]
+        n_quarters = len(quarters) - 1
         try:
-            for i, quarter in enumerate (response.xpath ("//tr[@class='tr_header']//td/text()").extract ()[1:]):
+            for i, quarter in enumerate (reversed(quarters)):
 
                 quarter_dict = {"quarter": quarter,
                                 "cash flow status": {},
                                 }
 
                 for nodename in NODENAMES:
-                    get_quarter_data (response, nodename=nodename, i=i, quarter_dict=quarter_dict)
+                    get_quarter_data (response, nodename=nodename, i=n_quarters-i, quarter_dict=quarter_dict)
 
-                result["data"].append (quarter_dict)
+                result["data"].append(quarter_dict)
 
             filename = "CF_data_{0}.json".format (result["ticker"])
             file_path = make_directory (FINANCE_PATH, filename)

@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d525ff0-fc8c-4aac-b3d2-ee51c785d05e" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cophieu/cophieu/spiders/cophieu68_finance_spider_CF_direct.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cophieu/cophieu/spiders/cophieu68_finance_spider_CF_indirect.py" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cophieu/cophieu/spiders/tickerz.json" afterPath="$PROJECT_DIR$/cophieu/cophieu/spiders/tickerz.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cophieu/cophieu/spiders/cophieu68_finance_spider_CF_direct_v2.py" afterPath="$PROJECT_DIR$/cophieu/cophieu/spiders/cophieu68_finance_spider_CF_direct_v2.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cophieu/cophieu/spiders/cophieu68_finance_spider_CF_indirect_v2.py" afterPath="$PROJECT_DIR$/cophieu/cophieu/spiders/cophieu68_finance_spider_CF_indirect_v2.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cophieu/cophieu/spiders/cophieu68_finance_spider_IS.py" afterPath="$PROJECT_DIR$/cophieu/cophieu/spiders/cophieu68_finance_spider_IS.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cophieu/cophieu/spiders/quarter_confirm.py" afterPath="$PROJECT_DIR$/cophieu/cophieu/spiders/quarter_confirm.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cophieu/cophieu/spiders/vietstock_finance_spider_BS.py" afterPath="$PROJECT_DIR$/cophieu/cophieu/spiders/vietstock_finance_spider_BS.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,8 +27,8 @@
       <file leaf-file-name="vietstock_finance_spider_BS.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cophieu/cophieu/spiders/vietstock_finance_spider_BS.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-157">
-              <caret line="216" column="45" lean-forward="true" selection-start-line="216" selection-start-column="45" selection-end-line="216" selection-end-column="45" />
+            <state relative-caret-position="1272">
+              <caret line="249" column="101" lean-forward="false" selection-start-line="249" selection-start-column="101" selection-end-line="249" selection-end-column="101" />
               <folding>
                 <element signature="e#1472#4091#0" expanded="false" />
                 <element signature="e#4107#5614#0" expanded="false" />
@@ -33,24 +38,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="quarter_confirm.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/cophieu/cophieu/spiders/quarter_confirm.py">
+      <file leaf-file-name="cophieu68_finance_spider_IS.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cophieu/cophieu/spiders/cophieu68_finance_spider_IS.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="203">
-              <caret line="7" column="30" lean-forward="true" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
-              <folding />
+            <state relative-caret-position="2001">
+              <caret line="112" column="42" lean-forward="false" selection-start-line="112" selection-start-column="42" selection-end-line="112" selection-end-column="42" />
+              <folding>
+                <element signature="e#1531#2305#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="cophieu68_finance_spider_IS.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cophieu/cophieu/spiders/cophieu68_finance_spider_IS.py">
+      <file leaf-file-name="quarter_confirm.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cophieu/cophieu/spiders/quarter_confirm.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="66" column="18" lean-forward="false" selection-start-line="66" selection-start-column="18" selection-end-line="66" selection-end-column="18" />
-              <folding>
-                <element signature="e#1531#2305#0" expanded="false" />
-              </folding>
+            <state relative-caret-position="108">
+              <caret line="4" column="28" lean-forward="false" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -139,15 +144,15 @@
         <option value="$PROJECT_DIR$/cophieu/cophieu/spiders/Vietstock_finance_spider_BS.py" />
         <option value="$PROJECT_DIR$/cophieu/cophieu/spiders/cophieu68_finance_spider_CF_indirect.py" />
         <option value="$PROJECT_DIR$/cophieu/cophieu/spiders/cophieu68_finance_spider_CF_direct.py" />
-        <option value="$PROJECT_DIR$/cophieu/cophieu/spiders/cophieu68_finance_spider_CF_direct_v2.py" />
         <option value="$PROJECT_DIR$/cophieu/cophieu/spiders/cophieu68_get_sectors.py" />
-        <option value="$PROJECT_DIR$/cophieu/cophieu/spiders/cophieu68_finance_spider_IS.py" />
         <option value="$PROJECT_DIR$/stock_call.html" />
-        <option value="$PROJECT_DIR$/cophieu/cophieu/spiders/cophieu68_finance_spider_CF_indirect_v2.py" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/cophieu/cophieu/spiders/vietstock_finance_spider_BS_v2.py" />
-        <option value="$PROJECT_DIR$/cophieu/cophieu/spiders/quarter_confirm.py" />
+        <option value="$PROJECT_DIR$/cophieu/cophieu/spiders/cophieu68_finance_spider_CF_indirect_v2.py" />
+        <option value="$PROJECT_DIR$/cophieu/cophieu/spiders/cophieu68_finance_spider_CF_direct_v2.py" />
+        <option value="$PROJECT_DIR$/cophieu/cophieu/spiders/cophieu68_finance_spider_IS.py" />
         <option value="$PROJECT_DIR$/cophieu/cophieu/spiders/vietstock_finance_spider_BS.py" />
+        <option value="$PROJECT_DIR$/cophieu/cophieu/spiders/quarter_confirm.py" />
       </list>
     </option>
   </component>
@@ -259,8 +264,8 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -502,13 +507,13 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1796875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.85273975" sideWeight="0.50416666" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2739726" sideWeight="0.49583334" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.11643836" sideWeight="0.49583334" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39956093" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39956093" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -600,37 +605,14 @@
       <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="384">
             <caret line="24" column="43" lean-forward="false" selection-start-line="24" selection-start-column="43" selection-end-line="24" selection-end-column="43" />
-            <folding />
           </first_editor>
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cophieu/cophieu/spiders/cophieu68_finance_spider_CF_indirect_v2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="477">
-          <caret line="94" column="44" lean-forward="false" selection-start-line="94" selection-start-column="44" selection-end-line="94" selection-end-column="44" />
-          <folding>
-            <element signature="e#0#13#0" expanded="false" />
-            <element signature="e#1577#3220#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cophieu/cophieu/spiders/cophieu68_finance_spider_CF_direct_v2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="72" column="42" lean-forward="false" selection-start-line="72" selection-start-column="12" selection-end-line="72" selection-end-column="42" />
-          <folding>
-            <element signature="e#1210#2589#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -638,26 +620,34 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="73">
           <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cophieu/cophieu/spiders/vietstock_finance_spider_BS_v2.py" />
+    <entry file="file://$PROJECT_DIR$/cophieu/cophieu/spiders/cophieu68_finance_spider_CF_indirect_v2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1113">
+          <caret line="136" column="56" lean-forward="false" selection-start-line="136" selection-start-column="56" selection-end-line="136" selection-end-column="56" />
           <folding>
-            <element signature="e#1535#3372#0" expanded="false" />
+            <element signature="e#1586#3229#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cophieu/cophieu/spiders/cophieu68_finance_spider_IS.py">
+    <entry file="file://$PROJECT_DIR$/cophieu/cophieu/spiders/cophieu68_finance_spider_CF_direct_v2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="66" column="18" lean-forward="false" selection-start-line="66" selection-start-column="18" selection-end-line="66" selection-end-column="18" />
+        <state relative-caret-position="-88">
+          <caret line="87" column="71" lean-forward="true" selection-start-line="87" selection-start-column="71" selection-end-line="87" selection-end-column="71" />
           <folding>
-            <element signature="e#1531#2305#0" expanded="false" />
+            <element signature="e#1217#2596#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/cophieu/cophieu/spiders/vietstock_finance_spider_BS.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-157">
-          <caret line="216" column="45" lean-forward="true" selection-start-line="216" selection-start-column="45" selection-end-line="216" selection-end-column="45" />
+        <state relative-caret-position="1272">
+          <caret line="249" column="101" lean-forward="false" selection-start-line="249" selection-start-column="101" selection-end-line="249" selection-end-column="101" />
           <folding>
             <element signature="e#1472#4091#0" expanded="false" />
             <element signature="e#4107#5614#0" expanded="false" />
@@ -666,19 +656,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cophieu/cophieu/spiders/vietstock_finance_spider_BS_v2.py">
+    <entry file="file://$PROJECT_DIR$/cophieu/cophieu/spiders/quarter_confirm.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="649">
-          <caret line="198" column="25" lean-forward="false" selection-start-line="198" selection-start-column="25" selection-end-line="198" selection-end-column="25" />
+        <state relative-caret-position="108">
+          <caret line="4" column="28" lean-forward="false" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cophieu/cophieu/spiders/quarter_confirm.py">
+    <entry file="file://$PROJECT_DIR$/cophieu/cophieu/spiders/cophieu68_finance_spider_IS.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="7" column="30" lean-forward="true" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
-          <folding />
+        <state relative-caret-position="2001">
+          <caret line="112" column="42" lean-forward="false" selection-start-line="112" selection-start-column="42" selection-end-line="112" selection-end-column="42" />
+          <folding>
+            <element signature="e#1531#2305#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>

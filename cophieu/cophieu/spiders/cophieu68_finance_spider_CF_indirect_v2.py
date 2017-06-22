@@ -4,7 +4,7 @@ import json
 import traceback
 import os
 
-FINANCE_PATH = "cash_flow_statements/"
+FINANCE_PATH = "cash_flow_statements/indirect/"
 
 INDENT = 2
 
@@ -118,19 +118,21 @@ class FinanceSpider (scrapy.Spider):
             "data": []
         }
 
-        cash_flow_type = response.xpath ("//tr[@class='tr_header']/td/text()").extract ()[0]
+        cash_flow_type = response.xpath ("//tr[@class='tr_header']/td/text()").extract()[0]
 
         # EXTRACT YEAR LIST
         if cash_flow_type != "Cash Flow Direct":
+            quarters = response.xpath ("//tr[@class=\"tr_header\"]//td/text()").extract()[1:]
+            n_quarters = len(quarters) - 1
             try:
-                for i, year in enumerate (response.xpath ("//tr[@class=\"tr_header\"]//td/text()").extract ()[1:]):
+                for i, quarter in enumerate(reversed(quarters)):
 
-                    quarter_dict = {"quarter": year,
+                    quarter_dict = {"quarter": quarter,
                                     "cash flow status": {}
                                     }
 
                     for nodename in NODENAMES:
-                        get_quarter_data (response, nodename=nodename, i=i, quarter_dict=quarter_dict)
+                        get_quarter_data (response, nodename=nodename, i=n_quarters-i, quarter_dict=quarter_dict)
 
                     result["data"].append (quarter_dict)
 
