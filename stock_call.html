@@ -1161,14 +1161,14 @@ var saveAs=saveAs||function(e){"use strict";if("undefined"==typeof navigator||!/
 
 
 function json_extract(json_text){
-	var abc = JSON.stringify(json_text) // SUA CHO NAY, THEM ENCODE UTF-8 VAO
+	var abc = JSON.stringify(json_text, null, 2) // SUA CHO NAY, THEM ENCODE UTF-8 VAO
 	return abc
 }
 
 var jsonFile =  json_extract(stock);
 
 function create_file(abc){
-      filename = 'stock_file.json',
+      filename = 'tickerz.json',
       blob = new Blob([abc], {type: "text/plain;charset=utf-8"});
 
 		saveAs(blob, filename);
@@ -1178,6 +1178,11 @@ function create_file(abc){
 	<title></title>
 </head>
 <body>
-
+	<ul>
+	<li>Go to Console</li>
+	<li>Enter 'create_file(jsonFile)'</li>
+	<li>Save the JSON file and use it!</li>
+	<li>If you want to view the JSON file in Console, enter 'console.log(stock)'</li>
+	</ul>
 </body>
 </html>
