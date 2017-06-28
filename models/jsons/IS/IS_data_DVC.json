@@ -1,0 +1,33 @@
+{
+  "ticker": "DVC",
+  "data": [
+    {
+      "quarter": "Q1 2013",
+      "income status": {
+        "Net sales": 70022,
+        "Cost of goods sold": 62176,
+        "Gross Profit": 7845,
+        "Financial expenses": 807,
+        "Of which: Interest expense": 802,
+        "Cost of sales": 4447,
+        "Enterprise cost management": 819,
+        "Total Operating Expenses": 6073,
+        "Total revenue financing activities": 150,
+        "Net profit from business activities": 1923,
+        "Profit": 261,
+        "Profit before tax": 2184,
+        "Present corporate income tax expenses": 570,
+        "Deferred income taxes expenses": "N/A",
+        "The interests of minority shareholders": -45,
+        "Total Cost of profits": 525,
+        "Profit after tax corporate income": 1659,
+        "Volume": 4651423,
+        "Close of Quarter": "N/A",
+        "EPS": 357,
+        "Non-adjusted EPS": 357,
+        "PE": "N/A",
+        "Book Price": 23.9
+      }
+    }
+  ]
+}

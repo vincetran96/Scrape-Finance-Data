@@ -1,0 +1,61 @@
+{
+  "ticker": "MTP",
+  "data": [
+    {
+      "quarter": "Q2 2012",
+      "income status": {
+        "Net sales": 160360,
+        "Cost of goods sold": 139968,
+        "Gross Profit": 20392,
+        "Financial expenses": 10700,
+        "Of which: Interest expense": 10700,
+        "Cost of sales": 5123,
+        "Enterprise cost management": 4416,
+        "Total Operating Expenses": 20239,
+        "Total revenue financing activities": 312,
+        "Net profit from business activities": 465,
+        "Profit": "N/A",
+        "Profit before tax": 465,
+        "Present corporate income tax expenses": 93,
+        "Deferred income taxes expenses": "N/A",
+        "The interests of minority shareholders": "N/A",
+        "Total Cost of profits": 93,
+        "Profit after tax corporate income": 372,
+        "Volume": 3001503,
+        "Close of Quarter": 9.6,
+        "EPS": 554,
+        "Non-adjusted EPS": 554,
+        "PE": 17.3,
+        "Book Price": 12
+      }
+    },
+    {
+      "quarter": "Q1 2012",
+      "income status": {
+        "Net sales": 103762,
+        "Cost of goods sold": 83338,
+        "Gross Profit": 20424,
+        "Financial expenses": 10076,
+        "Of which: Interest expense": 10076,
+        "Cost of sales": 5920,
+        "Enterprise cost management": 3264,
+        "Total Operating Expenses": 19260,
+        "Total revenue financing activities": 244,
+        "Net profit from business activities": 1408,
+        "Profit": 7,
+        "Profit before tax": 1414,
+        "Present corporate income tax expenses": 283,
+        "Deferred income taxes expenses": -160,
+        "The interests of minority shareholders": "N/A",
+        "Total Cost of profits": 123,
+        "Profit after tax corporate income": 1292,
+        "Volume": 3000000,
+        "Close of Quarter": 15.6,
+        "EPS": 430.8,
+        "Non-adjusted EPS": 431,
+        "PE": 36.3,
+        "Book Price": "N/A"
+      }
+    }
+  ]
+}

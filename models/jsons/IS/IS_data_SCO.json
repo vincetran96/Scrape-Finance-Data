@@ -1,0 +1,89 @@
+{
+  "ticker": "SCO",
+  "data": [
+    {
+      "quarter": "Q4 2010",
+      "income status": {
+        "Net sales": 79397,
+        "Cost of goods sold": 70125,
+        "Gross Profit": 9272,
+        "Financial expenses": 6113,
+        "Of which: Interest expense": 5608,
+        "Cost of sales": 1418,
+        "Enterprise cost management": 835,
+        "Total Operating Expenses": 8366,
+        "Total revenue financing activities": 14,
+        "Net profit from business activities": 919,
+        "Profit": 3062,
+        "Profit before tax": 3982,
+        "Present corporate income tax expenses": 997,
+        "Deferred income taxes expenses": "N/A",
+        "The interests of minority shareholders": "N/A",
+        "Total Cost of profits": 997,
+        "Profit after tax corporate income": 2985,
+        "Volume": 4200000,
+        "Close of Quarter": 9,
+        "EPS": 1298,
+        "Non-adjusted EPS": 1298,
+        "PE": 6.9,
+        "Book Price": "N/A"
+      }
+    },
+    {
+      "quarter": "Q1 2009",
+      "income status": {
+        "Net sales": 54432,
+        "Cost of goods sold": 49857,
+        "Gross Profit": 4574,
+        "Financial expenses": 2437,
+        "Of which: Interest expense": 2235,
+        "Cost of sales": 165,
+        "Enterprise cost management": 1116,
+        "Total Operating Expenses": 3718,
+        "Total revenue financing activities": 502,
+        "Net profit from business activities": 1358,
+        "Profit": "N/A",
+        "Profit before tax": 1358,
+        "Present corporate income tax expenses": 162,
+        "Deferred income taxes expenses": "N/A",
+        "The interests of minority shareholders": "N/A",
+        "Total Cost of profits": 162,
+        "Profit after tax corporate income": 1196,
+        "Volume": 4200000,
+        "Close of Quarter": "N/A",
+        "EPS": 587,
+        "Non-adjusted EPS": 587,
+        "PE": "N/A",
+        "Book Price": "N/A"
+      }
+    },
+    {
+      "quarter": "Q1 2008",
+      "income status": {
+        "Net sales": 98939,
+        "Cost of goods sold": 94100,
+        "Gross Profit": 4839,
+        "Financial expenses": 2639,
+        "Of which: Interest expense": 2593,
+        "Cost of sales": 129,
+        "Enterprise cost management": 1079,
+        "Total Operating Expenses": 3847,
+        "Total revenue financing activities": 685,
+        "Net profit from business activities": 1677,
+        "Profit": "N/A",
+        "Profit before tax": 1677,
+        "Present corporate income tax expenses": 406,
+        "Deferred income taxes expenses": "N/A",
+        "The interests of minority shareholders": "N/A",
+        "Total Cost of profits": 406,
+        "Profit after tax corporate income": 1271,
+        "Volume": 4200000,
+        "Close of Quarter": "N/A",
+        "EPS": 303,
+        "Non-adjusted EPS": 303,
+        "PE": "N/A",
+        "Book Price": "N/A"
+      }
+    }
+  ]
+}

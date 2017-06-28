@@ -1,0 +1,61 @@
+{
+  "ticker": "LAI",
+  "data": [
+    {
+      "quarter": "Q4 2016",
+      "income status": {
+        "Net sales": 407859,
+        "Cost of goods sold": 353711,
+        "Gross Profit": 54147,
+        "Financial expenses": 10984,
+        "Of which: Interest expense": 9675,
+        "Cost of sales": 6200,
+        "Enterprise cost management": 15102,
+        "Total Operating Expenses": 32286,
+        "Total revenue financing activities": 47919,
+        "Net profit from business activities": 80691,
+        "Profit": 11678,
+        "Profit before tax": 92368,
+        "Present corporate income tax expenses": 32884,
+        "Deferred income taxes expenses": -27093,
+        "The interests of minority shareholders": 1121,
+        "Total Cost of profits": 6912,
+        "Profit after tax corporate income": 85456,
+        "Volume": 8550000,
+        "Close of Quarter": 15.4,
+        "EPS": 26578,
+        "Non-adjusted EPS": 26578,
+        "PE": 0.6,
+        "Book Price": "N/A"
+      }
+    },
+    {
+      "quarter": "Q4 2015",
+      "income status": {
+        "Net sales": 393329,
+        "Cost of goods sold": 311105,
+        "Gross Profit": 82224,
+        "Financial expenses": 8726,
+        "Of which: Interest expense": 12924,
+        "Cost of sales": 7750,
+        "Enterprise cost management": 13253,
+        "Total Operating Expenses": 29729,
+        "Total revenue financing activities": 35123,
+        "Net profit from business activities": 112252,
+        "Profit": 66812,
+        "Profit before tax": 179064,
+        "Present corporate income tax expenses": 27402,
+        "Deferred income taxes expenses": 9603,
+        "The interests of minority shareholders": 270,
+        "Total Cost of profits": 37275,
+        "Profit after tax corporate income": 141789,
+        "Volume": 8550000,
+        "Close of Quarter": 15.4,
+        "EPS": 16584,
+        "Non-adjusted EPS": 16584,
+        "PE": 0.9,
+        "Book Price": 14.2
+      }
+    }
+  ]
+}

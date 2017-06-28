@@ -1,0 +1,33 @@
+{
+  "ticker": "ISG",
+  "data": [
+    {
+      "quarter": "Q1 2017",
+      "income status": {
+        "Net sales": 65775,
+        "Cost of goods sold": 80590,
+        "Gross Profit": -14815,
+        "Financial expenses": 11769,
+        "Of which: Interest expense": 11612,
+        "Cost of sales": 1750,
+        "Enterprise cost management": 848,
+        "Total Operating Expenses": 14367,
+        "Total revenue financing activities": 528,
+        "Net profit from business activities": -28654,
+        "Profit": 459,
+        "Profit before tax": -28195,
+        "Present corporate income tax expenses": "N/A",
+        "Deferred income taxes expenses": "N/A",
+        "The interests of minority shareholders": "N/A",
+        "Total Cost of profits": 0,
+        "Profit after tax corporate income": -28195,
+        "Volume": 8800000,
+        "Close of Quarter": 2.3,
+        "EPS": -3204,
+        "Non-adjusted EPS": -3204,
+        "PE": -0.7,
+        "Book Price": -36.3
+      }
+    }
+  ]
+}

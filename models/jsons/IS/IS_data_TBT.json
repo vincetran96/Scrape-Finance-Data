@@ -1,0 +1,61 @@
+{
+  "ticker": "TBT",
+  "data": [
+    {
+      "quarter": "Q2 2009",
+      "income status": {
+        "Net sales": 29274,
+        "Cost of goods sold": 26998,
+        "Gross Profit": 2276,
+        "Financial expenses": 260,
+        "Of which: Interest expense": 260,
+        "Cost of sales": "N/A",
+        "Enterprise cost management": 1159,
+        "Total Operating Expenses": 1419,
+        "Total revenue financing activities": 25,
+        "Net profit from business activities": 882,
+        "Profit": -715,
+        "Profit before tax": 167,
+        "Present corporate income tax expenses": "N/A",
+        "Deferred income taxes expenses": "N/A",
+        "The interests of minority shareholders": "N/A",
+        "Total Cost of profits": 0,
+        "Profit after tax corporate income": 167,
+        "Volume": 1656470,
+        "Close of Quarter": "N/A",
+        "EPS": 196,
+        "Non-adjusted EPS": 196,
+        "PE": "N/A",
+        "Book Price": "N/A"
+      }
+    },
+    {
+      "quarter": "Q1 2009",
+      "income status": {
+        "Net sales": 5208,
+        "Cost of goods sold": 4232,
+        "Gross Profit": 976,
+        "Financial expenses": 157,
+        "Of which: Interest expense": 157,
+        "Cost of sales": "N/A",
+        "Enterprise cost management": 972,
+        "Total Operating Expenses": 1129,
+        "Total revenue financing activities": 35,
+        "Net profit from business activities": -117,
+        "Profit": 275,
+        "Profit before tax": 157,
+        "Present corporate income tax expenses": "N/A",
+        "Deferred income taxes expenses": "N/A",
+        "The interests of minority shareholders": "N/A",
+        "Total Cost of profits": 0,
+        "Profit after tax corporate income": 157,
+        "Volume": 1656470,
+        "Close of Quarter": "N/A",
+        "EPS": 95,
+        "Non-adjusted EPS": 95,
+        "PE": "N/A",
+        "Book Price": "N/A"
+      }
+    }
+  ]
+}

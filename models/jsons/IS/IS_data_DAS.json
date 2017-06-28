@@ -1,0 +1,61 @@
+{
+  "ticker": "DAS",
+  "data": [
+    {
+      "quarter": "Q1 2014",
+      "income status": {
+        "Net sales": 38854,
+        "Cost of goods sold": 37454,
+        "Gross Profit": 1400,
+        "Financial expenses": 623,
+        "Of which: Interest expense": 623,
+        "Cost of sales": 1371,
+        "Enterprise cost management": 385,
+        "Total Operating Expenses": 2379,
+        "Total revenue financing activities": 72,
+        "Net profit from business activities": -908,
+        "Profit": 145,
+        "Profit before tax": -763,
+        "Present corporate income tax expenses": "N/A",
+        "Deferred income taxes expenses": "N/A",
+        "The interests of minority shareholders": "N/A",
+        "Total Cost of profits": 0,
+        "Profit after tax corporate income": -763,
+        "Volume": 4100000,
+        "Close of Quarter": "N/A",
+        "EPS": -574,
+        "Non-adjusted EPS": -574,
+        "PE": "N/A",
+        "Book Price": 10.6
+      }
+    },
+    {
+      "quarter": "Q1 2013",
+      "income status": {
+        "Net sales": 23372,
+        "Cost of goods sold": 23066,
+        "Gross Profit": 306,
+        "Financial expenses": 687,
+        "Of which: Interest expense": 655,
+        "Cost of sales": 695,
+        "Enterprise cost management": 516,
+        "Total Operating Expenses": 1898,
+        "Total revenue financing activities": 7,
+        "Net profit from business activities": -1586,
+        "Profit": -3,
+        "Profit before tax": -1590,
+        "Present corporate income tax expenses": "N/A",
+        "Deferred income taxes expenses": "N/A",
+        "The interests of minority shareholders": "N/A",
+        "Total Cost of profits": 0,
+        "Profit after tax corporate income": -1590,
+        "Volume": 4100000,
+        "Close of Quarter": "N/A",
+        "EPS": -388,
+        "Non-adjusted EPS": -388,
+        "PE": "N/A",
+        "Book Price": "N/A"
+      }
+    }
+  ]
+}

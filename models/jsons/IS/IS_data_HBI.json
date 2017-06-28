@@ -1,0 +1,33 @@
+{
+  "ticker": "HBI",
+  "data": [
+    {
+      "quarter": "Q1 2016",
+      "income status": {
+        "Net sales": 1760,
+        "Cost of goods sold": 1480,
+        "Gross Profit": 280,
+        "Financial expenses": "N/A",
+        "Of which: Interest expense": "N/A",
+        "Cost of sales": "N/A",
+        "Enterprise cost management": 2289,
+        "Total Operating Expenses": 2289,
+        "Total revenue financing activities": 3471,
+        "Net profit from business activities": 1462,
+        "Profit": 227,
+        "Profit before tax": 1689,
+        "Present corporate income tax expenses": 338,
+        "Deferred income taxes expenses": "N/A",
+        "The interests of minority shareholders": "N/A",
+        "Total Cost of profits": 338,
+        "Profit after tax corporate income": 1351,
+        "Volume": 51000000,
+        "Close of Quarter": 10.2,
+        "EPS": 26,
+        "Non-adjusted EPS": 26,
+        "PE": 392.3,
+        "Book Price": 10.2
+      }
+    }
+  ]
+}

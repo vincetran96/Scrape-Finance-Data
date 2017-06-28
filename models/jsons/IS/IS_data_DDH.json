@@ -1,0 +1,33 @@
+{
+  "ticker": "DDH",
+  "data": [
+    {
+      "quarter": "Q1 2016",
+      "income status": {
+        "Net sales": 38154,
+        "Cost of goods sold": 33070,
+        "Gross Profit": 5084,
+        "Financial expenses": 2,
+        "Of which: Interest expense": 2,
+        "Cost of sales": "N/A",
+        "Enterprise cost management": 4539,
+        "Total Operating Expenses": 4541,
+        "Total revenue financing activities": 51,
+        "Net profit from business activities": 593,
+        "Profit": -1,
+        "Profit before tax": 591,
+        "Present corporate income tax expenses": 131,
+        "Deferred income taxes expenses": "N/A",
+        "The interests of minority shareholders": "N/A",
+        "Total Cost of profits": 131,
+        "Profit after tax corporate income": 461,
+        "Volume": 3600000,
+        "Close of Quarter": "N/A",
+        "EPS": 128,
+        "Non-adjusted EPS": 128,
+        "PE": "N/A",
+        "Book Price": 9.6
+      }
+    }
+  ]
+}

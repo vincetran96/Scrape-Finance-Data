@@ -1,0 +1,61 @@
+{
+  "ticker": "C71",
+  "data": [
+    {
+      "quarter": "Q2 2015",
+      "income status": {
+        "Net sales": 449588,
+        "Cost of goods sold": 420364,
+        "Gross Profit": 29223,
+        "Financial expenses": 5796,
+        "Of which: Interest expense": 4807,
+        "Cost of sales": "N/A",
+        "Enterprise cost management": 21099,
+        "Total Operating Expenses": 26895,
+        "Total revenue financing activities": 1115,
+        "Net profit from business activities": 3443,
+        "Profit": 122,
+        "Profit before tax": 3565,
+        "Present corporate income tax expenses": "N/A",
+        "Deferred income taxes expenses": "N/A",
+        "The interests of minority shareholders": "N/A",
+        "Total Cost of profits": 0,
+        "Profit after tax corporate income": 3565,
+        "Volume": 5000000,
+        "Close of Quarter": "N/A",
+        "EPS": 1222,
+        "Non-adjusted EPS": 1222,
+        "PE": "N/A",
+        "Book Price": 12.9
+      }
+    },
+    {
+      "quarter": "Q2 2014",
+      "income status": {
+        "Net sales": 317939,
+        "Cost of goods sold": 298742,
+        "Gross Profit": 19198,
+        "Financial expenses": 6272,
+        "Of which: Interest expense": 5394,
+        "Cost of sales": "N/A",
+        "Enterprise cost management": 10810,
+        "Total Operating Expenses": 17082,
+        "Total revenue financing activities": 861,
+        "Net profit from business activities": 2976,
+        "Profit": -429,
+        "Profit before tax": 2547,
+        "Present corporate income tax expenses": "N/A",
+        "Deferred income taxes expenses": "N/A",
+        "The interests of minority shareholders": "N/A",
+        "Total Cost of profits": 0,
+        "Profit after tax corporate income": 2547,
+        "Volume": 5000000,
+        "Close of Quarter": "N/A",
+        "EPS": 509,
+        "Non-adjusted EPS": 509,
+        "PE": "N/A",
+        "Book Price": "N/A"
+      }
+    }
+  ]
+}

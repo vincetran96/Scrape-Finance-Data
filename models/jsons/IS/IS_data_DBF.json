@@ -1,0 +1,61 @@
+{
+  "ticker": "DBF",
+  "data": [
+    {
+      "quarter": "Q3 2014",
+      "income status": {
+        "Net sales": 28036,
+        "Cost of goods sold": 27127,
+        "Gross Profit": 910,
+        "Financial expenses": 17,
+        "Of which: Interest expense": 17,
+        "Cost of sales": 374,
+        "Enterprise cost management": 1039,
+        "Total Operating Expenses": 1430,
+        "Total revenue financing activities": 15,
+        "Net profit from business activities": -505,
+        "Profit": 518,
+        "Profit before tax": 13,
+        "Present corporate income tax expenses": "N/A",
+        "Deferred income taxes expenses": "N/A",
+        "The interests of minority shareholders": "N/A",
+        "Total Cost of profits": 0,
+        "Profit after tax corporate income": 13,
+        "Volume": 3679200,
+        "Close of Quarter": 9.9,
+        "EPS": -58,
+        "Non-adjusted EPS": -58,
+        "PE": -170.7,
+        "Book Price": 11.5
+      }
+    },
+    {
+      "quarter": "Q3 2013",
+      "income status": {
+        "Net sales": 85510,
+        "Cost of goods sold": 83297,
+        "Gross Profit": 2213,
+        "Financial expenses": 100,
+        "Of which: Interest expense": 100,
+        "Cost of sales": 1676,
+        "Enterprise cost management": 1067,
+        "Total Operating Expenses": 2843,
+        "Total revenue financing activities": -176,
+        "Net profit from business activities": -806,
+        "Profit": 580,
+        "Profit before tax": -226,
+        "Present corporate income tax expenses": "N/A",
+        "Deferred income taxes expenses": "N/A",
+        "The interests of minority shareholders": "N/A",
+        "Total Cost of profits": 0,
+        "Profit after tax corporate income": -226,
+        "Volume": 3679200,
+        "Close of Quarter": 9.6,
+        "EPS": -61,
+        "Non-adjusted EPS": -61,
+        "PE": -156.6,
+        "Book Price": 11.5
+      }
+    }
+  ]
+}

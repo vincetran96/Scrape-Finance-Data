@@ -1,0 +1,61 @@
+{
+  "ticker": "MGC",
+  "data": [
+    {
+      "quarter": "Q2 2015",
+      "income status": {
+        "Net sales": 103814,
+        "Cost of goods sold": 82088,
+        "Gross Profit": 21726,
+        "Financial expenses": 1203,
+        "Of which: Interest expense": 1189,
+        "Cost of sales": "N/A",
+        "Enterprise cost management": 11446,
+        "Total Operating Expenses": 12649,
+        "Total revenue financing activities": 1,
+        "Net profit from business activities": 9078,
+        "Profit": -171,
+        "Profit before tax": 8908,
+        "Present corporate income tax expenses": "N/A",
+        "Deferred income taxes expenses": "N/A",
+        "The interests of minority shareholders": "N/A",
+        "Total Cost of profits": 0,
+        "Profit after tax corporate income": 8908,
+        "Volume": 10800000,
+        "Close of Quarter": "N/A",
+        "EPS": 25,
+        "Non-adjusted EPS": 25,
+        "PE": "N/A",
+        "Book Price": 7.4
+      }
+    },
+    {
+      "quarter": "Q2 2014",
+      "income status": {
+        "Net sales": 58518,
+        "Cost of goods sold": 51843,
+        "Gross Profit": 6675,
+        "Financial expenses": 3425,
+        "Of which: Interest expense": 3232,
+        "Cost of sales": "N/A",
+        "Enterprise cost management": 12118,
+        "Total Operating Expenses": 15543,
+        "Total revenue financing activities": 6,
+        "Net profit from business activities": -8861,
+        "Profit": 28,
+        "Profit before tax": -8834,
+        "Present corporate income tax expenses": -198,
+        "Deferred income taxes expenses": "N/A",
+        "The interests of minority shareholders": "N/A",
+        "Total Cost of profits": -198,
+        "Profit after tax corporate income": -8636,
+        "Volume": 10800000,
+        "Close of Quarter": "N/A",
+        "EPS": -800,
+        "Non-adjusted EPS": -800,
+        "PE": "N/A",
+        "Book Price": "N/A"
+      }
+    }
+  ]
+}

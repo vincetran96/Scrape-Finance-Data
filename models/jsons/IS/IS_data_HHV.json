@@ -1,0 +1,33 @@
+{
+  "ticker": "HHV",
+  "data": [
+    {
+      "quarter": "Q2 2015",
+      "income status": {
+        "Net sales": 152972,
+        "Cost of goods sold": 133672,
+        "Gross Profit": 19300,
+        "Financial expenses": 1590,
+        "Of which: Interest expense": 1590,
+        "Cost of sales": 9359,
+        "Enterprise cost management": 4982,
+        "Total Operating Expenses": 15931,
+        "Total revenue financing activities": 289,
+        "Net profit from business activities": 3658,
+        "Profit": 14,
+        "Profit before tax": 3673,
+        "Present corporate income tax expenses": "N/A",
+        "Deferred income taxes expenses": "N/A",
+        "The interests of minority shareholders": "N/A",
+        "Total Cost of profits": 0,
+        "Profit after tax corporate income": 3673,
+        "Volume": 3160000,
+        "Close of Quarter": "N/A",
+        "EPS": 1162,
+        "Non-adjusted EPS": 1162,
+        "PE": "N/A",
+        "Book Price": 11.2
+      }
+    }
+  ]
+}

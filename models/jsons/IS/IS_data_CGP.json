@@ -1,0 +1,33 @@
+{
+  "ticker": "CGP",
+  "data": [
+    {
+      "quarter": "Q1 2015",
+      "income status": {
+        "Net sales": 66060,
+        "Cost of goods sold": 51386,
+        "Gross Profit": 14674,
+        "Financial expenses": 1927,
+        "Of which: Interest expense": 1829,
+        "Cost of sales": "N/A",
+        "Enterprise cost management": "N/A",
+        "Total Operating Expenses": 1927,
+        "Total revenue financing activities": 12,
+        "Net profit from business activities": "N/A",
+        "Profit": 154,
+        "Profit before tax": "N/A",
+        "Present corporate income tax expenses": "N/A",
+        "Deferred income taxes expenses": "N/A",
+        "The interests of minority shareholders": "N/A",
+        "Total Cost of profits": 0,
+        "Profit after tax corporate income": 0,
+        "Volume": 10735708,
+        "Close of Quarter": "N/A",
+        "EPS": "N/A",
+        "Non-adjusted EPS": " ",
+        "PE": "N/A",
+        "Book Price": 0.1
+      }
+    }
+  ]
+}

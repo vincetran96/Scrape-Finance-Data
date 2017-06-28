@@ -1,0 +1,33 @@
+{
+  "ticker": "POV",
+  "data": [
+    {
+      "quarter": "Q1 2017",
+      "income status": {
+        "Net sales": 391260,
+        "Cost of goods sold": 377810,
+        "Gross Profit": 13449,
+        "Financial expenses": 581,
+        "Of which: Interest expense": 581,
+        "Cost of sales": 10852,
+        "Enterprise cost management": 863,
+        "Total Operating Expenses": 12296,
+        "Total revenue financing activities": 295,
+        "Net profit from business activities": 1449,
+        "Profit": 75,
+        "Profit before tax": 1524,
+        "Present corporate income tax expenses": 88,
+        "Deferred income taxes expenses": "N/A",
+        "The interests of minority shareholders": "N/A",
+        "Total Cost of profits": 88,
+        "Profit after tax corporate income": 1436,
+        "Volume": 10000000,
+        "Close of Quarter": 9.5,
+        "EPS": 144,
+        "Non-adjusted EPS": 144,
+        "PE": 66.0,
+        "Book Price": 15.8
+      }
+    }
+  ]
+}

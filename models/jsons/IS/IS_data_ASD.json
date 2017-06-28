@@ -1,0 +1,61 @@
+{
+  "ticker": "ASD",
+  "data": [
+    {
+      "quarter": "Q2 2014",
+      "income status": {
+        "Net sales": 16482,
+        "Cost of goods sold": 15446,
+        "Gross Profit": 1036,
+        "Financial expenses": 33,
+        "Of which: Interest expense": "N/A",
+        "Cost of sales": "N/A",
+        "Enterprise cost management": 1111,
+        "Total Operating Expenses": 1144,
+        "Total revenue financing activities": 139,
+        "Net profit from business activities": 32,
+        "Profit": -32,
+        "Profit before tax": "N/A",
+        "Present corporate income tax expenses": "N/A",
+        "Deferred income taxes expenses": "N/A",
+        "The interests of minority shareholders": "N/A",
+        "Total Cost of profits": 0,
+        "Profit after tax corporate income": 0,
+        "Volume": 4000000,
+        "Close of Quarter": "N/A",
+        "EPS": 8,
+        "Non-adjusted EPS": 8,
+        "PE": "N/A",
+        "Book Price": 10.1
+      }
+    },
+    {
+      "quarter": "Q1 2014",
+      "income status": {
+        "Net sales": 22852,
+        "Cost of goods sold": 21311,
+        "Gross Profit": 1542,
+        "Financial expenses": 4,
+        "Of which: Interest expense": "N/A",
+        "Cost of sales": "N/A",
+        "Enterprise cost management": 1652,
+        "Total Operating Expenses": 1656,
+        "Total revenue financing activities": 154,
+        "Net profit from business activities": 40,
+        "Profit": "N/A",
+        "Profit before tax": 40,
+        "Present corporate income tax expenses": 9,
+        "Deferred income taxes expenses": "N/A",
+        "The interests of minority shareholders": "N/A",
+        "Total Cost of profits": 9,
+        "Profit after tax corporate income": 31,
+        "Volume": 4000000,
+        "Close of Quarter": "N/A",
+        "EPS": 8,
+        "Non-adjusted EPS": 8,
+        "PE": "N/A",
+        "Book Price": "N/A"
+      }
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "ticker": "PMJ",
+  "data": [
+    {
+      "quarter": "Q1 2016",
+      "income status": {
+        "Net sales": 20878,
+        "Cost of goods sold": 17353,
+        "Gross Profit": 3526,
+        "Financial expenses": -55,
+        "Of which: Interest expense": "N/A",
+        "Cost of sales": 1522,
+        "Enterprise cost management": 1563,
+        "Total Operating Expenses": 3030,
+        "Total revenue financing activities": 300,
+        "Net profit from business activities": 796,
+        "Profit": 116,
+        "Profit before tax": 912,
+        "Present corporate income tax expenses": 206,
+        "Deferred income taxes expenses": "N/A",
+        "The interests of minority shareholders": "N/A",
+        "Total Cost of profits": 206,
+        "Profit after tax corporate income": 706,
+        "Volume": 1800000,
+        "Close of Quarter": "N/A",
+        "EPS": 489,
+        "Non-adjusted EPS": 489,
+        "PE": "N/A",
+        "Book Price": 24
+      }
+    },
+    {
+      "quarter": "Q1 2015",
+      "income status": {
+        "Net sales": 11253,
+        "Cost of goods sold": 9077,
+        "Gross Profit": 2177,
+        "Financial expenses": "N/A",
+        "Of which: Interest expense": "N/A",
+        "Cost of sales": 880,
+        "Enterprise cost management": 1440,
+        "Total Operating Expenses": 2320,
+        "Total revenue financing activities": 367,
+        "Net profit from business activities": 223,
+        "Profit": "N/A",
+        "Profit before tax": 223,
+        "Present corporate income tax expenses": 49,
+        "Deferred income taxes expenses": "N/A",
+        "The interests of minority shareholders": "N/A",
+        "Total Cost of profits": 49,
+        "Profit after tax corporate income": 174,
+        "Volume": 1800000,
+        "Close of Quarter": "N/A",
+        "EPS": 97,
+        "Non-adjusted EPS": 97,
+        "PE": "N/A",
+        "Book Price": "N/A"
+      }
+    }
+  ]
+}

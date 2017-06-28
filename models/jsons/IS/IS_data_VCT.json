@@ -1,0 +1,33 @@
+{
+  "ticker": "VCT",
+  "data": [
+    {
+      "quarter": "Q1 2010",
+      "income status": {
+        "Net sales": 6175,
+        "Cost of goods sold": "N/A",
+        "Gross Profit": "N/A",
+        "Financial expenses": "N/A",
+        "Of which: Interest expense": "N/A",
+        "Cost of sales": "N/A",
+        "Enterprise cost management": "N/A",
+        "Total Operating Expenses": 0,
+        "Total revenue financing activities": "N/A",
+        "Net profit from business activities": 154,
+        "Profit": 13,
+        "Profit before tax": 167,
+        "Present corporate income tax expenses": 42,
+        "Deferred income taxes expenses": "N/A",
+        "The interests of minority shareholders": "N/A",
+        "Total Cost of profits": 42,
+        "Profit after tax corporate income": 125,
+        "Volume": 1100000,
+        "Close of Quarter": "N/A",
+        "EPS": 114,
+        "Non-adjusted EPS": 114,
+        "PE": "N/A",
+        "Book Price": "N/A"
+      }
+    }
+  ]
+}

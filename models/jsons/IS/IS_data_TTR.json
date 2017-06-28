@@ -1,0 +1,33 @@
+{
+  "ticker": "TTR",
+  "data": [
+    {
+      "quarter": "Q2 2011",
+      "income status": {
+        "Net sales": 6531,
+        "Cost of goods sold": 4699,
+        "Gross Profit": 1832,
+        "Financial expenses": "N/A",
+        "Of which: Interest expense": "N/A",
+        "Cost of sales": 937,
+        "Enterprise cost management": 674,
+        "Total Operating Expenses": 1611,
+        "Total revenue financing activities": 856,
+        "Net profit from business activities": 1077,
+        "Profit": 207,
+        "Profit before tax": 1284,
+        "Present corporate income tax expenses": 321,
+        "Deferred income taxes expenses": "N/A",
+        "The interests of minority shareholders": "N/A",
+        "Total Cost of profits": 321,
+        "Profit after tax corporate income": 963,
+        "Volume": 1993393,
+        "Close of Quarter": 9.4,
+        "EPS": 483,
+        "Non-adjusted EPS": 483,
+        "PE": 19.4,
+        "Book Price": 11.2
+      }
+    }
+  ]
+}

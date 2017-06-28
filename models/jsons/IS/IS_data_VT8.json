@@ -1,0 +1,33 @@
+{
+  "ticker": "VT8",
+  "data": [
+    {
+      "quarter": "Q3 2015",
+      "income status": {
+        "Net sales": 31906,
+        "Cost of goods sold": 31983,
+        "Gross Profit": -78,
+        "Financial expenses": 431,
+        "Of which: Interest expense": 431,
+        "Cost of sales": 693,
+        "Enterprise cost management": 1081,
+        "Total Operating Expenses": 2205,
+        "Total revenue financing activities": 25,
+        "Net profit from business activities": -2257,
+        "Profit": "N/A",
+        "Profit before tax": -2257,
+        "Present corporate income tax expenses": -409,
+        "Deferred income taxes expenses": "N/A",
+        "The interests of minority shareholders": "N/A",
+        "Total Cost of profits": -409,
+        "Profit after tax corporate income": -1848,
+        "Volume": 2724945,
+        "Close of Quarter": 23.1,
+        "EPS": -678,
+        "Non-adjusted EPS": -678,
+        "PE": -34.1,
+        "Book Price": 10.8
+      }
+    }
+  ]
+}

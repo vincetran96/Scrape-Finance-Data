@@ -1,0 +1,61 @@
+{
+  "ticker": "MKT",
+  "data": [
+    {
+      "quarter": "Q2 2015",
+      "income status": {
+        "Net sales": 33382,
+        "Cost of goods sold": 26167,
+        "Gross Profit": 7215,
+        "Financial expenses": 15,
+        "Of which: Interest expense": "N/A",
+        "Cost of sales": 317,
+        "Enterprise cost management": 6942,
+        "Total Operating Expenses": 7274,
+        "Total revenue financing activities": 115,
+        "Net profit from business activities": 57,
+        "Profit": 1,
+        "Profit before tax": 58,
+        "Present corporate income tax expenses": 13,
+        "Deferred income taxes expenses": "N/A",
+        "The interests of minority shareholders": "N/A",
+        "Total Cost of profits": 13,
+        "Profit after tax corporate income": 45,
+        "Volume": 3200000,
+        "Close of Quarter": "N/A",
+        "EPS": 16,
+        "Non-adjusted EPS": 16,
+        "PE": "N/A",
+        "Book Price": 10
+      }
+    },
+    {
+      "quarter": "Q1 2015",
+      "income status": {
+        "Net sales": 28334,
+        "Cost of goods sold": 21882,
+        "Gross Profit": 6452,
+        "Financial expenses": 338,
+        "Of which: Interest expense": "N/A",
+        "Cost of sales": 231,
+        "Enterprise cost management": 5881,
+        "Total Operating Expenses": 6450,
+        "Total revenue financing activities": 1,
+        "Net profit from business activities": 2,
+        "Profit": 5,
+        "Profit before tax": 6,
+        "Present corporate income tax expenses": 1,
+        "Deferred income taxes expenses": "N/A",
+        "The interests of minority shareholders": "N/A",
+        "Total Cost of profits": 1,
+        "Profit after tax corporate income": 5,
+        "Volume": 3200000,
+        "Close of Quarter": "N/A",
+        "EPS": 2,
+        "Non-adjusted EPS": 2,
+        "PE": "N/A",
+        "Book Price": 9.9
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "ticker": "ICI",
+  "data": [
+    {
+      "quarter": "Q1 2010",
+      "income status": {
+        "Net sales": 23120,
+        "Cost of goods sold": 21855,
+        "Gross Profit": 1265,
+        "Financial expenses": 467,
+        "Of which: Interest expense": "N/A",
+        "Cost of sales": "N/A",
+        "Enterprise cost management": 1416,
+        "Total Operating Expenses": 1883,
+        "Total revenue financing activities": 1883,
+        "Net profit from business activities": 1265,
+        "Profit": -23219,
+        "Profit before tax": -21954,
+        "Present corporate income tax expenses": "N/A",
+        "Deferred income taxes expenses": "N/A",
+        "The interests of minority shareholders": "N/A",
+        "Total Cost of profits": 0,
+        "Profit after tax corporate income": -21954,
+        "Volume": 3000000,
+        "Close of Quarter": "N/A",
+        "EPS": -7318,
+        "Non-adjusted EPS": -7318,
+        "PE": "N/A",
+        "Book Price": "N/A"
+      }
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "ticker": "I10",
+  "data": [
+    {
+      "quarter": "Q3 2014",
+      "income status": {
+        "Net sales": 16499,
+        "Cost of goods sold": 16385,
+        "Gross Profit": 114,
+        "Financial expenses": "N/A",
+        "Of which: Interest expense": "N/A",
+        "Cost of sales": 25,
+        "Enterprise cost management": 265,
+        "Total Operating Expenses": 290,
+        "Total revenue financing activities": 1,
+        "Net profit from business activities": -175,
+        "Profit": 189,
+        "Profit before tax": 14,
+        "Present corporate income tax expenses": "N/A",
+        "Deferred income taxes expenses": "N/A",
+        "The interests of minority shareholders": "N/A",
+        "Total Cost of profits": 0,
+        "Profit after tax corporate income": 14,
+        "Volume": 3500000,
+        "Close of Quarter": "N/A",
+        "EPS": 6,
+        "Non-adjusted EPS": 6,
+        "PE": "N/A",
+        "Book Price": 0.8
+      }
+    },
+    {
+      "quarter": "Q3 2013",
+      "income status": {
+        "Net sales": 11143,
+        "Cost of goods sold": 10923,
+        "Gross Profit": 220,
+        "Financial expenses": "N/A",
+        "Of which: Interest expense": "N/A",
+        "Cost of sales": 26,
+        "Enterprise cost management": 187,
+        "Total Operating Expenses": 213,
+        "Total revenue financing activities": 1,
+        "Net profit from business activities": 8,
+        "Profit": "N/A",
+        "Profit before tax": 8,
+        "Present corporate income tax expenses": "N/A",
+        "Deferred income taxes expenses": "N/A",
+        "The interests of minority shareholders": "N/A",
+        "Total Cost of profits": 0,
+        "Profit after tax corporate income": 8,
+        "Volume": 3500000,
+        "Close of Quarter": "N/A",
+        "EPS": 2,
+        "Non-adjusted EPS": 2,
+        "PE": "N/A",
+        "Book Price": "N/A"
+      }
+    }
+  ]
+}

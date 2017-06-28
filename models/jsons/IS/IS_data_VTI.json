@@ -1,0 +1,33 @@
+{
+  "ticker": "VTI",
+  "data": [
+    {
+      "quarter": "Q1 2011",
+      "income status": {
+        "Net sales": 381575,
+        "Cost of goods sold": 370853,
+        "Gross Profit": 10722,
+        "Financial expenses": 14647,
+        "Of which: Interest expense": "N/A",
+        "Cost of sales": 3356,
+        "Enterprise cost management": 2112,
+        "Total Operating Expenses": 20115,
+        "Total revenue financing activities": 11322,
+        "Net profit from business activities": 1929,
+        "Profit": "N/A",
+        "Profit before tax": "N/A",
+        "Present corporate income tax expenses": "N/A",
+        "Deferred income taxes expenses": "N/A",
+        "The interests of minority shareholders": "N/A",
+        "Total Cost of profits": 0,
+        "Profit after tax corporate income": 0,
+        "Volume": 3500000,
+        "Close of Quarter": 11.1,
+        "EPS": "N/A",
+        "Non-adjusted EPS": " ",
+        "PE": "N/A",
+        "Book Price": "N/A"
+      }
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "ticker": "BCP",
+  "data": [
+    {
+      "quarter": "Q1 2012",
+      "income status": {
+        "Net sales": 34119,
+        "Cost of goods sold": 27119,
+        "Gross Profit": 7000,
+        "Financial expenses": 1064,
+        "Of which: Interest expense": 1064,
+        "Cost of sales": 1137,
+        "Enterprise cost management": 2094,
+        "Total Operating Expenses": 4295,
+        "Total revenue financing activities": 31,
+        "Net profit from business activities": 2736,
+        "Profit": 41,
+        "Profit before tax": 2777,
+        "Present corporate income tax expenses": 1402,
+        "Deferred income taxes expenses": "N/A",
+        "The interests of minority shareholders": "N/A",
+        "Total Cost of profits": 1402,
+        "Profit after tax corporate income": 1375,
+        "Volume": "N/A",
+        "Close of Quarter": "N/A",
+        "EPS": "N/A",
+        "Non-adjusted EPS": " ",
+        "PE": "N/A",
+        "Book Price": "N/A"
+      }
+    },
+    {
+      "quarter": "Q1 2011",
+      "income status": {
+        "Net sales": 13388,
+        "Cost of goods sold": 10050,
+        "Gross Profit": 3338,
+        "Financial expenses": 854,
+        "Of which: Interest expense": 848,
+        "Cost of sales": 997,
+        "Enterprise cost management": 1269,
+        "Total Operating Expenses": 3120,
+        "Total revenue financing activities": 12,
+        "Net profit from business activities": 229,
+        "Profit": 127,
+        "Profit before tax": 357,
+        "Present corporate income tax expenses": 45,
+        "Deferred income taxes expenses": "N/A",
+        "The interests of minority shareholders": "N/A",
+        "Total Cost of profits": 45,
+        "Profit after tax corporate income": 312,
+        "Volume": "N/A",
+        "Close of Quarter": "N/A",
+        "EPS": "",
+        "Non-adjusted EPS": "N/A",
+        "PE": "N/A",
+        "Book Price": "N/A"
+      }
+    }
+  ]
+}

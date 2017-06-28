@@ -1,0 +1,33 @@
+{
+  "ticker": "XMD",
+  "data": [
+    {
+      "quarter": "Q3 2015",
+      "income status": {
+        "Net sales": 53058,
+        "Cost of goods sold": 48013,
+        "Gross Profit": 5045,
+        "Financial expenses": 1020,
+        "Of which: Interest expense": 988,
+        "Cost of sales": 1365,
+        "Enterprise cost management": 1788,
+        "Total Operating Expenses": 4173,
+        "Total revenue financing activities": 373,
+        "Net profit from business activities": 1245,
+        "Profit": 7,
+        "Profit before tax": 1252,
+        "Present corporate income tax expenses": "N/A",
+        "Deferred income taxes expenses": "N/A",
+        "The interests of minority shareholders": "N/A",
+        "Total Cost of profits": 0,
+        "Profit after tax corporate income": 1252,
+        "Volume": 4000000,
+        "Close of Quarter": "N/A",
+        "EPS": 313,
+        "Non-adjusted EPS": 313,
+        "PE": "N/A",
+        "Book Price": 12.2
+      }
+    }
+  ]
+}

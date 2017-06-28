@@ -1,0 +1,33 @@
+{
+  "ticker": "DNL",
+  "data": [
+    {
+      "quarter": "Q1 2011",
+      "income status": {
+        "Net sales": 4882,
+        "Cost of goods sold": 2651,
+        "Gross Profit": 2231,
+        "Financial expenses": 171,
+        "Of which: Interest expense": 171,
+        "Cost of sales": 1284,
+        "Enterprise cost management": 844,
+        "Total Operating Expenses": 2299,
+        "Total revenue financing activities": 90,
+        "Net profit from business activities": 22,
+        "Profit": 1,
+        "Profit before tax": 23,
+        "Present corporate income tax expenses": 6,
+        "Deferred income taxes expenses": "N/A",
+        "The interests of minority shareholders": "N/A",
+        "Total Cost of profits": 6,
+        "Profit after tax corporate income": 17,
+        "Volume": 3000000,
+        "Close of Quarter": "N/A",
+        "EPS": 6,
+        "Non-adjusted EPS": 6,
+        "PE": "N/A",
+        "Book Price": 10.3
+      }
+    }
+  ]
+}

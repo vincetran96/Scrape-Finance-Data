@@ -1,0 +1,61 @@
+{
+  "ticker": "IME",
+  "data": [
+    {
+      "quarter": "Q2 2007",
+      "income status": {
+        "Net sales": 20144,
+        "Cost of goods sold": 17520,
+        "Gross Profit": 2623,
+        "Financial expenses": 261,
+        "Of which: Interest expense": 261,
+        "Cost of sales": "N/A",
+        "Enterprise cost management": 1532,
+        "Total Operating Expenses": 1793,
+        "Total revenue financing activities": 59,
+        "Net profit from business activities": 889,
+        "Profit": 93,
+        "Profit before tax": 983,
+        "Present corporate income tax expenses": "N/A",
+        "Deferred income taxes expenses": "N/A",
+        "The interests of minority shareholders": "N/A",
+        "Total Cost of profits": 0,
+        "Profit after tax corporate income": 983,
+        "Volume": 3000000,
+        "Close of Quarter": "N/A",
+        "EPS": 290,
+        "Non-adjusted EPS": 290,
+        "PE": "N/A",
+        "Book Price": "N/A"
+      }
+    },
+    {
+      "quarter": "Q2 2006",
+      "income status": {
+        "Net sales": 6641,
+        "Cost of goods sold": 5392,
+        "Gross Profit": 1250,
+        "Financial expenses": 310,
+        "Of which: Interest expense": 310,
+        "Cost of sales": 4,
+        "Enterprise cost management": 1096,
+        "Total Operating Expenses": 1410,
+        "Total revenue financing activities": 47,
+        "Net profit from business activities": -114,
+        "Profit": "N/A",
+        "Profit before tax": -114,
+        "Present corporate income tax expenses": "N/A",
+        "Deferred income taxes expenses": "N/A",
+        "The interests of minority shareholders": "N/A",
+        "Total Cost of profits": 0,
+        "Profit after tax corporate income": -114,
+        "Volume": 3000000,
+        "Close of Quarter": "N/A",
+        "EPS": -38,
+        "Non-adjusted EPS": -38,
+        "PE": "N/A",
+        "Book Price": "N/A"
+      }
+    }
+  ]
+}

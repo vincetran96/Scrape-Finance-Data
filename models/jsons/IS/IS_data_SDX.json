@@ -1,0 +1,33 @@
+{
+  "ticker": "SDX",
+  "data": [
+    {
+      "quarter": "Q1 2015",
+      "income status": {
+        "Net sales": 148,
+        "Cost of goods sold": 78,
+        "Gross Profit": 71,
+        "Financial expenses": 109,
+        "Of which: Interest expense": 109,
+        "Cost of sales": "N/A",
+        "Enterprise cost management": 936,
+        "Total Operating Expenses": 1045,
+        "Total revenue financing activities": -7,
+        "Net profit from business activities": -981,
+        "Profit": "N/A",
+        "Profit before tax": -981,
+        "Present corporate income tax expenses": "N/A",
+        "Deferred income taxes expenses": "N/A",
+        "The interests of minority shareholders": "N/A",
+        "Total Cost of profits": 0,
+        "Profit after tax corporate income": -981,
+        "Volume": 2250000,
+        "Close of Quarter": "N/A",
+        "EPS": -436,
+        "Non-adjusted EPS": -436,
+        "PE": "N/A",
+        "Book Price": 9.7
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "ticker": "SHV",
+  "data": [
+    {
+      "quarter": "Q1 2010",
+      "income status": {
+        "Net sales": 180570,
+        "Cost of goods sold": "N/A",
+        "Gross Profit": "N/A",
+        "Financial expenses": "N/A",
+        "Of which: Interest expense": "N/A",
+        "Cost of sales": "N/A",
+        "Enterprise cost management": "N/A",
+        "Total Operating Expenses": 0,
+        "Total revenue financing activities": "N/A",
+        "Net profit from business activities": "N/A",
+        "Profit": "N/A",
+        "Profit before tax": "N/A",
+        "Present corporate income tax expenses": 1013,
+        "Deferred income taxes expenses": "N/A",
+        "The interests of minority shareholders": "N/A",
+        "Total Cost of profits": 1013,
+        "Profit after tax corporate income": 0,
+        "Volume": 6263720,
+        "Close of Quarter": "N/A",
+        "EPS": "N/A",
+        "Non-adjusted EPS": " ",
+        "PE": "N/A",
+        "Book Price": 0.5
+      }
+    }
+  ]
+}

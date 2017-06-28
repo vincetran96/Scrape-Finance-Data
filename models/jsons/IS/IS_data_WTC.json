@@ -1,0 +1,33 @@
+{
+  "ticker": "WTC",
+  "data": [
+    {
+      "quarter": "Q1 2010",
+      "income status": {
+        "Net sales": 115265,
+        "Cost of goods sold": 109759,
+        "Gross Profit": 5507,
+        "Financial expenses": 821,
+        "Of which: Interest expense": "N/A",
+        "Cost of sales": 121,
+        "Enterprise cost management": 2182,
+        "Total Operating Expenses": 3124,
+        "Total revenue financing activities": 612,
+        "Net profit from business activities": 2993,
+        "Profit": -83,
+        "Profit before tax": 2911,
+        "Present corporate income tax expenses": "N/A",
+        "Deferred income taxes expenses": "N/A",
+        "The interests of minority shareholders": "N/A",
+        "Total Cost of profits": 0,
+        "Profit after tax corporate income": 2481,
+        "Volume": 10000000,
+        "Close of Quarter": "N/A",
+        "EPS": 248,
+        "Non-adjusted EPS": 248,
+        "PE": "N/A",
+        "Book Price": "N/A"
+      }
+    }
+  ]
+}
