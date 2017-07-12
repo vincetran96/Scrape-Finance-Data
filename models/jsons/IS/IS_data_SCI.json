@@ -2,34 +2,6 @@
   "ticker": "SCI",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 92160,
-        "Cost of goods sold": 80210,
-        "Gross Profit": 11950,
-        "Financial expenses": 4455,
-        "Of which: Interest expense": 4414,
-        "Cost of sales": "N/A",
-        "Enterprise cost management": 6242,
-        "Total Operating Expenses": 10697,
-        "Total revenue financing activities": 571,
-        "Net profit from business activities": 1823,
-        "Profit": -20,
-        "Profit before tax": 1803,
-        "Present corporate income tax expenses": 365,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 365,
-        "Profit after tax corporate income": 1438,
-        "Volume": 10000000,
-        "Close of Quarter": 6,
-        "EPS": 484,
-        "Non-adjusted EPS": 484,
-        "PE": 12.4,
-        "Book Price": 12.3
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 135648,

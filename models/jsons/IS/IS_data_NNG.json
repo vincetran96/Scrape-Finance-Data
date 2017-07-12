@@ -2,34 +2,6 @@
   "ticker": "NNG",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 379257,
-        "Cost of goods sold": 278976,
-        "Gross Profit": 100282,
-        "Financial expenses": 23887,
-        "Of which: Interest expense": 21014,
-        "Cost of sales": 72487,
-        "Enterprise cost management": 24862,
-        "Total Operating Expenses": 121236,
-        "Total revenue financing activities": 3349,
-        "Net profit from business activities": -17605,
-        "Profit": -12765,
-        "Profit before tax": -30369,
-        "Present corporate income tax expenses": 3095,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": 85,
-        "Total Cost of profits": 3180,
-        "Profit after tax corporate income": -33550,
-        "Volume": 52250000,
-        "Close of Quarter": 9.6,
-        "EPS": -504,
-        "Non-adjusted EPS": -504,
-        "PE": -19.1,
-        "Book Price": 11.4
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 369693,

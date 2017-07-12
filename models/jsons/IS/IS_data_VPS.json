@@ -2,34 +2,6 @@
   "ticker": "VPS",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 142665,
-        "Cost of goods sold": 93584,
-        "Gross Profit": 49081,
-        "Financial expenses": 1968,
-        "Of which: Interest expense": 632,
-        "Cost of sales": 25970,
-        "Enterprise cost management": 13227,
-        "Total Operating Expenses": 41165,
-        "Total revenue financing activities": 268,
-        "Net profit from business activities": 7876,
-        "Profit": -87,
-        "Profit before tax": 7789,
-        "Present corporate income tax expenses": 1619,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": 106,
-        "Total Cost of profits": 1725,
-        "Profit after tax corporate income": 6064,
-        "Volume": 24460792,
-        "Close of Quarter": 19.8,
-        "EPS": 3147,
-        "Non-adjusted EPS": 3147,
-        "PE": 6.3,
-        "Book Price": 14.5
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 266835,

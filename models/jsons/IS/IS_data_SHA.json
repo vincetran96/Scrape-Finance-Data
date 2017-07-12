@@ -2,34 +2,6 @@
   "ticker": "SHA",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 228612,
-        "Cost of goods sold": 201732,
-        "Gross Profit": 26880,
-        "Financial expenses": 3529,
-        "Of which: Interest expense": 3399,
-        "Cost of sales": 10733,
-        "Enterprise cost management": 3848,
-        "Total Operating Expenses": 18110,
-        "Total revenue financing activities": 269,
-        "Net profit from business activities": 9038,
-        "Profit": -90,
-        "Profit before tax": 8948,
-        "Present corporate income tax expenses": 767,
-        "Deferred income taxes expenses": -23,
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 744,
-        "Profit after tax corporate income": 8204,
-        "Volume": 20160000,
-        "Close of Quarter": 9.1,
-        "EPS": 2103,
-        "Non-adjusted EPS": 2103,
-        "PE": 4.3,
-        "Book Price": 13.5
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 197447,

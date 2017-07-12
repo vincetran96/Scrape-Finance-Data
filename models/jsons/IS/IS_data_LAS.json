@@ -2,34 +2,6 @@
   "ticker": "LAS",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 1014083,
-        "Cost of goods sold": 855552,
-        "Gross Profit": 158531,
-        "Financial expenses": 10982,
-        "Of which: Interest expense": 10122,
-        "Cost of sales": 51499,
-        "Enterprise cost management": 42587,
-        "Total Operating Expenses": 105068,
-        "Total revenue financing activities": 173,
-        "Net profit from business activities": 53636,
-        "Profit": 1579,
-        "Profit before tax": 55215,
-        "Present corporate income tax expenses": 11043,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 11043,
-        "Profit after tax corporate income": 44172,
-        "Volume": 112856400,
-        "Close of Quarter": 12.6,
-        "EPS": 1343,
-        "Non-adjusted EPS": 1343,
-        "PE": 9.4,
-        "Book Price": 11.8
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 1277998,
@@ -699,34 +671,6 @@
         "Non-adjusted EPS": 5233,
         "PE": "N/A",
         "Book Price": "N/A"
-      }
-    },
-    {
-      "quarter": "Q4 2010",
-      "income status": {
-        "Net sales": 983709,
-        "Cost of goods sold": 673430,
-        "Gross Profit": 310278,
-        "Financial expenses": 24787,
-        "Of which: Interest expense": 24465,
-        "Cost of sales": 65662,
-        "Enterprise cost management": 6920,
-        "Total Operating Expenses": 97369,
-        "Total revenue financing activities": 2912,
-        "Net profit from business activities": 215821,
-        "Profit": 3748,
-        "Profit before tax": 219569,
-        "Present corporate income tax expenses": 54892,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 54892,
-        "Profit after tax corporate income": 164677,
-        "Volume": 54050000,
-        "Close of Quarter": "N/A",
-        "EPS": 1459.3,
-        "Non-adjusted EPS": 3047,
-        "PE": "N/A",
-        "Book Price": 6.4
       }
     }
   ]

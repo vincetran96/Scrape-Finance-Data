@@ -2,34 +2,6 @@
   "ticker": "ASA",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 24277,
-        "Cost of goods sold": 23651,
-        "Gross Profit": 626,
-        "Financial expenses": 24,
-        "Of which: Interest expense": 21,
-        "Cost of sales": 171,
-        "Enterprise cost management": 195,
-        "Total Operating Expenses": 390,
-        "Total revenue financing activities": "N/A",
-        "Net profit from business activities": 237,
-        "Profit": -179,
-        "Profit before tax": 58,
-        "Present corporate income tax expenses": 12,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 12,
-        "Profit after tax corporate income": 46,
-        "Volume": 10000000,
-        "Close of Quarter": 2.2,
-        "EPS": 77,
-        "Non-adjusted EPS": 77,
-        "PE": 28.6,
-        "Book Price": 10.5
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 29753,

@@ -2,34 +2,6 @@
   "ticker": "VHF",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 192166,
-        "Cost of goods sold": 181827,
-        "Gross Profit": 10339,
-        "Financial expenses": 2019,
-        "Of which: Interest expense": 2018,
-        "Cost of sales": 10605,
-        "Enterprise cost management": 5546,
-        "Total Operating Expenses": 18170,
-        "Total revenue financing activities": 2578,
-        "Net profit from business activities": -5254,
-        "Profit": -2629,
-        "Profit before tax": -7883,
-        "Present corporate income tax expenses": "N/A",
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 0,
-        "Profit after tax corporate income": -7883,
-        "Volume": 21500000,
-        "Close of Quarter": 17.3,
-        "EPS": -422,
-        "Non-adjusted EPS": -422,
-        "PE": -41,
-        "Book Price": 9.9
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 147015,

@@ -2,34 +2,6 @@
   "ticker": "CDO",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 10652,
-        "Cost of goods sold": 8488,
-        "Gross Profit": 2164,
-        "Financial expenses": "N/A",
-        "Of which: Interest expense": "N/A",
-        "Cost of sales": "N/A",
-        "Enterprise cost management": 961,
-        "Total Operating Expenses": 961,
-        "Total revenue financing activities": "N/A",
-        "Net profit from business activities": 1203,
-        "Profit": -1,
-        "Profit before tax": 1202,
-        "Present corporate income tax expenses": 240,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 240,
-        "Profit after tax corporate income": 962,
-        "Volume": 31504975,
-        "Close of Quarter": 4.3,
-        "EPS": 568,
-        "Non-adjusted EPS": 568,
-        "PE": 7.5,
-        "Book Price": 11
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 46580,

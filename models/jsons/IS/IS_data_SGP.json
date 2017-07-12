@@ -2,34 +2,6 @@
   "ticker": "SGP",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 290271,
-        "Cost of goods sold": 193294,
-        "Gross Profit": 96976,
-        "Financial expenses": 20896,
-        "Of which: Interest expense": 2817,
-        "Cost of sales": "N/A",
-        "Enterprise cost management": 34152,
-        "Total Operating Expenses": 55048,
-        "Total revenue financing activities": 1486,
-        "Net profit from business activities": 287427,
-        "Profit": 14781,
-        "Profit before tax": 302208,
-        "Present corporate income tax expenses": 3607,
-        "Deferred income taxes expenses": 8170,
-        "The interests of minority shareholders": 1414,
-        "Total Cost of profits": 13191,
-        "Profit after tax corporate income": 289017,
-        "Volume": 216294961,
-        "Close of Quarter": 8,
-        "EPS": 1490,
-        "Non-adjusted EPS": 1490,
-        "PE": 5.4,
-        "Book Price": 7.8
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 431822,

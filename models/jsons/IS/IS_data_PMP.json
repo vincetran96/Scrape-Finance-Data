@@ -2,34 +2,6 @@
   "ticker": "PMP",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 92539,
-        "Cost of goods sold": 81842,
-        "Gross Profit": 10697,
-        "Financial expenses": 956,
-        "Of which: Interest expense": 841,
-        "Cost of sales": 1400,
-        "Enterprise cost management": 5251,
-        "Total Operating Expenses": 7607,
-        "Total revenue financing activities": 138,
-        "Net profit from business activities": 3228,
-        "Profit": 77,
-        "Profit before tax": 3305,
-        "Present corporate income tax expenses": 662,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 662,
-        "Profit after tax corporate income": 2643,
-        "Volume": 4200000,
-        "Close of Quarter": 15.4,
-        "EPS": 2621,
-        "Non-adjusted EPS": 2621,
-        "PE": 5.9,
-        "Book Price": 15.7
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 79156,

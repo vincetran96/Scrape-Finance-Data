@@ -2,34 +2,6 @@
   "ticker": "FIT",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 393128,
-        "Cost of goods sold": 301308,
-        "Gross Profit": 91820,
-        "Financial expenses": 7520,
-        "Of which: Interest expense": 8422,
-        "Cost of sales": 57311,
-        "Enterprise cost management": 32422,
-        "Total Operating Expenses": 97253,
-        "Total revenue financing activities": 33927,
-        "Net profit from business activities": 24076,
-        "Profit": 4304,
-        "Profit before tax": 28380,
-        "Present corporate income tax expenses": 11026,
-        "Deferred income taxes expenses": -743,
-        "The interests of minority shareholders": 776,
-        "Total Cost of profits": 11059,
-        "Profit after tax corporate income": 17320,
-        "Volume": 254730247,
-        "Close of Quarter": 4.9,
-        "EPS": 392,
-        "Non-adjusted EPS": 392,
-        "PE": 12.5,
-        "Book Price": 15.3
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 576047,

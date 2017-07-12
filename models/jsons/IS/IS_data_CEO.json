@@ -2,34 +2,6 @@
   "ticker": "CEO",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 345408,
-        "Cost of goods sold": 193755,
-        "Gross Profit": 151653,
-        "Financial expenses": 33858,
-        "Of which: Interest expense": 33857,
-        "Cost of sales": 17909,
-        "Enterprise cost management": 40772,
-        "Total Operating Expenses": 92539,
-        "Total revenue financing activities": 7992,
-        "Net profit from business activities": 67107,
-        "Profit": 1858,
-        "Profit before tax": 68965,
-        "Present corporate income tax expenses": 14077,
-        "Deferred income taxes expenses": -431,
-        "The interests of minority shareholders": 19351,
-        "Total Cost of profits": 32997,
-        "Profit after tax corporate income": 35969,
-        "Volume": 102935994,
-        "Close of Quarter": 11.4,
-        "EPS": 1688,
-        "Non-adjusted EPS": 1688,
-        "PE": 6.7,
-        "Book Price": 13.9
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 474394,

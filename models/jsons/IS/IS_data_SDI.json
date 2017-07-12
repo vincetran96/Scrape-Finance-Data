@@ -2,34 +2,6 @@
   "ticker": "SDI",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 1120640,
-        "Cost of goods sold": 580667,
-        "Gross Profit": 539973,
-        "Financial expenses": "N/A",
-        "Of which: Interest expense": "N/A",
-        "Cost of sales": 89203,
-        "Enterprise cost management": 20829,
-        "Total Operating Expenses": 110032,
-        "Total revenue financing activities": 51330,
-        "Net profit from business activities": 481271,
-        "Profit": 4266,
-        "Profit before tax": 485537,
-        "Present corporate income tax expenses": 91882,
-        "Deferred income taxes expenses": 997,
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 92879,
-        "Profit after tax corporate income": 392658,
-        "Volume": 287989920,
-        "Close of Quarter": 59.1,
-        "EPS": 2636,
-        "Non-adjusted EPS": 2636,
-        "PE": 22.4,
-        "Book Price": 12.1
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 1350634,

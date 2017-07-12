@@ -2,34 +2,6 @@
   "ticker": "PTE",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 59088,
-        "Cost of goods sold": 53576,
-        "Gross Profit": 5512,
-        "Financial expenses": 6321,
-        "Of which: Interest expense": 5615,
-        "Cost of sales": 1112,
-        "Enterprise cost management": 2330,
-        "Total Operating Expenses": 9763,
-        "Total revenue financing activities": 9,
-        "Net profit from business activities": -4242,
-        "Profit": 32,
-        "Profit before tax": -4210,
-        "Present corporate income tax expenses": "N/A",
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 0,
-        "Profit after tax corporate income": -4210,
-        "Volume": 12500000,
-        "Close of Quarter": 2.6,
-        "EPS": -203,
-        "Non-adjusted EPS": -203,
-        "PE": -12.8,
-        "Book Price": -0.1
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 85556,

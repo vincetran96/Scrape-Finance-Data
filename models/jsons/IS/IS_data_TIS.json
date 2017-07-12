@@ -2,34 +2,6 @@
   "ticker": "TIS",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 2010409,
-        "Cost of goods sold": 1838848,
-        "Gross Profit": 171561,
-        "Financial expenses": 67225,
-        "Of which: Interest expense": 67225,
-        "Cost of sales": 15136,
-        "Enterprise cost management": 51195,
-        "Total Operating Expenses": 133556,
-        "Total revenue financing activities": 22916,
-        "Net profit from business activities": 60920,
-        "Profit": 1220,
-        "Profit before tax": 62140,
-        "Present corporate income tax expenses": 10000,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": 627,
-        "Total Cost of profits": 10627,
-        "Profit after tax corporate income": 51513,
-        "Volume": 284000000,
-        "Close of Quarter": 10.6,
-        "EPS": 737,
-        "Non-adjusted EPS": 737,
-        "PE": 14.4,
-        "Book Price": 10
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 2480272,

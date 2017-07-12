@@ -2,34 +2,6 @@
   "ticker": "TBD",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 702866,
-        "Cost of goods sold": 595931,
-        "Gross Profit": 106935,
-        "Financial expenses": 15218,
-        "Of which: Interest expense": 14497,
-        "Cost of sales": 12394,
-        "Enterprise cost management": 43199,
-        "Total Operating Expenses": 70811,
-        "Total revenue financing activities": 57,
-        "Net profit from business activities": 36182,
-        "Profit": 2407,
-        "Profit before tax": 38588,
-        "Present corporate income tax expenses": 7598,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 7598,
-        "Profit after tax corporate income": 30990,
-        "Volume": 15767767,
-        "Close of Quarter": 48,
-        "EPS": 4653,
-        "Non-adjusted EPS": 4653,
-        "PE": 10.3,
-        "Book Price": 25.8
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 632287,
@@ -165,34 +137,6 @@
         "Close of Quarter": "N/A",
         "EPS": 1197.5,
         "Non-adjusted EPS": 1733,
-        "PE": "N/A",
-        "Book Price": "N/A"
-      }
-    },
-    {
-      "quarter": "Q2 2008",
-      "income status": {
-        "Net sales": 188262,
-        "Cost of goods sold": 160610,
-        "Gross Profit": 27652,
-        "Financial expenses": 5683,
-        "Of which: Interest expense": 5585,
-        "Cost of sales": 10312,
-        "Enterprise cost management": 10131,
-        "Total Operating Expenses": 26126,
-        "Total revenue financing activities": 298,
-        "Net profit from business activities": 1824,
-        "Profit": "N/A",
-        "Profit before tax": 1824,
-        "Present corporate income tax expenses": 479,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 479,
-        "Profit after tax corporate income": 1345,
-        "Volume": 10895706,
-        "Close of Quarter": "N/A",
-        "EPS": 85.0,
-        "Non-adjusted EPS": 123,
         "PE": "N/A",
         "Book Price": "N/A"
       }

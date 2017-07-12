@@ -2,34 +2,6 @@
   "ticker": "KVC",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 137138,
-        "Cost of goods sold": 120703,
-        "Gross Profit": 16434,
-        "Financial expenses": 5716,
-        "Of which: Interest expense": 5613,
-        "Cost of sales": 1373,
-        "Enterprise cost management": 4406,
-        "Total Operating Expenses": 11495,
-        "Total revenue financing activities": 549,
-        "Net profit from business activities": 5487,
-        "Profit": -19,
-        "Profit before tax": 5468,
-        "Present corporate income tax expenses": 1097,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 1097,
-        "Profit after tax corporate income": 4371,
-        "Volume": 49500000,
-        "Close of Quarter": 2.5,
-        "EPS": 379,
-        "Non-adjusted EPS": 379,
-        "PE": 6.6,
-        "Book Price": 10.6
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 147730,

@@ -2,34 +2,6 @@
   "ticker": "CTX",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 4949,
-        "Cost of goods sold": 3853,
-        "Gross Profit": 1096,
-        "Financial expenses": 3545,
-        "Of which: Interest expense": "N/A",
-        "Cost of sales": "N/A",
-        "Enterprise cost management": 2371,
-        "Total Operating Expenses": 5916,
-        "Total revenue financing activities": 5225,
-        "Net profit from business activities": 405,
-        "Profit": 65,
-        "Profit before tax": 471,
-        "Present corporate income tax expenses": 416,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": -6,
-        "Total Cost of profits": 410,
-        "Profit after tax corporate income": 61,
-        "Volume": 26353800,
-        "Close of Quarter": 18,
-        "EPS": 322,
-        "Non-adjusted EPS": 322,
-        "PE": 55.9,
-        "Book Price": 21.7
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 270163,

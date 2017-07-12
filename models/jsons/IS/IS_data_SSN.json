@@ -2,34 +2,6 @@
   "ticker": "SSN",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 7096,
-        "Cost of goods sold": 1495,
-        "Gross Profit": 5601,
-        "Financial expenses": 9,
-        "Of which: Interest expense": 9,
-        "Cost of sales": "N/A",
-        "Enterprise cost management": 2789,
-        "Total Operating Expenses": 2798,
-        "Total revenue financing activities": 13927,
-        "Net profit from business activities": 16730,
-        "Profit": -114,
-        "Profit before tax": 16616,
-        "Present corporate income tax expenses": 3301,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 3301,
-        "Profit after tax corporate income": 13315,
-        "Volume": 39600000,
-        "Close of Quarter": 20,
-        "EPS": 458,
-        "Non-adjusted EPS": 458,
-        "PE": 43.7,
-        "Book Price": 11.9
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 2386,
@@ -109,62 +81,6 @@
         "Close of Quarter": "N/A",
         "EPS": 55.5,
         "Non-adjusted EPS": 229,
-        "PE": "N/A",
-        "Book Price": "N/A"
-      }
-    },
-    {
-      "quarter": "Q2 2009",
-      "income status": {
-        "Net sales": 197657,
-        "Cost of goods sold": 183289,
-        "Gross Profit": 14368,
-        "Financial expenses": 9108,
-        "Of which: Interest expense": 1997,
-        "Cost of sales": 322,
-        "Enterprise cost management": 4715,
-        "Total Operating Expenses": 14145,
-        "Total revenue financing activities": 1174,
-        "Net profit from business activities": 1397,
-        "Profit": -12,
-        "Profit before tax": 1385,
-        "Present corporate income tax expenses": 242,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 242,
-        "Profit after tax corporate income": 1142,
-        "Volume": 9600000,
-        "Close of Quarter": "N/A",
-        "EPS": 48,
-        "Non-adjusted EPS": 198,
-        "PE": "N/A",
-        "Book Price": "N/A"
-      }
-    },
-    {
-      "quarter": "Q1 2009",
-      "income status": {
-        "Net sales": 112408,
-        "Cost of goods sold": 103225,
-        "Gross Profit": 9183,
-        "Financial expenses": 6473,
-        "Of which: Interest expense": 1290,
-        "Cost of sales": 410,
-        "Enterprise cost management": 3297,
-        "Total Operating Expenses": 10180,
-        "Total revenue financing activities": 1924,
-        "Net profit from business activities": 927,
-        "Profit": -7,
-        "Profit before tax": 920,
-        "Present corporate income tax expenses": 161,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 161,
-        "Profit after tax corporate income": 759,
-        "Volume": 9600000,
-        "Close of Quarter": "N/A",
-        "EPS": 19.2,
-        "Non-adjusted EPS": 79,
         "PE": "N/A",
         "Book Price": "N/A"
       }

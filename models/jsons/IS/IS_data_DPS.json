@@ -2,34 +2,6 @@
   "ticker": "DPS",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 209798,
-        "Cost of goods sold": 203586,
-        "Gross Profit": 6212,
-        "Financial expenses": 4233,
-        "Of which: Interest expense": 4233,
-        "Cost of sales": 935,
-        "Enterprise cost management": 684,
-        "Total Operating Expenses": 5852,
-        "Total revenue financing activities": 2033,
-        "Net profit from business activities": 2393,
-        "Profit": -25,
-        "Profit before tax": 2368,
-        "Present corporate income tax expenses": 474,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 474,
-        "Profit after tax corporate income": 1895,
-        "Volume": 30475948,
-        "Close of Quarter": 2.6,
-        "EPS": 265,
-        "Non-adjusted EPS": 265,
-        "PE": 9.8,
-        "Book Price": 10.8
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 323159,

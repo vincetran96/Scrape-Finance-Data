@@ -2,34 +2,6 @@
   "ticker": "CTT",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 226820,
-        "Cost of goods sold": 201310,
-        "Gross Profit": 25510,
-        "Financial expenses": 5125,
-        "Of which: Interest expense": 5125,
-        "Cost of sales": 1799,
-        "Enterprise cost management": 16542,
-        "Total Operating Expenses": 23466,
-        "Total revenue financing activities": 5,
-        "Net profit from business activities": 2048,
-        "Profit": 45,
-        "Profit before tax": 2093,
-        "Present corporate income tax expenses": 419,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 419,
-        "Profit after tax corporate income": 1674,
-        "Volume": 4697351,
-        "Close of Quarter": 8.1,
-        "EPS": 1241,
-        "Non-adjusted EPS": 1241,
-        "PE": 6.5,
-        "Book Price": 13.1
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 287514,

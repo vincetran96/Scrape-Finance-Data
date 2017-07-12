@@ -2,34 +2,6 @@
   "ticker": "PCE",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 479014,
-        "Cost of goods sold": 454164,
-        "Gross Profit": 24850,
-        "Financial expenses": 35,
-        "Of which: Interest expense": "N/A",
-        "Cost of sales": 8613,
-        "Enterprise cost management": 8503,
-        "Total Operating Expenses": 17151,
-        "Total revenue financing activities": 546,
-        "Net profit from business activities": 8245,
-        "Profit": "N/A",
-        "Profit before tax": 8245,
-        "Present corporate income tax expenses": 1649,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 1649,
-        "Profit after tax corporate income": 6596,
-        "Volume": 10000000,
-        "Close of Quarter": 14.9,
-        "EPS": 2682,
-        "Non-adjusted EPS": 2682,
-        "PE": 5.6,
-        "Book Price": 16
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 340903,

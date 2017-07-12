@@ -2,34 +2,6 @@
   "ticker": "VTH",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 78059,
-        "Cost of goods sold": 75172,
-        "Gross Profit": 2887,
-        "Financial expenses": 70,
-        "Of which: Interest expense": 70,
-        "Cost of sales": 107,
-        "Enterprise cost management": 1791,
-        "Total Operating Expenses": 1968,
-        "Total revenue financing activities": 4,
-        "Net profit from business activities": 922,
-        "Profit": "N/A",
-        "Profit before tax": 922,
-        "Present corporate income tax expenses": 184,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 184,
-        "Profit after tax corporate income": 738,
-        "Volume": 5000000,
-        "Close of Quarter": 10.6,
-        "EPS": 1028,
-        "Non-adjusted EPS": 1028,
-        "PE": 10.3,
-        "Book Price": 16.9
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 79025,

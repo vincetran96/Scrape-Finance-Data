@@ -2,34 +2,6 @@
   "ticker": "PVB",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 47013,
-        "Cost of goods sold": 51827,
-        "Gross Profit": -4814,
-        "Financial expenses": "N/A",
-        "Of which: Interest expense": "N/A",
-        "Cost of sales": "N/A",
-        "Enterprise cost management": 5998,
-        "Total Operating Expenses": 5998,
-        "Total revenue financing activities": 1993,
-        "Net profit from business activities": -8819,
-        "Profit": 3215,
-        "Profit before tax": -5604,
-        "Present corporate income tax expenses": "N/A",
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 0,
-        "Profit after tax corporate income": -5604,
-        "Volume": 21599998,
-        "Close of Quarter": 10,
-        "EPS": -1908,
-        "Non-adjusted EPS": -1908,
-        "PE": -5.2,
-        "Book Price": 15.8
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 2330,

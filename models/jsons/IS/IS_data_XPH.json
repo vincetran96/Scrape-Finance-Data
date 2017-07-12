@@ -2,34 +2,6 @@
   "ticker": "XPH",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 8702,
-        "Cost of goods sold": 7029,
-        "Gross Profit": 1674,
-        "Financial expenses": 2,
-        "Of which: Interest expense": "N/A",
-        "Cost of sales": 718,
-        "Enterprise cost management": 1976,
-        "Total Operating Expenses": 2696,
-        "Total revenue financing activities": 368,
-        "Net profit from business activities": -654,
-        "Profit": -303,
-        "Profit before tax": -958,
-        "Present corporate income tax expenses": "N/A",
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 0,
-        "Profit after tax corporate income": -958,
-        "Volume": 12972475,
-        "Close of Quarter": 7.5,
-        "EPS": 60,
-        "Non-adjusted EPS": 60,
-        "PE": 125,
-        "Book Price": 16.1
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 18653,

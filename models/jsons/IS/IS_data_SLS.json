@@ -2,34 +2,6 @@
   "ticker": "SLS",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 298056,
-        "Cost of goods sold": 192862,
-        "Gross Profit": 105194,
-        "Financial expenses": 4725,
-        "Of which: Interest expense": 4725,
-        "Cost of sales": 1448,
-        "Enterprise cost management": 7530,
-        "Total Operating Expenses": 13703,
-        "Total revenue financing activities": 1819,
-        "Net profit from business activities": 93310,
-        "Profit": 63,
-        "Profit before tax": 93373,
-        "Present corporate income tax expenses": 217,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 217,
-        "Profit after tax corporate income": 93156,
-        "Volume": 8159983,
-        "Close of Quarter": 130.2,
-        "EPS": 22365,
-        "Non-adjusted EPS": 22365,
-        "PE": 5.8,
-        "Book Price": 46.8
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 39653,

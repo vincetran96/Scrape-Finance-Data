@@ -2,34 +2,6 @@
   "ticker": "HPD",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 10281,
-        "Cost of goods sold": 4350,
-        "Gross Profit": 5930,
-        "Financial expenses": 2012,
-        "Of which: Interest expense": 2012,
-        "Cost of sales": "N/A",
-        "Enterprise cost management": 718,
-        "Total Operating Expenses": 2730,
-        "Total revenue financing activities": 190,
-        "Net profit from business activities": 3391,
-        "Profit": -11,
-        "Profit before tax": 3379,
-        "Present corporate income tax expenses": "N/A",
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 0,
-        "Profit after tax corporate income": 3379,
-        "Volume": 8306590,
-        "Close of Quarter": 13.5,
-        "EPS": 1260,
-        "Non-adjusted EPS": 1260,
-        "PE": 10.7,
-        "Book Price": 13.2
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 18692,

@@ -2,34 +2,6 @@
   "ticker": "DGL",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 752991,
-        "Cost of goods sold": 697817,
-        "Gross Profit": 55174,
-        "Financial expenses": 2444,
-        "Of which: Interest expense": 1300,
-        "Cost of sales": 26312,
-        "Enterprise cost management": 3686,
-        "Total Operating Expenses": 32442,
-        "Total revenue financing activities": 5868,
-        "Net profit from business activities": 28601,
-        "Profit": -63,
-        "Profit before tax": 28538,
-        "Present corporate income tax expenses": 1060,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 1060,
-        "Profit after tax corporate income": 27478,
-        "Volume": 46399888,
-        "Close of Quarter": 36.8,
-        "EPS": 2896,
-        "Non-adjusted EPS": 2896,
-        "PE": 12.7,
-        "Book Price": 18.2
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 661708,

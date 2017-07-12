@@ -2,34 +2,6 @@
   "ticker": "SGO",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 7251,
-        "Cost of goods sold": 6815,
-        "Gross Profit": 437,
-        "Financial expenses": "N/A",
-        "Of which: Interest expense": "N/A",
-        "Cost of sales": 298,
-        "Enterprise cost management": 303,
-        "Total Operating Expenses": 601,
-        "Total revenue financing activities": "N/A",
-        "Net profit from business activities": -164,
-        "Profit": "N/A",
-        "Profit before tax": -164,
-        "Present corporate income tax expenses": "N/A",
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 0,
-        "Profit after tax corporate income": -164,
-        "Volume": 20000000,
-        "Close of Quarter": 1.4,
-        "EPS": 106,
-        "Non-adjusted EPS": 106,
-        "PE": 13.2,
-        "Book Price": 11.4
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 84000,

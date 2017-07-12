@@ -616,34 +616,6 @@
         "PE": "N/A",
         "Book Price": 4.4
       }
-    },
-    {
-      "quarter": "Q1 2010",
-      "income status": {
-        "Net sales": 25222,
-        "Cost of goods sold": 18557,
-        "Gross Profit": 6664,
-        "Financial expenses": "N/A",
-        "Of which: Interest expense": "N/A",
-        "Cost of sales": "N/A",
-        "Enterprise cost management": 345,
-        "Total Operating Expenses": 345,
-        "Total revenue financing activities": 698,
-        "Net profit from business activities": 7017,
-        "Profit": "N/A",
-        "Profit before tax": 7017,
-        "Present corporate income tax expenses": 1754,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 1754,
-        "Profit after tax corporate income": 5263,
-        "Volume": 16800000,
-        "Close of Quarter": "N/A",
-        "EPS": 114.9,
-        "Non-adjusted EPS": 313,
-        "PE": "N/A",
-        "Book Price": "N/A"
-      }
     }
   ]
 }

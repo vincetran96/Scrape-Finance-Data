@@ -2,34 +2,6 @@
   "ticker": "CAV",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 1339992,
-        "Cost of goods sold": 1197015,
-        "Gross Profit": 142976,
-        "Financial expenses": 12405,
-        "Of which: Interest expense": 6558,
-        "Cost of sales": 12682,
-        "Enterprise cost management": 29884,
-        "Total Operating Expenses": 54971,
-        "Total revenue financing activities": 1827,
-        "Net profit from business activities": 89832,
-        "Profit": 414,
-        "Profit before tax": 90246,
-        "Present corporate income tax expenses": 17391,
-        "Deferred income taxes expenses": 471,
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 17862,
-        "Profit after tax corporate income": 72385,
-        "Volume": 57600000,
-        "Close of Quarter": 60.5,
-        "EPS": 4574,
-        "Non-adjusted EPS": 4574,
-        "PE": 13.2,
-        "Book Price": 24.1
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 1433890,

@@ -2,34 +2,6 @@
   "ticker": "LDG",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 136942,
-        "Cost of goods sold": 45227,
-        "Gross Profit": 91715,
-        "Financial expenses": 30,
-        "Of which: Interest expense": 30,
-        "Cost of sales": 5303,
-        "Enterprise cost management": 16152,
-        "Total Operating Expenses": 21485,
-        "Total revenue financing activities": 55,
-        "Net profit from business activities": 70285,
-        "Profit": -104,
-        "Profit before tax": 70181,
-        "Present corporate income tax expenses": 14822,
-        "Deferred income taxes expenses": -25,
-        "The interests of minority shareholders": 279,
-        "Total Cost of profits": 15076,
-        "Profit after tax corporate income": 55106,
-        "Volume": 88499755,
-        "Close of Quarter": 9.2,
-        "EPS": 2021,
-        "Non-adjusted EPS": 2021,
-        "PE": 4.5,
-        "Book Price": 14
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 201709,

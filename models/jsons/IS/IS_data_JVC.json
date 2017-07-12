@@ -2,34 +2,6 @@
   "ticker": "JVC",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 124531,
-        "Cost of goods sold": 89570,
-        "Gross Profit": 34961,
-        "Financial expenses": 2649,
-        "Of which: Interest expense": 2620,
-        "Cost of sales": 22629,
-        "Enterprise cost management": 10400,
-        "Total Operating Expenses": 35678,
-        "Total revenue financing activities": 96,
-        "Net profit from business activities": -621,
-        "Profit": 4720,
-        "Profit before tax": 4100,
-        "Present corporate income tax expenses": 53,
-        "Deferred income taxes expenses": 181,
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 234,
-        "Profit after tax corporate income": 3866,
-        "Volume": 112500171,
-        "Close of Quarter": 3.5,
-        "EPS": -371,
-        "Non-adjusted EPS": -371,
-        "PE": -9.4,
-        "Book Price": 4.6
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 124505,
@@ -699,34 +671,6 @@
         "Non-adjusted EPS": 1874,
         "PE": "N/A",
         "Book Price": 2.7
-      }
-    },
-    {
-      "quarter": "Q4 2010",
-      "income status": {
-        "Net sales": 178466,
-        "Cost of goods sold": 112419,
-        "Gross Profit": 66048,
-        "Financial expenses": 6101,
-        "Of which: Interest expense": 3014,
-        "Cost of sales": "N/A",
-        "Enterprise cost management": 11368,
-        "Total Operating Expenses": 17469,
-        "Total revenue financing activities": 410,
-        "Net profit from business activities": 48989,
-        "Profit": 1234,
-        "Profit before tax": 50223,
-        "Present corporate income tax expenses": 12561,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 12561,
-        "Profit after tax corporate income": 37663,
-        "Volume": 24200000,
-        "Close of Quarter": "N/A",
-        "EPS": 334.7,
-        "Non-adjusted EPS": 1556,
-        "PE": "N/A",
-        "Book Price": 2.6
       }
     }
   ]

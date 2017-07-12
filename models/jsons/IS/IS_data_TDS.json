@@ -2,34 +2,6 @@
   "ticker": "TDS",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 433579,
-        "Cost of goods sold": 396509,
-        "Gross Profit": 37070,
-        "Financial expenses": 920,
-        "Of which: Interest expense": 877,
-        "Cost of sales": 3346,
-        "Enterprise cost management": 13477,
-        "Total Operating Expenses": 17743,
-        "Total revenue financing activities": 888,
-        "Net profit from business activities": 20214,
-        "Profit": "N/A",
-        "Profit before tax": 20214,
-        "Present corporate income tax expenses": 4043,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 4043,
-        "Profit after tax corporate income": 16171,
-        "Volume": 12225393,
-        "Close of Quarter": 11.9,
-        "EPS": 3692,
-        "Non-adjusted EPS": 3692,
-        "PE": 3.2,
-        "Book Price": 19
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 469175,

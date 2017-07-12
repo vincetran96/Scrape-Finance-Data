@@ -2,34 +2,6 @@
   "ticker": "THS",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 77015,
-        "Cost of goods sold": 74200,
-        "Gross Profit": 2815,
-        "Financial expenses": 213,
-        "Of which: Interest expense": 213,
-        "Cost of sales": 2061,
-        "Enterprise cost management": 904,
-        "Total Operating Expenses": 3178,
-        "Total revenue financing activities": 71,
-        "Net profit from business activities": -292,
-        "Profit": 505,
-        "Profit before tax": 213,
-        "Present corporate income tax expenses": 43,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 43,
-        "Profit after tax corporate income": 170,
-        "Volume": 3000000,
-        "Close of Quarter": 6.9,
-        "EPS": 1730,
-        "Non-adjusted EPS": 1730,
-        "PE": 4.0,
-        "Book Price": 11.3
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 49908,

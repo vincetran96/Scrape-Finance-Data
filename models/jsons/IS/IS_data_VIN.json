@@ -2,34 +2,6 @@
   "ticker": "VIN",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 51579,
-        "Cost of goods sold": 45181,
-        "Gross Profit": 6398,
-        "Financial expenses": 124,
-        "Of which: Interest expense": "N/A",
-        "Cost of sales": "N/A",
-        "Enterprise cost management": 2687,
-        "Total Operating Expenses": 2811,
-        "Total revenue financing activities": 3341,
-        "Net profit from business activities": 11442,
-        "Profit": 86,
-        "Profit before tax": 11528,
-        "Present corporate income tax expenses": 1410,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": 1,
-        "Total Cost of profits": 1411,
-        "Profit after tax corporate income": 10116,
-        "Volume": 25500000,
-        "Close of Quarter": 14.2,
-        "EPS": 1611,
-        "Non-adjusted EPS": 1611,
-        "PE": 8.8,
-        "Book Price": 15
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 66474,

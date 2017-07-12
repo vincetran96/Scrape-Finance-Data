@@ -2,34 +2,6 @@
   "ticker": "SKG",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 89695,
-        "Cost of goods sold": 34799,
-        "Gross Profit": 54896,
-        "Financial expenses": "N/A",
-        "Of which: Interest expense": "N/A",
-        "Cost of sales": 8367,
-        "Enterprise cost management": 2052,
-        "Total Operating Expenses": 10419,
-        "Total revenue financing activities": 1413,
-        "Net profit from business activities": 45890,
-        "Profit": 266,
-        "Profit before tax": 46156,
-        "Present corporate income tax expenses": 1925,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 1925,
-        "Profit after tax corporate income": 44230,
-        "Volume": 34271242,
-        "Close of Quarter": 52.0,
-        "EPS": 5927,
-        "Non-adjusted EPS": 5927,
-        "PE": 8.8,
-        "Book Price": 21.8
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 68528,

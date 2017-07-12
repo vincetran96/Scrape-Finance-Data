@@ -2,34 +2,6 @@
   "ticker": "VSA",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 193232,
-        "Cost of goods sold": 171097,
-        "Gross Profit": 22135,
-        "Financial expenses": 470,
-        "Of which: Interest expense": "N/A",
-        "Cost of sales": "N/A",
-        "Enterprise cost management": 20310,
-        "Total Operating Expenses": 20780,
-        "Total revenue financing activities": 2347,
-        "Net profit from business activities": 3891,
-        "Profit": 11,
-        "Profit before tax": 3902,
-        "Present corporate income tax expenses": 714,
-        "Deferred income taxes expenses": -93,
-        "The interests of minority shareholders": -139,
-        "Total Cost of profits": 482,
-        "Profit after tax corporate income": 3420,
-        "Volume": 11650000,
-        "Close of Quarter": 25,
-        "EPS": 3855,
-        "Non-adjusted EPS": 3855,
-        "PE": 6.5,
-        "Book Price": 30.4
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 282720,

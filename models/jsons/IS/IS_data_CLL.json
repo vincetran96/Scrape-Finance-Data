@@ -2,34 +2,6 @@
   "ticker": "CLL",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 67561,
-        "Cost of goods sold": 40519,
-        "Gross Profit": 27042,
-        "Financial expenses": 1443,
-        "Of which: Interest expense": 1441,
-        "Cost of sales": "N/A",
-        "Enterprise cost management": 3496,
-        "Total Operating Expenses": 4939,
-        "Total revenue financing activities": 1760,
-        "Net profit from business activities": 23862,
-        "Profit": 146,
-        "Profit before tax": 24008,
-        "Present corporate income tax expenses": 4802,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 4802,
-        "Profit after tax corporate income": 19207,
-        "Volume": 34000000,
-        "Close of Quarter": 26.4,
-        "EPS": 2291,
-        "Non-adjusted EPS": 2291,
-        "PE": 11.5,
-        "Book Price": 17.5
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 70066,

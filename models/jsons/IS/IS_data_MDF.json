@@ -2,34 +2,6 @@
   "ticker": "MDF",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 230038,
-        "Cost of goods sold": 180106,
-        "Gross Profit": 49932,
-        "Financial expenses": 17689,
-        "Of which: Interest expense": 17488,
-        "Cost of sales": 29865,
-        "Enterprise cost management": 2682,
-        "Total Operating Expenses": 50236,
-        "Total revenue financing activities": 314,
-        "Net profit from business activities": 10,
-        "Profit": "N/A",
-        "Profit before tax": 10,
-        "Present corporate income tax expenses": "N/A",
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 0,
-        "Profit after tax corporate income": 10,
-        "Volume": 55113595,
-        "Close of Quarter": 11,
-        "EPS": 271,
-        "Non-adjusted EPS": 271,
-        "PE": 40.6,
-        "Book Price": 11.9
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 231229,

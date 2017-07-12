@@ -2,34 +2,6 @@
   "ticker": "SVN",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": "N/A",
-        "Cost of goods sold": "N/A",
-        "Gross Profit": "N/A",
-        "Financial expenses": 16,
-        "Of which: Interest expense": "N/A",
-        "Cost of sales": "N/A",
-        "Enterprise cost management": 405,
-        "Total Operating Expenses": 421,
-        "Total revenue financing activities": 116,
-        "Net profit from business activities": -305,
-        "Profit": "N/A",
-        "Profit before tax": -305,
-        "Present corporate income tax expenses": "N/A",
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 0,
-        "Profit after tax corporate income": -305,
-        "Volume": 21000000,
-        "Close of Quarter": 2.9,
-        "EPS": 33,
-        "Non-adjusted EPS": 33,
-        "PE": 87.9,
-        "Book Price": 10.7
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": -7004,
@@ -669,62 +641,6 @@
         "Close of Quarter": "N/A",
         "EPS": 362,
         "Non-adjusted EPS": 74.7,
-        "PE": "N/A",
-        "Book Price": "N/A"
-      }
-    },
-    {
-      "quarter": "Q4 2010",
-      "income status": {
-        "Net sales": 16335,
-        "Cost of goods sold": 14946,
-        "Gross Profit": 1389,
-        "Financial expenses": 109,
-        "Of which: Interest expense": "N/A",
-        "Cost of sales": "N/A",
-        "Enterprise cost management": 244,
-        "Total Operating Expenses": 353,
-        "Total revenue financing activities": "N/A",
-        "Net profit from business activities": 1037,
-        "Profit": -67,
-        "Profit before tax": 969,
-        "Present corporate income tax expenses": 259,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 259,
-        "Profit after tax corporate income": 710,
-        "Volume": 3000000,
-        "Close of Quarter": "N/A",
-        "EPS": 523,
-        "Non-adjusted EPS": 68.9,
-        "PE": "N/A",
-        "Book Price": 1.5
-      }
-    },
-    {
-      "quarter": "Q3 2010",
-      "income status": {
-        "Net sales": 1287,
-        "Cost of goods sold": 942,
-        "Gross Profit": 345,
-        "Financial expenses": 98,
-        "Of which: Interest expense": "N/A",
-        "Cost of sales": "N/A",
-        "Enterprise cost management": 201,
-        "Total Operating Expenses": 299,
-        "Total revenue financing activities": "N/A",
-        "Net profit from business activities": 46,
-        "Profit": 30,
-        "Profit before tax": 76,
-        "Present corporate income tax expenses": 19,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 19,
-        "Profit after tax corporate income": 57,
-        "Volume": 3000000,
-        "Close of Quarter": "N/A",
-        "EPS": 482,
-        "Non-adjusted EPS": 36.6,
         "PE": "N/A",
         "Book Price": "N/A"
       }

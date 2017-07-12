@@ -2,34 +2,6 @@
   "ticker": "VAF",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 419027,
-        "Cost of goods sold": 343311,
-        "Gross Profit": 75716,
-        "Financial expenses": 360,
-        "Of which: Interest expense": "N/A",
-        "Cost of sales": 44394,
-        "Enterprise cost management": 7213,
-        "Total Operating Expenses": 51967,
-        "Total revenue financing activities": 1229,
-        "Net profit from business activities": 24978,
-        "Profit": 95,
-        "Profit before tax": 25073,
-        "Present corporate income tax expenses": 5015,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 5015,
-        "Profit after tax corporate income": 20058,
-        "Volume": 37665348,
-        "Close of Quarter": 13.4,
-        "EPS": 1173,
-        "Non-adjusted EPS": 1173,
-        "PE": 11.4,
-        "Book Price": 12.9
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 27299,

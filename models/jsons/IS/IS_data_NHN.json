@@ -2,34 +2,6 @@
   "ticker": "NHN",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 3377586,
-        "Cost of goods sold": 1946904,
-        "Gross Profit": 1430682,
-        "Financial expenses": 155276,
-        "Of which: Interest expense": 152342,
-        "Cost of sales": 400040,
-        "Enterprise cost management": 138705,
-        "Total Operating Expenses": 694021,
-        "Total revenue financing activities": 99210,
-        "Net profit from business activities": 918190,
-        "Profit": 4442,
-        "Profit before tax": 922632,
-        "Present corporate income tax expenses": 154490,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": 28088,
-        "Total Cost of profits": 182578,
-        "Profit after tax corporate income": 740055,
-        "Volume": 200000000,
-        "Close of Quarter": 30,
-        "EPS": 11536,
-        "Non-adjusted EPS": 11536,
-        "PE": 2.6,
-        "Book Price": 51.6
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 9538928,

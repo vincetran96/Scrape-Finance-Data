@@ -1,33 +1,4 @@
 {
   "ticker": "QPH",
-  "data": [
-    {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 28519,
-        "Cost of goods sold": 10809,
-        "Gross Profit": 17710,
-        "Financial expenses": 2860,
-        "Of which: Interest expense": 2845,
-        "Cost of sales": "N/A",
-        "Enterprise cost management": 404,
-        "Total Operating Expenses": 3264,
-        "Total revenue financing activities": 1,
-        "Net profit from business activities": 14448,
-        "Profit": -202,
-        "Profit before tax": 14246,
-        "Present corporate income tax expenses": 712,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 712,
-        "Profit after tax corporate income": 13534,
-        "Volume": 18583100,
-        "Close of Quarter": 14.4,
-        "EPS": 728,
-        "Non-adjusted EPS": 728,
-        "PE": 19.8,
-        "Book Price": 14.1
-      }
-    }
-  ]
+  "data": []
 }

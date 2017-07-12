@@ -2,34 +2,6 @@
   "ticker": "SGN",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 263974,
-        "Cost of goods sold": 172696,
-        "Gross Profit": 91278,
-        "Financial expenses": 760,
-        "Of which: Interest expense": "N/A",
-        "Cost of sales": "N/A",
-        "Enterprise cost management": 15482,
-        "Total Operating Expenses": 16242,
-        "Total revenue financing activities": 1157,
-        "Net profit from business activities": 76194,
-        "Profit": 39,
-        "Profit before tax": 76233,
-        "Present corporate income tax expenses": 15294,
-        "Deferred income taxes expenses": 398,
-        "The interests of minority shareholders": 7041,
-        "Total Cost of profits": 22733,
-        "Profit after tax corporate income": 53499,
-        "Volume": 20000000,
-        "Close of Quarter": 181,
-        "EPS": 9421,
-        "Non-adjusted EPS": 9421,
-        "PE": 19.2,
-        "Book Price": 17.1
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 244895,

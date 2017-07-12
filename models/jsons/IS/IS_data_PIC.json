@@ -2,34 +2,6 @@
   "ticker": "PIC",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 26699,
-        "Cost of goods sold": 6946,
-        "Gross Profit": 19753,
-        "Financial expenses": 513,
-        "Of which: Interest expense": 511,
-        "Cost of sales": "N/A",
-        "Enterprise cost management": 628,
-        "Total Operating Expenses": 1141,
-        "Total revenue financing activities": 313,
-        "Net profit from business activities": 18925,
-        "Profit": "N/A",
-        "Profit before tax": 18925,
-        "Present corporate income tax expenses": 955,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 955,
-        "Profit after tax corporate income": 17970,
-        "Volume": 29146707,
-        "Close of Quarter": 12.5,
-        "EPS": 1250,
-        "Non-adjusted EPS": 1250,
-        "PE": 10,
-        "Book Price": 11.6
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 26919,

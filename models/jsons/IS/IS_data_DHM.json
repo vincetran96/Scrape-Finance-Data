@@ -2,34 +2,6 @@
   "ticker": "DHM",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 328809,
-        "Cost of goods sold": 319238,
-        "Gross Profit": 9571,
-        "Financial expenses": 1345,
-        "Of which: Interest expense": 1337,
-        "Cost of sales": 942,
-        "Enterprise cost management": 5075,
-        "Total Operating Expenses": 7362,
-        "Total revenue financing activities": 5,
-        "Net profit from business activities": 2214,
-        "Profit": 911,
-        "Profit before tax": 3125,
-        "Present corporate income tax expenses": 630,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 630,
-        "Profit after tax corporate income": 2496,
-        "Volume": 25143123,
-        "Close of Quarter": 5.1,
-        "EPS": 523,
-        "Non-adjusted EPS": 523,
-        "PE": 9.7,
-        "Book Price": 11.6
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 393469,

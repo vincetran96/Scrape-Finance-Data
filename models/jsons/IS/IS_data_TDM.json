@@ -2,34 +2,6 @@
   "ticker": "TDM",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 39385,
-        "Cost of goods sold": 13153,
-        "Gross Profit": 26232,
-        "Financial expenses": 12014,
-        "Of which: Interest expense": 12014,
-        "Cost of sales": 920,
-        "Enterprise cost management": "N/A",
-        "Total Operating Expenses": 12934,
-        "Total revenue financing activities": 264,
-        "Net profit from business activities": 13562,
-        "Profit": "N/A",
-        "Profit before tax": 13562,
-        "Present corporate income tax expenses": "N/A",
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 0,
-        "Profit after tax corporate income": 13562,
-        "Volume": 30000000,
-        "Close of Quarter": 15.6,
-        "EPS": 2111,
-        "Non-adjusted EPS": 2111,
-        "PE": 7.4,
-        "Book Price": 13.9
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 46494,

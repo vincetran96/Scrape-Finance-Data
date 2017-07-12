@@ -2,34 +2,6 @@
   "ticker": "STK",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 447554,
-        "Cost of goods sold": 395849,
-        "Gross Profit": 51704,
-        "Financial expenses": 10123,
-        "Of which: Interest expense": 5305,
-        "Cost of sales": 6623,
-        "Enterprise cost management": 11789,
-        "Total Operating Expenses": 28535,
-        "Total revenue financing activities": 4826,
-        "Net profit from business activities": 27995,
-        "Profit": 92,
-        "Profit before tax": 28088,
-        "Present corporate income tax expenses": 2787,
-        "Deferred income taxes expenses": 266,
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 3053,
-        "Profit after tax corporate income": 25035,
-        "Volume": 53516024,
-        "Close of Quarter": 18.6,
-        "EPS": 884,
-        "Non-adjusted EPS": 884,
-        "PE": 21.0,
-        "Book Price": 13.5
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 392231,

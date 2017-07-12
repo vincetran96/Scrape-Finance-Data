@@ -2,34 +2,6 @@
   "ticker": "FDT",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 108103,
-        "Cost of goods sold": 103423,
-        "Gross Profit": 4680,
-        "Financial expenses": 579,
-        "Of which: Interest expense": 522,
-        "Cost of sales": 214,
-        "Enterprise cost management": 3815,
-        "Total Operating Expenses": 4608,
-        "Total revenue financing activities": 193,
-        "Net profit from business activities": 264,
-        "Profit": -1,
-        "Profit before tax": 263,
-        "Present corporate income tax expenses": "N/A",
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 0,
-        "Profit after tax corporate income": 263,
-        "Volume": 3054500,
-        "Close of Quarter": 35,
-        "EPS": 1312,
-        "Non-adjusted EPS": 1312,
-        "PE": 26.7,
-        "Book Price": 10.7
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 159774,
@@ -699,90 +671,6 @@
         "Non-adjusted EPS": 1977,
         "PE": "N/A",
         "Book Price": 18.1
-      }
-    },
-    {
-      "quarter": "Q3 2010",
-      "income status": {
-        "Net sales": 115556,
-        "Cost of goods sold": 108084,
-        "Gross Profit": 7472,
-        "Financial expenses": 42,
-        "Of which: Interest expense": 14,
-        "Cost of sales": "N/A",
-        "Enterprise cost management": 5553,
-        "Total Operating Expenses": 5595,
-        "Total revenue financing activities": 922,
-        "Net profit from business activities": 2799,
-        "Profit": 363,
-        "Profit before tax": 3162,
-        "Present corporate income tax expenses": 791,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 791,
-        "Profit after tax corporate income": 2372,
-        "Volume": 3054500,
-        "Close of Quarter": "N/A",
-        "EPS": 1641,
-        "Non-adjusted EPS": 1641,
-        "PE": "N/A",
-        "Book Price": "N/A"
-      }
-    },
-    {
-      "quarter": "Q2 2010",
-      "income status": {
-        "Net sales": 73111,
-        "Cost of goods sold": 67787,
-        "Gross Profit": 5324,
-        "Financial expenses": 21,
-        "Of which: Interest expense": 14,
-        "Cost of sales": "N/A",
-        "Enterprise cost management": 5114,
-        "Total Operating Expenses": 5135,
-        "Total revenue financing activities": 830,
-        "Net profit from business activities": 1019,
-        "Profit": 798,
-        "Profit before tax": 1817,
-        "Present corporate income tax expenses": 454,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 454,
-        "Profit after tax corporate income": 1363,
-        "Volume": 3054500,
-        "Close of Quarter": "N/A",
-        "EPS": 865,
-        "Non-adjusted EPS": 865,
-        "PE": "N/A",
-        "Book Price": "N/A"
-      }
-    },
-    {
-      "quarter": "Q1 2010",
-      "income status": {
-        "Net sales": 68493,
-        "Cost of goods sold": 64503,
-        "Gross Profit": 3991,
-        "Financial expenses": 31,
-        "Of which: Interest expense": 14,
-        "Cost of sales": "N/A",
-        "Enterprise cost management": 3979,
-        "Total Operating Expenses": 4010,
-        "Total revenue financing activities": 1138,
-        "Net profit from business activities": 1118,
-        "Profit": 586,
-        "Profit before tax": 1704,
-        "Present corporate income tax expenses": 426,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 426,
-        "Profit after tax corporate income": 1278,
-        "Volume": 3054500,
-        "Close of Quarter": "N/A",
-        "EPS": 418,
-        "Non-adjusted EPS": 418,
-        "PE": "N/A",
-        "Book Price": "N/A"
       }
     }
   ]

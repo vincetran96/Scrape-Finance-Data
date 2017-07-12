@@ -2,34 +2,6 @@
   "ticker": "HIG",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 70267,
-        "Cost of goods sold": 56852,
-        "Gross Profit": 13414,
-        "Financial expenses": 9,
-        "Of which: Interest expense": 7,
-        "Cost of sales": 10164,
-        "Enterprise cost management": 7395,
-        "Total Operating Expenses": 17568,
-        "Total revenue financing activities": 804,
-        "Net profit from business activities": -3350,
-        "Profit": 320,
-        "Profit before tax": -3031,
-        "Present corporate income tax expenses": 22,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 22,
-        "Profit after tax corporate income": -3053,
-        "Volume": 21918232,
-        "Close of Quarter": 4.6,
-        "EPS": -179,
-        "Non-adjusted EPS": -179,
-        "PE": -25.7,
-        "Book Price": 14.9
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 190211,

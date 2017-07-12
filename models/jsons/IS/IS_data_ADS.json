@@ -2,34 +2,6 @@
   "ticker": "ADS",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 253724,
-        "Cost of goods sold": 224205,
-        "Gross Profit": 29519,
-        "Financial expenses": 11588,
-        "Of which: Interest expense": 11166,
-        "Cost of sales": 2220,
-        "Enterprise cost management": 7325,
-        "Total Operating Expenses": 21133,
-        "Total revenue financing activities": 6548,
-        "Net profit from business activities": 14933,
-        "Profit": -1,
-        "Profit before tax": 14933,
-        "Present corporate income tax expenses": 1265,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 1265,
-        "Profit after tax corporate income": 13668,
-        "Volume": 16873481,
-        "Close of Quarter": 20.3,
-        "EPS": 2856,
-        "Non-adjusted EPS": 2856,
-        "PE": 7.1,
-        "Book Price": 16.1
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 308752,

@@ -2,34 +2,6 @@
   "ticker": "SVG",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 61945,
-        "Cost of goods sold": 52408,
-        "Gross Profit": 9536,
-        "Financial expenses": 3112,
-        "Of which: Interest expense": 3112,
-        "Cost of sales": 4111,
-        "Enterprise cost management": 1771,
-        "Total Operating Expenses": 8994,
-        "Total revenue financing activities": 7,
-        "Net profit from business activities": 549,
-        "Profit": 17,
-        "Profit before tax": 566,
-        "Present corporate income tax expenses": 113,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 113,
-        "Profit after tax corporate income": 453,
-        "Volume": 29350000,
-        "Close of Quarter": 6.9,
-        "EPS": 98,
-        "Non-adjusted EPS": 98,
-        "PE": 70.8,
-        "Book Price": 10.1
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 69740,

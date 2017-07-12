@@ -2,34 +2,6 @@
   "ticker": "SII",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 29151,
-        "Cost of goods sold": 25119,
-        "Gross Profit": 4032,
-        "Financial expenses": 30015,
-        "Of which: Interest expense": 29390,
-        "Cost of sales": 13239,
-        "Enterprise cost management": 11645,
-        "Total Operating Expenses": 54899,
-        "Total revenue financing activities": 6836,
-        "Net profit from business activities": -40876,
-        "Profit": 29619,
-        "Profit before tax": -11257,
-        "Present corporate income tax expenses": 51,
-        "Deferred income taxes expenses": -43,
-        "The interests of minority shareholders": -1740,
-        "Total Cost of profits": -1732,
-        "Profit after tax corporate income": -9525,
-        "Volume": 58370000,
-        "Close of Quarter": 26.9,
-        "EPS": 403,
-        "Non-adjusted EPS": 403,
-        "PE": 66.8,
-        "Book Price": 23.2
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 146704,

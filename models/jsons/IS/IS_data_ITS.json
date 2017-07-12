@@ -2,34 +2,6 @@
   "ticker": "ITS",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 84233,
-        "Cost of goods sold": 79857,
-        "Gross Profit": 4376,
-        "Financial expenses": 5484,
-        "Of which: Interest expense": 5484,
-        "Cost of sales": 2428,
-        "Enterprise cost management": 5451,
-        "Total Operating Expenses": 13363,
-        "Total revenue financing activities": 202,
-        "Net profit from business activities": -8786,
-        "Profit": 93,
-        "Profit before tax": -8693,
-        "Present corporate income tax expenses": 135,
-        "Deferred income taxes expenses": -284,
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": -149,
-        "Profit after tax corporate income": -8545,
-        "Volume": 12599900,
-        "Close of Quarter": 4.5,
-        "EPS": -152,
-        "Non-adjusted EPS": -152,
-        "PE": -29.6,
-        "Book Price": 10.4
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 614760,

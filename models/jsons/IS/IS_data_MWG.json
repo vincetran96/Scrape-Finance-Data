@@ -2,34 +2,6 @@
   "ticker": "MWG",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 15586037,
-        "Cost of goods sold": 12934074,
-        "Gross Profit": 2651963,
-        "Financial expenses": 65471,
-        "Of which: Interest expense": 65387,
-        "Cost of sales": 1585644,
-        "Enterprise cost management": 344580,
-        "Total Operating Expenses": 1995695,
-        "Total revenue financing activities": 47239,
-        "Net profit from business activities": 703506,
-        "Profit": 2103,
-        "Profit before tax": 705609,
-        "Present corporate income tax expenses": 151462,
-        "Deferred income taxes expenses": -3977,
-        "The interests of minority shareholders": 310,
-        "Total Cost of profits": 147795,
-        "Profit after tax corporate income": 557814,
-        "Volume": 153950927,
-        "Close of Quarter": 83.5,
-        "EPS": 11155,
-        "Non-adjusted EPS": 11155,
-        "PE": 7.5,
-        "Book Price": 28.6
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 13837427,

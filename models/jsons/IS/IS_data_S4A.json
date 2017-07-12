@@ -2,34 +2,6 @@
   "ticker": "S4A",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 46821,
-        "Cost of goods sold": 18844,
-        "Gross Profit": 27977,
-        "Financial expenses": 12184,
-        "Of which: Interest expense": 12184,
-        "Cost of sales": "N/A",
-        "Enterprise cost management": 1804,
-        "Total Operating Expenses": 13988,
-        "Total revenue financing activities": 1456,
-        "Net profit from business activities": 15445,
-        "Profit": "N/A",
-        "Profit before tax": 15445,
-        "Present corporate income tax expenses": 772,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 772,
-        "Profit after tax corporate income": 14672,
-        "Volume": 42200000,
-        "Close of Quarter": 18.3,
-        "EPS": 2075,
-        "Non-adjusted EPS": 2075,
-        "PE": 8.8,
-        "Book Price": 10.7
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 98498,

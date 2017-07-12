@@ -2,34 +2,6 @@
   "ticker": "LCM",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 3213,
-        "Cost of goods sold": 3203,
-        "Gross Profit": 10,
-        "Financial expenses": 1,
-        "Of which: Interest expense": "N/A",
-        "Cost of sales": "N/A",
-        "Enterprise cost management": 388,
-        "Total Operating Expenses": 389,
-        "Total revenue financing activities": "N/A",
-        "Net profit from business activities": -379,
-        "Profit": "N/A",
-        "Profit before tax": -379,
-        "Present corporate income tax expenses": "N/A",
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": -5,
-        "Total Cost of profits": -5,
-        "Profit after tax corporate income": -374,
-        "Volume": 24633000,
-        "Close of Quarter": 1.3,
-        "EPS": -74,
-        "Non-adjusted EPS": -74,
-        "PE": -17.7,
-        "Book Price": 9
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": "N/A",

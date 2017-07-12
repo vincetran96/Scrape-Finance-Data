@@ -2,34 +2,6 @@
   "ticker": "NOS",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 23727,
-        "Cost of goods sold": 37097,
-        "Gross Profit": -13371,
-        "Financial expenses": 35287,
-        "Of which: Interest expense": 35298,
-        "Cost of sales": "N/A",
-        "Enterprise cost management": 3993,
-        "Total Operating Expenses": 39280,
-        "Total revenue financing activities": "N/A",
-        "Net profit from business activities": -52650,
-        "Profit": -4460,
-        "Profit before tax": -57110,
-        "Present corporate income tax expenses": "N/A",
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 0,
-        "Profit after tax corporate income": -57110,
-        "Volume": 20056000,
-        "Close of Quarter": 0.4,
-        "EPS": -14816,
-        "Non-adjusted EPS": -14816,
-        "PE": -0.0,
-        "Book Price": -159.4
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 23593,

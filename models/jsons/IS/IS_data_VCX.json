@@ -2,34 +2,6 @@
   "ticker": "VCX",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 112595,
-        "Cost of goods sold": 111195,
-        "Gross Profit": 1400,
-        "Financial expenses": 14003,
-        "Of which: Interest expense": 14003,
-        "Cost of sales": 2,
-        "Enterprise cost management": 3046,
-        "Total Operating Expenses": 17051,
-        "Total revenue financing activities": 1,
-        "Net profit from business activities": -15651,
-        "Profit": 68,
-        "Profit before tax": -15584,
-        "Present corporate income tax expenses": "N/A",
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 0,
-        "Profit after tax corporate income": -15584,
-        "Volume": 26530000,
-        "Close of Quarter": 2.4,
-        "EPS": 1118,
-        "Non-adjusted EPS": 1118,
-        "PE": 2.2,
-        "Book Price": 4
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 188461,

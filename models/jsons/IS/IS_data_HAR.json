@@ -2,34 +2,6 @@
   "ticker": "HAR",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 3673,
-        "Cost of goods sold": 3427,
-        "Gross Profit": 245,
-        "Financial expenses": 3283,
-        "Of which: Interest expense": 3283,
-        "Cost of sales": "N/A",
-        "Enterprise cost management": 1349,
-        "Total Operating Expenses": 4632,
-        "Total revenue financing activities": 716,
-        "Net profit from business activities": -3670,
-        "Profit": -574,
-        "Profit before tax": -4243,
-        "Present corporate income tax expenses": "N/A",
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 0,
-        "Profit after tax corporate income": -4243,
-        "Volume": 96776535,
-        "Close of Quarter": 3.6,
-        "EPS": 109,
-        "Non-adjusted EPS": 109,
-        "PE": 32.7,
-        "Book Price": 10.4
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 3185,

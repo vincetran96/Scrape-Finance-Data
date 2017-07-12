@@ -2,34 +2,6 @@
   "ticker": "PSE",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 442127,
-        "Cost of goods sold": 422269,
-        "Gross Profit": 19858,
-        "Financial expenses": 9,
-        "Of which: Interest expense": "N/A",
-        "Cost of sales": 7678,
-        "Enterprise cost management": 7292,
-        "Total Operating Expenses": 14979,
-        "Total revenue financing activities": 780,
-        "Net profit from business activities": 5659,
-        "Profit": -1,
-        "Profit before tax": 5659,
-        "Present corporate income tax expenses": 1128,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": 1133,
-        "Total Cost of profits": 2261,
-        "Profit after tax corporate income": 3397,
-        "Volume": 12500000,
-        "Close of Quarter": 10.9,
-        "EPS": 1635,
-        "Non-adjusted EPS": 1635,
-        "PE": 6.7,
-        "Book Price": 13.1
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 409077,

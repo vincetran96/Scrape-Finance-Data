@@ -2,34 +2,6 @@
   "ticker": "VPA",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 30440,
-        "Cost of goods sold": 25767,
-        "Gross Profit": 4673,
-        "Financial expenses": 3568,
-        "Of which: Interest expense": 3544,
-        "Cost of sales": "N/A",
-        "Enterprise cost management": 1165,
-        "Total Operating Expenses": 4733,
-        "Total revenue financing activities": 113,
-        "Net profit from business activities": 52,
-        "Profit": "N/A",
-        "Profit before tax": 52,
-        "Present corporate income tax expenses": 5,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 5,
-        "Profit after tax corporate income": 47,
-        "Volume": 15076177,
-        "Close of Quarter": 4,
-        "EPS": 1032,
-        "Non-adjusted EPS": 1032,
-        "PE": 3.9,
-        "Book Price": 10.2
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 33259,

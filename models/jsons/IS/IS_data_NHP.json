@@ -2,34 +2,6 @@
   "ticker": "NHP",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 38947,
-        "Cost of goods sold": 33602,
-        "Gross Profit": 5345,
-        "Financial expenses": 2036,
-        "Of which: Interest expense": 2025,
-        "Cost of sales": 143,
-        "Enterprise cost management": 884,
-        "Total Operating Expenses": 3063,
-        "Total revenue financing activities": "N/A",
-        "Net profit from business activities": 2282,
-        "Profit": -124,
-        "Profit before tax": 2158,
-        "Present corporate income tax expenses": 456,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 456,
-        "Profit after tax corporate income": 1702,
-        "Volume": 27576490,
-        "Close of Quarter": 3.8,
-        "EPS": 240,
-        "Non-adjusted EPS": 240,
-        "PE": 15.8,
-        "Book Price": 10.4
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 64804,

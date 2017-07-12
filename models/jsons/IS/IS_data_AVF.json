@@ -2,34 +2,6 @@
   "ticker": "AVF",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 30581,
-        "Cost of goods sold": 27560,
-        "Gross Profit": 3022,
-        "Financial expenses": 18259,
-        "Of which: Interest expense": 18259,
-        "Cost of sales": 46,
-        "Enterprise cost management": 3632,
-        "Total Operating Expenses": 21937,
-        "Total revenue financing activities": "N/A",
-        "Net profit from business activities": -18915,
-        "Profit": -424,
-        "Profit before tax": -19339,
-        "Present corporate income tax expenses": "N/A",
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 0,
-        "Profit after tax corporate income": -19339,
-        "Volume": 43338000,
-        "Close of Quarter": 0.3,
-        "EPS": -11787,
-        "Non-adjusted EPS": -11787,
-        "PE": -0.0,
-        "Book Price": -36.9
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 41960,
@@ -671,90 +643,6 @@
         "Non-adjusted EPS": 4212,
         "PE": 2.9,
         "Book Price": 8.7
-      }
-    },
-    {
-      "quarter": "Q4 2010",
-      "income status": {
-        "Net sales": 557650,
-        "Cost of goods sold": 448756,
-        "Gross Profit": 108894,
-        "Financial expenses": 43739,
-        "Of which: Interest expense": 18286,
-        "Cost of sales": 35242,
-        "Enterprise cost management": 7458,
-        "Total Operating Expenses": 86439,
-        "Total revenue financing activities": 4141,
-        "Net profit from business activities": 26596,
-        "Profit": -23,
-        "Profit before tax": 26573,
-        "Present corporate income tax expenses": 2080,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 2080,
-        "Profit after tax corporate income": 24493,
-        "Volume": 22500000,
-        "Close of Quarter": 16.3,
-        "EPS": 1708.6,
-        "Non-adjusted EPS": 3291,
-        "PE": 4.9,
-        "Book Price": 8.7
-      }
-    },
-    {
-      "quarter": "Q3 2010",
-      "income status": {
-        "Net sales": 402081,
-        "Cost of goods sold": 323845,
-        "Gross Profit": 78236,
-        "Financial expenses": 19718,
-        "Of which: Interest expense": 11983,
-        "Cost of sales": 33573,
-        "Enterprise cost management": 6420,
-        "Total Operating Expenses": 59711,
-        "Total revenue financing activities": 9417,
-        "Net profit from business activities": 27941,
-        "Profit": -51,
-        "Profit before tax": 27890,
-        "Present corporate income tax expenses": 1882,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 1882,
-        "Profit after tax corporate income": 26007,
-        "Volume": 22500000,
-        "Close of Quarter": "N/A",
-        "EPS": 1143.2,
-        "Non-adjusted EPS": 2202,
-        "PE": "N/A",
-        "Book Price": 8.2
-      }
-    },
-    {
-      "quarter": "Q2 2010",
-      "income status": {
-        "Net sales": 313363,
-        "Cost of goods sold": "N/A",
-        "Gross Profit": 66331,
-        "Financial expenses": "N/A",
-        "Of which: Interest expense": "N/A",
-        "Cost of sales": "N/A",
-        "Enterprise cost management": "N/A",
-        "Total Operating Expenses": 0,
-        "Total revenue financing activities": "N/A",
-        "Net profit from business activities": "N/A",
-        "Profit": "N/A",
-        "Profit before tax": 27146,
-        "Present corporate income tax expenses": "N/A",
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": 1802,
-        "Total Cost of profits": 1802,
-        "Profit after tax corporate income": 23542,
-        "Volume": 22500000,
-        "Close of Quarter": "N/A",
-        "EPS": 543.1,
-        "Non-adjusted EPS": 1046,
-        "PE": "N/A",
-        "Book Price": 7.5
       }
     }
   ]

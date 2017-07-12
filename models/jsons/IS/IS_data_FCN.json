@@ -2,34 +2,6 @@
   "ticker": "FCN",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 295669,
-        "Cost of goods sold": 246889,
-        "Gross Profit": 48779,
-        "Financial expenses": 15301,
-        "Of which: Interest expense": 14416,
-        "Cost of sales": 2381,
-        "Enterprise cost management": 24417,
-        "Total Operating Expenses": 42099,
-        "Total revenue financing activities": 9608,
-        "Net profit from business activities": 20129,
-        "Profit": -36,
-        "Profit before tax": 20093,
-        "Present corporate income tax expenses": 3536,
-        "Deferred income taxes expenses": 30,
-        "The interests of minority shareholders": -2102,
-        "Total Cost of profits": 1464,
-        "Profit after tax corporate income": 18628,
-        "Volume": 49499422,
-        "Close of Quarter": 18.9,
-        "EPS": 2977,
-        "Non-adjusted EPS": 2977,
-        "PE": 6.4,
-        "Book Price": 26
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 940126,

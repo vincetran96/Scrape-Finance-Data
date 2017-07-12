@@ -2,34 +2,6 @@
   "ticker": "G20",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 89733,
-        "Cost of goods sold": 83909,
-        "Gross Profit": 5824,
-        "Financial expenses": 5274,
-        "Of which: Interest expense": 4779,
-        "Cost of sales": 694,
-        "Enterprise cost management": 1223,
-        "Total Operating Expenses": 7191,
-        "Total revenue financing activities": 269,
-        "Net profit from business activities": -993,
-        "Profit": -1,
-        "Profit before tax": -993,
-        "Present corporate income tax expenses": "N/A",
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 0,
-        "Profit after tax corporate income": -993,
-        "Volume": 28800000,
-        "Close of Quarter": 3.7,
-        "EPS": 327,
-        "Non-adjusted EPS": 327,
-        "PE": 11.3,
-        "Book Price": 5.6
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 96386,

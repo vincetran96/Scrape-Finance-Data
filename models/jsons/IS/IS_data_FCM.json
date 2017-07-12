@@ -2,34 +2,6 @@
   "ticker": "FCM",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 151584,
-        "Cost of goods sold": 112916,
-        "Gross Profit": 38667,
-        "Financial expenses": 4591,
-        "Of which: Interest expense": 4537,
-        "Cost of sales": 22571,
-        "Enterprise cost management": 5495,
-        "Total Operating Expenses": 32657,
-        "Total revenue financing activities": 176,
-        "Net profit from business activities": 6187,
-        "Profit": 101,
-        "Profit before tax": 6288,
-        "Present corporate income tax expenses": 1651,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": -916,
-        "Total Cost of profits": 735,
-        "Profit after tax corporate income": 5553,
-        "Volume": 41000000,
-        "Close of Quarter": 5.0,
-        "EPS": 929,
-        "Non-adjusted EPS": 929,
-        "PE": 5.4,
-        "Book Price": 13.8
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 158969,

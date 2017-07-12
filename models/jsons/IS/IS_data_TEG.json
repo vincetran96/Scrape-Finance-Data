@@ -2,34 +2,6 @@
   "ticker": "TEG",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 29261,
-        "Cost of goods sold": 26752,
-        "Gross Profit": 2509,
-        "Financial expenses": 4,
-        "Of which: Interest expense": 15,
-        "Cost of sales": "N/A",
-        "Enterprise cost management": 1736,
-        "Total Operating Expenses": 1740,
-        "Total revenue financing activities": 5571,
-        "Net profit from business activities": 6340,
-        "Profit": "N/A",
-        "Profit before tax": 6340,
-        "Present corporate income tax expenses": 1268,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 1268,
-        "Profit after tax corporate income": 5072,
-        "Volume": 15000000,
-        "Close of Quarter": 9,
-        "EPS": 2067,
-        "Non-adjusted EPS": 2067,
-        "PE": 4.4,
-        "Book Price": 12.9
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 33782,

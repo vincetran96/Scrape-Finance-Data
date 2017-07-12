@@ -2,34 +2,6 @@
   "ticker": "VRG",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 1760,
-        "Cost of goods sold": 1282,
-        "Gross Profit": 477,
-        "Financial expenses": "N/A",
-        "Of which: Interest expense": "N/A",
-        "Cost of sales": "N/A",
-        "Enterprise cost management": 1029,
-        "Total Operating Expenses": 1029,
-        "Total revenue financing activities": 740,
-        "Net profit from business activities": 188,
-        "Profit": "N/A",
-        "Profit before tax": 188,
-        "Present corporate income tax expenses": "N/A",
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 0,
-        "Profit after tax corporate income": 188,
-        "Volume": 25894868,
-        "Close of Quarter": 4.5,
-        "EPS": -127,
-        "Non-adjusted EPS": -127,
-        "PE": -35.4,
-        "Book Price": 9.8
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 1760,

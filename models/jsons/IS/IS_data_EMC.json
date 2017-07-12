@@ -2,34 +2,6 @@
   "ticker": "EMC",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 63147,
-        "Cost of goods sold": 55225,
-        "Gross Profit": 7922,
-        "Financial expenses": 1777,
-        "Of which: Interest expense": 1777,
-        "Cost of sales": 2104,
-        "Enterprise cost management": 4233,
-        "Total Operating Expenses": 8114,
-        "Total revenue financing activities": 9,
-        "Net profit from business activities": -182,
-        "Profit": 326,
-        "Profit before tax": 144,
-        "Present corporate income tax expenses": 42,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 42,
-        "Profit after tax corporate income": 102,
-        "Volume": 11473000,
-        "Close of Quarter": 15.6,
-        "EPS": 112,
-        "Non-adjusted EPS": 112,
-        "PE": 138.8,
-        "Book Price": 10.5
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 75411,

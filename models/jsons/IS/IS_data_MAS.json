@@ -2,34 +2,6 @@
   "ticker": "MAS",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 87326,
-        "Cost of goods sold": 55916,
-        "Gross Profit": 31410,
-        "Financial expenses": 321,
-        "Of which: Interest expense": 109,
-        "Cost of sales": 1797,
-        "Enterprise cost management": 5884,
-        "Total Operating Expenses": 8002,
-        "Total revenue financing activities": 157,
-        "Net profit from business activities": 23565,
-        "Profit": -27,
-        "Profit before tax": 23538,
-        "Present corporate income tax expenses": 4648,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 4648,
-        "Profit after tax corporate income": 18890,
-        "Volume": 3010080,
-        "Close of Quarter": 97.8,
-        "EPS": 16856,
-        "Non-adjusted EPS": 16856,
-        "PE": 5.8,
-        "Book Price": 23
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 77584,

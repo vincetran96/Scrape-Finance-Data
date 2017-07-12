@@ -2,34 +2,6 @@
   "ticker": "MTM",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": "N/A",
-        "Cost of goods sold": 307,
-        "Gross Profit": -307,
-        "Financial expenses": "N/A",
-        "Of which: Interest expense": "N/A",
-        "Cost of sales": "N/A",
-        "Enterprise cost management": 659,
-        "Total Operating Expenses": 659,
-        "Total revenue financing activities": "N/A",
-        "Net profit from business activities": -967,
-        "Profit": "N/A",
-        "Profit before tax": -967,
-        "Present corporate income tax expenses": "N/A",
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 0,
-        "Profit after tax corporate income": -967,
-        "Volume": 31000000,
-        "Close of Quarter": 2.6,
-        "EPS": -2575,
-        "Non-adjusted EPS": -2575,
-        "PE": -1.0,
-        "Book Price": 4.2
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": "N/A",

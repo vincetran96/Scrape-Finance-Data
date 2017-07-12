@@ -2,34 +2,6 @@
   "ticker": "CLH",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 129001,
-        "Cost of goods sold": 111075,
-        "Gross Profit": 17926,
-        "Financial expenses": 4496,
-        "Of which: Interest expense": 44961,
-        "Cost of sales": 1438,
-        "Enterprise cost management": 4960,
-        "Total Operating Expenses": 10894,
-        "Total revenue financing activities": 158,
-        "Net profit from business activities": 7189,
-        "Profit": -154,
-        "Profit before tax": 7035,
-        "Present corporate income tax expenses": 1418,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 1418,
-        "Profit after tax corporate income": 5617,
-        "Volume": 10000000,
-        "Close of Quarter": 13.0,
-        "EPS": 2662,
-        "Non-adjusted EPS": 2662,
-        "PE": 4.9,
-        "Book Price": 13
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 197413,
@@ -249,34 +221,6 @@
         "Close of Quarter": "N/A",
         "EPS": 1595,
         "Non-adjusted EPS": 1595,
-        "PE": "N/A",
-        "Book Price": "N/A"
-      }
-    },
-    {
-      "quarter": "Q4 2008",
-      "income status": {
-        "Net sales": 108164,
-        "Cost of goods sold": 80331,
-        "Gross Profit": 27833,
-        "Financial expenses": 4975,
-        "Of which: Interest expense": "N/A",
-        "Cost of sales": 11881,
-        "Enterprise cost management": 4144,
-        "Total Operating Expenses": 21000,
-        "Total revenue financing activities": 4084,
-        "Net profit from business activities": 10917,
-        "Profit": 148,
-        "Profit before tax": 11065,
-        "Present corporate income tax expenses": 1781,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 1781,
-        "Profit after tax corporate income": 9284,
-        "Volume": 10000000,
-        "Close of Quarter": "N/A",
-        "EPS": 928,
-        "Non-adjusted EPS": 928,
         "PE": "N/A",
         "Book Price": "N/A"
       }

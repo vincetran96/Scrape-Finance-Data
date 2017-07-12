@@ -2,34 +2,6 @@
   "ticker": "PTD",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 83372,
-        "Cost of goods sold": 75327,
-        "Gross Profit": 8045,
-        "Financial expenses": 440,
-        "Of which: Interest expense": 439,
-        "Cost of sales": 75,
-        "Enterprise cost management": 5420,
-        "Total Operating Expenses": 5935,
-        "Total revenue financing activities": 297,
-        "Net profit from business activities": 2407,
-        "Profit": -16,
-        "Profit before tax": 2390,
-        "Present corporate income tax expenses": 489,
-        "Deferred income taxes expenses": -4,
-        "The interests of minority shareholders": 14,
-        "Total Cost of profits": 499,
-        "Profit after tax corporate income": 1891,
-        "Volume": 3200000,
-        "Close of Quarter": 16.9,
-        "EPS": 3488,
-        "Non-adjusted EPS": 3488,
-        "PE": 4.8,
-        "Book Price": 23.3
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 171462,

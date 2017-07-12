@@ -2,34 +2,6 @@
   "ticker": "VLG",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 881247,
-        "Cost of goods sold": 875451,
-        "Gross Profit": 5796,
-        "Financial expenses": 1321,
-        "Of which: Interest expense": 1296,
-        "Cost of sales": "N/A",
-        "Enterprise cost management": 1098,
-        "Total Operating Expenses": 2419,
-        "Total revenue financing activities": 160,
-        "Net profit from business activities": 3537,
-        "Profit": -554,
-        "Profit before tax": 2983,
-        "Present corporate income tax expenses": 619,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 619,
-        "Profit after tax corporate income": 2364,
-        "Volume": 14212130,
-        "Close of Quarter": 6.5,
-        "EPS": 940,
-        "Non-adjusted EPS": 940,
-        "PE": 6.9,
-        "Book Price": 11.9
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 814975,

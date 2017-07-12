@@ -2,34 +2,6 @@
   "ticker": "TL4",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 35562,
-        "Cost of goods sold": 33860,
-        "Gross Profit": 1702,
-        "Financial expenses": 2672,
-        "Of which: Interest expense": 2672,
-        "Cost of sales": 196,
-        "Enterprise cost management": 4379,
-        "Total Operating Expenses": 7247,
-        "Total revenue financing activities": 1282,
-        "Net profit from business activities": -4263,
-        "Profit": 38,
-        "Profit before tax": -4225,
-        "Present corporate income tax expenses": 184,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": 361,
-        "Total Cost of profits": 545,
-        "Profit after tax corporate income": -4770,
-        "Volume": 16008338,
-        "Close of Quarter": 7.5,
-        "EPS": 850,
-        "Non-adjusted EPS": 850,
-        "PE": 8.8,
-        "Book Price": 23.3
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 122544,

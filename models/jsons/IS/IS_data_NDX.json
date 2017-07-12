@@ -2,34 +2,6 @@
   "ticker": "NDX",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 29264,
-        "Cost of goods sold": 24201,
-        "Gross Profit": 5063,
-        "Financial expenses": -281,
-        "Of which: Interest expense": 621,
-        "Cost of sales": 492,
-        "Enterprise cost management": 681,
-        "Total Operating Expenses": 892,
-        "Total revenue financing activities": 320,
-        "Net profit from business activities": 4492,
-        "Profit": -3,
-        "Profit before tax": 4489,
-        "Present corporate income tax expenses": 898,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 898,
-        "Profit after tax corporate income": 3591,
-        "Volume": 4859793,
-        "Close of Quarter": 10.4,
-        "EPS": 2171,
-        "Non-adjusted EPS": 2171,
-        "PE": 4.8,
-        "Book Price": 13.2
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 35108,

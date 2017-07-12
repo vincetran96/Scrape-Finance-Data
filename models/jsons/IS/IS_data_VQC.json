@@ -2,34 +2,6 @@
   "ticker": "VQC",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 23745,
-        "Cost of goods sold": 18337,
-        "Gross Profit": 5409,
-        "Financial expenses": "N/A",
-        "Of which: Interest expense": "N/A",
-        "Cost of sales": "N/A",
-        "Enterprise cost management": 4319,
-        "Total Operating Expenses": 4319,
-        "Total revenue financing activities": 10,
-        "Net profit from business activities": 1099,
-        "Profit": 52,
-        "Profit before tax": 1151,
-        "Present corporate income tax expenses": 230,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 230,
-        "Profit after tax corporate income": 921,
-        "Volume": 3599580,
-        "Close of Quarter": 12.1,
-        "EPS": 4719,
-        "Non-adjusted EPS": 4719,
-        "PE": 2.6,
-        "Book Price": 24.4
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 27164,

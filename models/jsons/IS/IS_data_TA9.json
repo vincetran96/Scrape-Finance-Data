@@ -2,34 +2,6 @@
   "ticker": "TA9",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 199134,
-        "Cost of goods sold": 182955,
-        "Gross Profit": 16179,
-        "Financial expenses": 662,
-        "Of which: Interest expense": 662,
-        "Cost of sales": "N/A",
-        "Enterprise cost management": 12145,
-        "Total Operating Expenses": 12807,
-        "Total revenue financing activities": 908,
-        "Net profit from business activities": 4280,
-        "Profit": 120,
-        "Profit before tax": 4400,
-        "Present corporate income tax expenses": 880,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 880,
-        "Profit after tax corporate income": 3520,
-        "Volume": 11049810,
-        "Close of Quarter": 22.1,
-        "EPS": 2484,
-        "Non-adjusted EPS": 2484,
-        "PE": 8.9,
-        "Book Price": 11.1
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 1409996,

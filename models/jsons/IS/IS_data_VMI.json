@@ -2,34 +2,6 @@
   "ticker": "VMI",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 30114,
-        "Cost of goods sold": 24981,
-        "Gross Profit": 5133,
-        "Financial expenses": 1170,
-        "Of which: Interest expense": 1170,
-        "Cost of sales": "N/A",
-        "Enterprise cost management": 1306,
-        "Total Operating Expenses": 2476,
-        "Total revenue financing activities": "N/A",
-        "Net profit from business activities": 2657,
-        "Profit": -116,
-        "Profit before tax": 2541,
-        "Present corporate income tax expenses": 508,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 508,
-        "Profit after tax corporate income": 2033,
-        "Volume": 10949999,
-        "Close of Quarter": 5.1,
-        "EPS": 1291,
-        "Non-adjusted EPS": 1291,
-        "PE": 4.0,
-        "Book Price": 11.7
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 39273,

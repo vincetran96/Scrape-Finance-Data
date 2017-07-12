@@ -2,34 +2,6 @@
   "ticker": "FID",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 19506,
-        "Cost of goods sold": 18254,
-        "Gross Profit": 1252,
-        "Financial expenses": 32,
-        "Of which: Interest expense": 32,
-        "Cost of sales": "N/A",
-        "Enterprise cost management": 1326,
-        "Total Operating Expenses": 1358,
-        "Total revenue financing activities": "N/A",
-        "Net profit from business activities": -106,
-        "Profit": -296,
-        "Profit before tax": -401,
-        "Present corporate income tax expenses": 136,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": 164,
-        "Total Cost of profits": 300,
-        "Profit after tax corporate income": -702,
-        "Volume": 23539998,
-        "Close of Quarter": 1.7,
-        "EPS": 74,
-        "Non-adjusted EPS": 74,
-        "PE": 23.0,
-        "Book Price": 10.7
-      }
-    },
-    {
       "quarter": "Q3 2016",
       "income status": {
         "Net sales": 11164,

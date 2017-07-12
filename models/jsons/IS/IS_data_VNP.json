@@ -2,34 +2,6 @@
   "ticker": "VNP",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 43172,
-        "Cost of goods sold": 36610,
-        "Gross Profit": 6562,
-        "Financial expenses": 2837,
-        "Of which: Interest expense": 1043,
-        "Cost of sales": 834,
-        "Enterprise cost management": 2897,
-        "Total Operating Expenses": 6568,
-        "Total revenue financing activities": 232,
-        "Net profit from business activities": 4300,
-        "Profit": 59,
-        "Profit before tax": 4359,
-        "Present corporate income tax expenses": 7,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 7,
-        "Profit after tax corporate income": 4352,
-        "Volume": 19428913,
-        "Close of Quarter": 5,
-        "EPS": 1674,
-        "Non-adjusted EPS": 1674,
-        "PE": 3.0,
-        "Book Price": 3.1
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 67315,

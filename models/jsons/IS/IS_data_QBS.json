@@ -2,34 +2,6 @@
   "ticker": "QBS",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 861145,
-        "Cost of goods sold": 817112,
-        "Gross Profit": 44033,
-        "Financial expenses": 7480,
-        "Of which: Interest expense": 15082,
-        "Cost of sales": 9665,
-        "Enterprise cost management": 9047,
-        "Total Operating Expenses": 26192,
-        "Total revenue financing activities": 1688,
-        "Net profit from business activities": 19529,
-        "Profit": 2066,
-        "Profit before tax": 21595,
-        "Present corporate income tax expenses": 4997,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": -886,
-        "Total Cost of profits": 4111,
-        "Profit after tax corporate income": 17484,
-        "Volume": 69329928,
-        "Close of Quarter": 5.6,
-        "EPS": 168,
-        "Non-adjusted EPS": 168,
-        "PE": 33.4,
-        "Book Price": 12.2
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 783800,

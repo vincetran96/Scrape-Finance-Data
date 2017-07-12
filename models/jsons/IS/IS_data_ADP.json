@@ -2,34 +2,6 @@
   "ticker": "ADP",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 138005,
-        "Cost of goods sold": 106009,
-        "Gross Profit": 31996,
-        "Financial expenses": 459,
-        "Of which: Interest expense": 445,
-        "Cost of sales": 5271,
-        "Enterprise cost management": 5760,
-        "Total Operating Expenses": 11490,
-        "Total revenue financing activities": 559,
-        "Net profit from business activities": 21066,
-        "Profit": "N/A",
-        "Profit before tax": 21066,
-        "Present corporate income tax expenses": 4213,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 4213,
-        "Profit after tax corporate income": 16852,
-        "Volume": 15359914,
-        "Close of Quarter": 38,
-        "EPS": 3630,
-        "Non-adjusted EPS": 3630,
-        "PE": 10.5,
-        "Book Price": 14.3
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 152211,
@@ -82,34 +54,6 @@
         "EPS": 1553.1,
         "Non-adjusted EPS": 2485,
         "PE": 6.9,
-        "Book Price": "N/A"
-      }
-    },
-    {
-      "quarter": "Q3 2009",
-      "income status": {
-        "Net sales": 179417,
-        "Cost of goods sold": "N/A",
-        "Gross Profit": "N/A",
-        "Financial expenses": "N/A",
-        "Of which: Interest expense": "N/A",
-        "Cost of sales": "N/A",
-        "Enterprise cost management": "N/A",
-        "Total Operating Expenses": 0,
-        "Total revenue financing activities": "N/A",
-        "Net profit from business activities": "N/A",
-        "Profit": "N/A",
-        "Profit before tax": "N/A",
-        "Present corporate income tax expenses": "N/A",
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 0,
-        "Profit after tax corporate income": 0,
-        "Volume": 5000000,
-        "Close of Quarter": "N/A",
-        "EPS": "N/A",
-        "Non-adjusted EPS": " ",
-        "PE": "N/A",
         "Book Price": "N/A"
       }
     }

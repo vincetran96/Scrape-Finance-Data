@@ -2,34 +2,6 @@
   "ticker": "PMB",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 467398,
-        "Cost of goods sold": 442200,
-        "Gross Profit": 25198,
-        "Financial expenses": "N/A",
-        "Of which: Interest expense": "N/A",
-        "Cost of sales": 12265,
-        "Enterprise cost management": 4402,
-        "Total Operating Expenses": 16667,
-        "Total revenue financing activities": 673,
-        "Net profit from business activities": 9205,
-        "Profit": 30,
-        "Profit before tax": 9235,
-        "Present corporate income tax expenses": 1906,
-        "Deferred income taxes expenses": -59,
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 1847,
-        "Profit after tax corporate income": 7388,
-        "Volume": 12000000,
-        "Close of Quarter": 12.2,
-        "EPS": 1492,
-        "Non-adjusted EPS": 1492,
-        "PE": 8.2,
-        "Book Price": 13.4
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 239332,

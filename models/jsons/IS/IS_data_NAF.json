@@ -2,34 +2,6 @@
   "ticker": "NAF",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 63238,
-        "Cost of goods sold": 43344,
-        "Gross Profit": 19893,
-        "Financial expenses": 1859,
-        "Of which: Interest expense": 1494,
-        "Cost of sales": 5851,
-        "Enterprise cost management": 6825,
-        "Total Operating Expenses": 14535,
-        "Total revenue financing activities": 1593,
-        "Net profit from business activities": 6902,
-        "Profit": -17,
-        "Profit before tax": 6885,
-        "Present corporate income tax expenses": 1862,
-        "Deferred income taxes expenses": 271,
-        "The interests of minority shareholders": 1698,
-        "Total Cost of profits": 3831,
-        "Profit after tax corporate income": 3054,
-        "Volume": 30000000,
-        "Close of Quarter": 30,
-        "EPS": 1581,
-        "Non-adjusted EPS": 1581,
-        "PE": 19.0,
-        "Book Price": 14.5
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 102222,

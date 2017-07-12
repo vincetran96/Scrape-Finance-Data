@@ -2,34 +2,6 @@
   "ticker": "TFC",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 62417,
-        "Cost of goods sold": 57233,
-        "Gross Profit": 5185,
-        "Financial expenses": 2954,
-        "Of which: Interest expense": 2285,
-        "Cost of sales": 3508,
-        "Enterprise cost management": 8574,
-        "Total Operating Expenses": 15036,
-        "Total revenue financing activities": 1730,
-        "Net profit from business activities": -8123,
-        "Profit": -42,
-        "Profit before tax": -8164,
-        "Present corporate income tax expenses": "N/A",
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": -1188,
-        "Total Cost of profits": -1188,
-        "Profit after tax corporate income": -6976,
-        "Volume": 16829994,
-        "Close of Quarter": 6.8,
-        "EPS": -34,
-        "Non-adjusted EPS": -34,
-        "PE": -200,
-        "Book Price": 11.5
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 121080,

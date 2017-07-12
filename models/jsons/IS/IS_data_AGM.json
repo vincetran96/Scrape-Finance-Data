@@ -2,34 +2,6 @@
   "ticker": "AGM",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 606767,
-        "Cost of goods sold": 569828,
-        "Gross Profit": 36939,
-        "Financial expenses": 3059,
-        "Of which: Interest expense": 2593,
-        "Cost of sales": 29287,
-        "Enterprise cost management": 3711,
-        "Total Operating Expenses": 36057,
-        "Total revenue financing activities": 2694,
-        "Net profit from business activities": 3576,
-        "Profit": 460,
-        "Profit before tax": 4037,
-        "Present corporate income tax expenses": 786,
-        "Deferred income taxes expenses": 42,
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 828,
-        "Profit after tax corporate income": 3209,
-        "Volume": 18200000,
-        "Close of Quarter": 9.8,
-        "EPS": 221,
-        "Non-adjusted EPS": 221,
-        "PE": 44.3,
-        "Book Price": 19.4
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 430674,

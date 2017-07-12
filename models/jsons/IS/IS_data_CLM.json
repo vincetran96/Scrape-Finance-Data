@@ -2,34 +2,6 @@
   "ticker": "CLM",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 301920,
-        "Cost of goods sold": 273583,
-        "Gross Profit": 28337,
-        "Financial expenses": 2427,
-        "Of which: Interest expense": 1431,
-        "Cost of sales": 15866,
-        "Enterprise cost management": 6823,
-        "Total Operating Expenses": 25116,
-        "Total revenue financing activities": 1775,
-        "Net profit from business activities": 4997,
-        "Profit": -1469,
-        "Profit before tax": 3528,
-        "Present corporate income tax expenses": 706,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 706,
-        "Profit after tax corporate income": 2822,
-        "Volume": "N/A",
-        "Close of Quarter": 14.7,
-        "EPS": "N/A",
-        "Non-adjusted EPS": " ",
-        "PE": "N/A",
-        "Book Price": "N/A"
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 439090,

@@ -84,62 +84,6 @@
         "PE": "N/A",
         "Book Price": "N/A"
       }
-    },
-    {
-      "quarter": "Q3 2010",
-      "income status": {
-        "Net sales": 31766,
-        "Cost of goods sold": 28423,
-        "Gross Profit": 3343,
-        "Financial expenses": 939,
-        "Of which: Interest expense": "N/A",
-        "Cost of sales": 1131,
-        "Enterprise cost management": 1057,
-        "Total Operating Expenses": 3127,
-        "Total revenue financing activities": 1246,
-        "Net profit from business activities": 1462,
-        "Profit": 87,
-        "Profit before tax": 1548,
-        "Present corporate income tax expenses": "N/A",
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 0,
-        "Profit after tax corporate income": 1548,
-        "Volume": 5000000,
-        "Close of Quarter": "N/A",
-        "EPS": 475,
-        "Non-adjusted EPS": 475,
-        "PE": "N/A",
-        "Book Price": "N/A"
-      }
-    },
-    {
-      "quarter": "Q2 2010",
-      "income status": {
-        "Net sales": 15700,
-        "Cost of goods sold": 12603,
-        "Gross Profit": 3097,
-        "Financial expenses": 1014,
-        "Of which: Interest expense": "N/A",
-        "Cost of sales": 845,
-        "Enterprise cost management": 1411,
-        "Total Operating Expenses": 3270,
-        "Total revenue financing activities": 1185,
-        "Net profit from business activities": 1013,
-        "Profit": "N/A",
-        "Profit before tax": 1013,
-        "Present corporate income tax expenses": 188,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 188,
-        "Profit after tax corporate income": 825,
-        "Volume": 5000000,
-        "Close of Quarter": "N/A",
-        "EPS": 165,
-        "Non-adjusted EPS": 165,
-        "PE": "N/A",
-        "Book Price": "N/A"
-      }
     }
   ]
 }

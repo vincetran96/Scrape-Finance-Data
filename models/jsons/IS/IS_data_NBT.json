@@ -2,34 +2,6 @@
   "ticker": "NBT",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 37206,
-        "Cost of goods sold": 10612,
-        "Gross Profit": 26594,
-        "Financial expenses": 2453,
-        "Of which: Interest expense": 2453,
-        "Cost of sales": 11459,
-        "Enterprise cost management": 2883,
-        "Total Operating Expenses": 16795,
-        "Total revenue financing activities": 263,
-        "Net profit from business activities": 10062,
-        "Profit": 2,
-        "Profit before tax": 10064,
-        "Present corporate income tax expenses": 2013,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 2013,
-        "Profit after tax corporate income": 8051,
-        "Volume": 28000000,
-        "Close of Quarter": 6.4,
-        "EPS": 781,
-        "Non-adjusted EPS": 781,
-        "PE": 8.3,
-        "Book Price": 10.9
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 32433,

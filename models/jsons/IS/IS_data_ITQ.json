@@ -2,34 +2,6 @@
   "ticker": "ITQ",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 91534,
-        "Cost of goods sold": 85238,
-        "Gross Profit": 6296,
-        "Financial expenses": 1733,
-        "Of which: Interest expense": 1691,
-        "Cost of sales": 1487,
-        "Enterprise cost management": 2300,
-        "Total Operating Expenses": 5520,
-        "Total revenue financing activities": 38,
-        "Net profit from business activities": 814,
-        "Profit": 33,
-        "Profit before tax": 847,
-        "Present corporate income tax expenses": 169,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 169,
-        "Profit after tax corporate income": 677,
-        "Volume": 23843305,
-        "Close of Quarter": 3.2,
-        "EPS": 47,
-        "Non-adjusted EPS": 47,
-        "PE": 68.1,
-        "Book Price": 10.4
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 128075,

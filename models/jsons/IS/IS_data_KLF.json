@@ -2,34 +2,6 @@
   "ticker": "KLF",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 145915,
-        "Cost of goods sold": 132201,
-        "Gross Profit": 13713,
-        "Financial expenses": 18070,
-        "Of which: Interest expense": 1070,
-        "Cost of sales": 7357,
-        "Enterprise cost management": 4523,
-        "Total Operating Expenses": 29950,
-        "Total revenue financing activities": 17590,
-        "Net profit from business activities": 3007,
-        "Profit": -104,
-        "Profit before tax": 2902,
-        "Present corporate income tax expenses": 484,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": -108,
-        "Total Cost of profits": 376,
-        "Profit after tax corporate income": 2526,
-        "Volume": 165352561,
-        "Close of Quarter": 2.6,
-        "EPS": 99,
-        "Non-adjusted EPS": 99,
-        "PE": 26.3,
-        "Book Price": 10.6
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 191798,

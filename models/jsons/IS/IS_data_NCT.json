@@ -2,34 +2,6 @@
   "ticker": "NCT",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 169071,
-        "Cost of goods sold": 72344,
-        "Gross Profit": 96727,
-        "Financial expenses": 20,
-        "Of which: Interest expense": "N/A",
-        "Cost of sales": 2454,
-        "Enterprise cost management": 14170,
-        "Total Operating Expenses": 16644,
-        "Total revenue financing activities": 2696,
-        "Net profit from business activities": 82778,
-        "Profit": -1,
-        "Profit before tax": 82778,
-        "Present corporate income tax expenses": 16602,
-        "Deferred income taxes expenses": -3,
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 16599,
-        "Profit after tax corporate income": 66178,
-        "Volume": 26166940,
-        "Close of Quarter": 82.0,
-        "EPS": 9924,
-        "Non-adjusted EPS": 9924,
-        "PE": 8.3,
-        "Book Price": 19.2
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 177030,

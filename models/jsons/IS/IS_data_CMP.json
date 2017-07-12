@@ -2,34 +2,6 @@
   "ticker": "CMP",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 32596,
-        "Cost of goods sold": 18952,
-        "Gross Profit": 13644,
-        "Financial expenses": "N/A",
-        "Of which: Interest expense": "N/A",
-        "Cost of sales": 385,
-        "Enterprise cost management": 5359,
-        "Total Operating Expenses": 5744,
-        "Total revenue financing activities": 1055,
-        "Net profit from business activities": 8955,
-        "Profit": "N/A",
-        "Profit before tax": 8955,
-        "Present corporate income tax expenses": 1791,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 1791,
-        "Profit after tax corporate income": 7164,
-        "Volume": 30862300,
-        "Close of Quarter": 10.1,
-        "EPS": 578,
-        "Non-adjusted EPS": 578,
-        "PE": 17.5,
-        "Book Price": 10.9
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 25146,

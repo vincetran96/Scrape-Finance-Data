@@ -2,34 +2,6 @@
   "ticker": "KTL",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 187466,
-        "Cost of goods sold": 164910,
-        "Gross Profit": 22556,
-        "Financial expenses": 8775,
-        "Of which: Interest expense": "N/A",
-        "Cost of sales": 1148,
-        "Enterprise cost management": 23730,
-        "Total Operating Expenses": 33653,
-        "Total revenue financing activities": 155,
-        "Net profit from business activities": -10942,
-        "Profit": 387,
-        "Profit before tax": -10556,
-        "Present corporate income tax expenses": "N/A",
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 0,
-        "Profit after tax corporate income": -10556,
-        "Volume": 19200000,
-        "Close of Quarter": 16.4,
-        "EPS": 2523,
-        "Non-adjusted EPS": 2523,
-        "PE": 6.5,
-        "Book Price": 16.7
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 281631,

@@ -2,34 +2,6 @@
   "ticker": "ATS",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 16164,
-        "Cost of goods sold": 14207,
-        "Gross Profit": 1957,
-        "Financial expenses": 240,
-        "Of which: Interest expense": 240,
-        "Cost of sales": 254,
-        "Enterprise cost management": 1027,
-        "Total Operating Expenses": 1521,
-        "Total revenue financing activities": "N/A",
-        "Net profit from business activities": 436,
-        "Profit": -5,
-        "Profit before tax": 430,
-        "Present corporate income tax expenses": 86,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 86,
-        "Profit after tax corporate income": 344,
-        "Volume": 3500000,
-        "Close of Quarter": 13.7,
-        "EPS": 528,
-        "Non-adjusted EPS": 528,
-        "PE": 26.0,
-        "Book Price": 11.7
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 20119,

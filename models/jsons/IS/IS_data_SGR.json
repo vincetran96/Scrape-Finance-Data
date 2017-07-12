@@ -2,34 +2,6 @@
   "ticker": "SGR",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 58009,
-        "Cost of goods sold": 33735,
-        "Gross Profit": 24274,
-        "Financial expenses": 1640,
-        "Of which: Interest expense": 1640,
-        "Cost of sales": 1652,
-        "Enterprise cost management": 7201,
-        "Total Operating Expenses": 10493,
-        "Total revenue financing activities": 1812,
-        "Net profit from business activities": 15593,
-        "Profit": "N/A",
-        "Profit before tax": 15593,
-        "Present corporate income tax expenses": 3119,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": 40,
-        "Total Cost of profits": 3159,
-        "Profit after tax corporate income": 12435,
-        "Volume": 19800000,
-        "Close of Quarter": 29.5,
-        "EPS": 14605,
-        "Non-adjusted EPS": 14605,
-        "PE": 2.0,
-        "Book Price": 24.8
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 612575,
@@ -305,34 +277,6 @@
         "Close of Quarter": "N/A",
         "EPS": 367.3,
         "Non-adjusted EPS": 551,
-        "PE": "N/A",
-        "Book Price": "N/A"
-      }
-    },
-    {
-      "quarter": "Q1 2010",
-      "income status": {
-        "Net sales": 11223,
-        "Cost of goods sold": 5349,
-        "Gross Profit": 5874,
-        "Financial expenses": 141,
-        "Of which: Interest expense": "N/A",
-        "Cost of sales": "N/A",
-        "Enterprise cost management": 3082,
-        "Total Operating Expenses": 3223,
-        "Total revenue financing activities": 278,
-        "Net profit from business activities": 2930,
-        "Profit": 148,
-        "Profit before tax": 3078,
-        "Present corporate income tax expenses": 718,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 718,
-        "Profit after tax corporate income": 2360,
-        "Volume": 13200000,
-        "Close of Quarter": "N/A",
-        "EPS": 119.3,
-        "Non-adjusted EPS": 179,
         "PE": "N/A",
         "Book Price": "N/A"
       }

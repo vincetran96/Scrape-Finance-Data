@@ -2,34 +2,6 @@
   "ticker": "TVN",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 4431212,
-        "Cost of goods sold": 4043769,
-        "Gross Profit": 387443,
-        "Financial expenses": 64231,
-        "Of which: Interest expense": 57600,
-        "Cost of sales": 63876,
-        "Enterprise cost management": 112547,
-        "Total Operating Expenses": 240654,
-        "Total revenue financing activities": 58564,
-        "Net profit from business activities": 263472,
-        "Profit": 2228,
-        "Profit before tax": 265700,
-        "Present corporate income tax expenses": 32181,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": 26640,
-        "Total Cost of profits": 58821,
-        "Profit after tax corporate income": 206879,
-        "Volume": 678000000,
-        "Close of Quarter": 8,
-        "EPS": 1437,
-        "Non-adjusted EPS": 1437,
-        "PE": 5.6,
-        "Book Price": 11.4
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 4252594,

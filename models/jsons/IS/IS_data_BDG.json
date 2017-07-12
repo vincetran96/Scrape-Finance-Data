@@ -2,34 +2,6 @@
   "ticker": "BDG",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 240087,
-        "Cost of goods sold": 198027,
-        "Gross Profit": 42060,
-        "Financial expenses": 2469,
-        "Of which: Interest expense": 668,
-        "Cost of sales": 5418,
-        "Enterprise cost management": 24105,
-        "Total Operating Expenses": 31992,
-        "Total revenue financing activities": 2865,
-        "Net profit from business activities": 12932,
-        "Profit": 663,
-        "Profit before tax": 13595,
-        "Present corporate income tax expenses": 2767,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 2767,
-        "Profit after tax corporate income": 10828,
-        "Volume": 12000000,
-        "Close of Quarter": 32.2,
-        "EPS": 6182,
-        "Non-adjusted EPS": 6182,
-        "PE": 5.2,
-        "Book Price": 15.5
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 336691,

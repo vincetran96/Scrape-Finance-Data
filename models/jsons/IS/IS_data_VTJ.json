@@ -2,34 +2,6 @@
   "ticker": "VTJ",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 378587,
-        "Cost of goods sold": 357326,
-        "Gross Profit": 21262,
-        "Financial expenses": 1460,
-        "Of which: Interest expense": 61,
-        "Cost of sales": 2200,
-        "Enterprise cost management": 7894,
-        "Total Operating Expenses": 11554,
-        "Total revenue financing activities": 446,
-        "Net profit from business activities": 10154,
-        "Profit": 63,
-        "Profit before tax": 10217,
-        "Present corporate income tax expenses": 2276,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 2276,
-        "Profit after tax corporate income": 7941,
-        "Volume": 11400000,
-        "Close of Quarter": 11.4,
-        "EPS": 1084,
-        "Non-adjusted EPS": 1084,
-        "PE": 10.5,
-        "Book Price": 11.9
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 345916,

@@ -2,34 +2,6 @@
   "ticker": "SPI",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 9164,
-        "Cost of goods sold": 6924,
-        "Gross Profit": 2241,
-        "Financial expenses": 352,
-        "Of which: Interest expense": 352,
-        "Cost of sales": "N/A",
-        "Enterprise cost management": 2299,
-        "Total Operating Expenses": 2651,
-        "Total revenue financing activities": 569,
-        "Net profit from business activities": 158,
-        "Profit": "N/A",
-        "Profit before tax": 158,
-        "Present corporate income tax expenses": 32,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 32,
-        "Profit after tax corporate income": 127,
-        "Volume": 16815000,
-        "Close of Quarter": 2.3,
-        "EPS": -191,
-        "Non-adjusted EPS": -191,
-        "PE": -12.0,
-        "Book Price": 10.6
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 11722,

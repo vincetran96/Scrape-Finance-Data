@@ -2,34 +2,6 @@
   "ticker": "CDN",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 146678,
-        "Cost of goods sold": 91883,
-        "Gross Profit": 54795,
-        "Financial expenses": 5676,
-        "Of which: Interest expense": 420,
-        "Cost of sales": 460,
-        "Enterprise cost management": 12337,
-        "Total Operating Expenses": 18473,
-        "Total revenue financing activities": 4757,
-        "Net profit from business activities": 41078,
-        "Profit": 721,
-        "Profit before tax": 41799,
-        "Present corporate income tax expenses": 8173,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 8173,
-        "Profit after tax corporate income": 33626,
-        "Volume": 66000000,
-        "Close of Quarter": 23.3,
-        "EPS": 2096,
-        "Non-adjusted EPS": 2096,
-        "PE": 11.1,
-        "Book Price": 12.9
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 147549,

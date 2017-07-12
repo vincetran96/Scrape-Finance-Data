@@ -2,34 +2,6 @@
   "ticker": "DDV",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 521791,
-        "Cost of goods sold": 518989,
-        "Gross Profit": 2802,
-        "Financial expenses": 9117,
-        "Of which: Interest expense": 5931,
-        "Cost of sales": 21009,
-        "Enterprise cost management": 10609,
-        "Total Operating Expenses": 40735,
-        "Total revenue financing activities": 301,
-        "Net profit from business activities": -37632,
-        "Profit": 40,
-        "Profit before tax": -37592,
-        "Present corporate income tax expenses": "N/A",
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 0,
-        "Profit after tax corporate income": -37592,
-        "Volume": 146109900,
-        "Close of Quarter": 6.6,
-        "EPS": -3221,
-        "Non-adjusted EPS": -3221,
-        "PE": -2.1,
-        "Book Price": 6.6
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 417620,

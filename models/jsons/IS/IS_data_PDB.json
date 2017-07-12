@@ -2,34 +2,6 @@
   "ticker": "PDB",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 85212,
-        "Cost of goods sold": 76691,
-        "Gross Profit": 8520,
-        "Financial expenses": 1289,
-        "Of which: Interest expense": 1289,
-        "Cost of sales": "N/A",
-        "Enterprise cost management": 2930,
-        "Total Operating Expenses": 4219,
-        "Total revenue financing activities": 103,
-        "Net profit from business activities": 4405,
-        "Profit": -333,
-        "Profit before tax": 4072,
-        "Present corporate income tax expenses": 789,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": 254,
-        "Total Cost of profits": 1043,
-        "Profit after tax corporate income": 3029,
-        "Volume": 8100000,
-        "Close of Quarter": 19.8,
-        "EPS": 3061,
-        "Non-adjusted EPS": 3061,
-        "PE": 6.5,
-        "Book Price": 15.3
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 101693,

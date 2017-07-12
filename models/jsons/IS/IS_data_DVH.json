@@ -2,34 +2,6 @@
   "ticker": "DVH",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 35010,
-        "Cost of goods sold": 27088,
-        "Gross Profit": 7922,
-        "Financial expenses": 386,
-        "Of which: Interest expense": 386,
-        "Cost of sales": 1280,
-        "Enterprise cost management": 2240,
-        "Total Operating Expenses": 3906,
-        "Total revenue financing activities": 2,
-        "Net profit from business activities": 4019,
-        "Profit": "N/A",
-        "Profit before tax": 4019,
-        "Present corporate income tax expenses": "N/A",
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 0,
-        "Profit after tax corporate income": 4019,
-        "Volume": 4350000,
-        "Close of Quarter": 10.8,
-        "EPS": 1819,
-        "Non-adjusted EPS": 1819,
-        "PE": 5.9,
-        "Book Price": 1.8
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 54659,

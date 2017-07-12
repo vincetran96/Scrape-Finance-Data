@@ -2,34 +2,6 @@
   "ticker": "KSK",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 614,
-        "Cost of goods sold": 404,
-        "Gross Profit": 210,
-        "Financial expenses": "N/A",
-        "Of which: Interest expense": "N/A",
-        "Cost of sales": 27,
-        "Enterprise cost management": 77,
-        "Total Operating Expenses": 104,
-        "Total revenue financing activities": "N/A",
-        "Net profit from business activities": 107,
-        "Profit": "N/A",
-        "Profit before tax": 107,
-        "Present corporate income tax expenses": "N/A",
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 0,
-        "Profit after tax corporate income": 107,
-        "Volume": 23888000,
-        "Close of Quarter": 1.1,
-        "EPS": 26,
-        "Non-adjusted EPS": 26,
-        "PE": 42.3,
-        "Book Price": 10
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 3614,

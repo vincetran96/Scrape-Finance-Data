@@ -2,34 +2,6 @@
   "ticker": "DP3",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 85762,
-        "Cost of goods sold": 36114,
-        "Gross Profit": 49648,
-        "Financial expenses": 496,
-        "Of which: Interest expense": 496,
-        "Cost of sales": 33113,
-        "Enterprise cost management": 2070,
-        "Total Operating Expenses": 35679,
-        "Total revenue financing activities": 32,
-        "Net profit from business activities": 14000,
-        "Profit": 214,
-        "Profit before tax": 14213,
-        "Present corporate income tax expenses": 2843,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 2843,
-        "Profit after tax corporate income": 11371,
-        "Volume": 6800000,
-        "Close of Quarter": 31.1,
-        "EPS": 3555,
-        "Non-adjusted EPS": 3555,
-        "PE": 8.8,
-        "Book Price": 20.9
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 70772,

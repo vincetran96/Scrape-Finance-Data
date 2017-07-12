@@ -2,34 +2,6 @@
   "ticker": "DNW",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 216789,
-        "Cost of goods sold": 131445,
-        "Gross Profit": 85344,
-        "Financial expenses": 11762,
-        "Of which: Interest expense": 10309,
-        "Cost of sales": 23906,
-        "Enterprise cost management": 11902,
-        "Total Operating Expenses": 47570,
-        "Total revenue financing activities": 1182,
-        "Net profit from business activities": 38956,
-        "Profit": 86,
-        "Profit before tax": 39042,
-        "Present corporate income tax expenses": 6302,
-        "Deferred income taxes expenses": 51,
-        "The interests of minority shareholders": 3203,
-        "Total Cost of profits": 9556,
-        "Profit after tax corporate income": 29486,
-        "Volume": 100000000,
-        "Close of Quarter": 13,
-        "EPS": 658,
-        "Non-adjusted EPS": 658,
-        "PE": 19.8,
-        "Book Price": 13.7
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 218128,

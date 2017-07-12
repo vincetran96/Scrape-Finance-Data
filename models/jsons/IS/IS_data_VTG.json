@@ -2,34 +2,6 @@
   "ticker": "VTG",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 42014,
-        "Cost of goods sold": 20249,
-        "Gross Profit": 21766,
-        "Financial expenses": 331,
-        "Of which: Interest expense": 228,
-        "Cost of sales": 8193,
-        "Enterprise cost management": 13890,
-        "Total Operating Expenses": 22414,
-        "Total revenue financing activities": 888,
-        "Net profit from business activities": 239,
-        "Profit": -4652,
-        "Profit before tax": -4412,
-        "Present corporate income tax expenses": 95,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": 196,
-        "Total Cost of profits": 291,
-        "Profit after tax corporate income": -4704,
-        "Volume": 18644500,
-        "Close of Quarter": 12,
-        "EPS": -220,
-        "Non-adjusted EPS": -220,
-        "PE": -54.6,
-        "Book Price": 9.1
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 31047,

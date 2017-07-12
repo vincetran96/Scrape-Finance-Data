@@ -2,34 +2,6 @@
   "ticker": "MSR",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 1175891,
-        "Cost of goods sold": 813173,
-        "Gross Profit": 362717,
-        "Financial expenses": 276380,
-        "Of which: Interest expense": 249789,
-        "Cost of sales": 37067,
-        "Enterprise cost management": 21572,
-        "Total Operating Expenses": 335019,
-        "Total revenue financing activities": 10671,
-        "Net profit from business activities": 38369,
-        "Profit": -3319,
-        "Profit before tax": 35050,
-        "Present corporate income tax expenses": 23,
-        "Deferred income taxes expenses": -7705,
-        "The interests of minority shareholders": -894,
-        "Total Cost of profits": -8576,
-        "Profit after tax corporate income": 43626,
-        "Volume": 703544898,
-        "Close of Quarter": 16.4,
-        "EPS": 202,
-        "Non-adjusted EPS": 202,
-        "PE": 81.2,
-        "Book Price": 16.7
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 1241311,

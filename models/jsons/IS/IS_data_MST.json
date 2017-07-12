@@ -2,34 +2,6 @@
   "ticker": "MST",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 18907,
-        "Cost of goods sold": 17544,
-        "Gross Profit": 1364,
-        "Financial expenses": 282,
-        "Of which: Interest expense": 282,
-        "Cost of sales": 338,
-        "Enterprise cost management": 159,
-        "Total Operating Expenses": 779,
-        "Total revenue financing activities": 196,
-        "Net profit from business activities": 781,
-        "Profit": "N/A",
-        "Profit before tax": 781,
-        "Present corporate income tax expenses": 156,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 156,
-        "Profit after tax corporate income": 625,
-        "Volume": 18000000,
-        "Close of Quarter": 10.6,
-        "EPS": 360,
-        "Non-adjusted EPS": 360,
-        "PE": 29.4,
-        "Book Price": 11
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 24117,

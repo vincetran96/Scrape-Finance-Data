@@ -2,34 +2,6 @@
   "ticker": "CSV",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 312153,
-        "Cost of goods sold": 217591,
-        "Gross Profit": 94561,
-        "Financial expenses": 1358,
-        "Of which: Interest expense": 1348,
-        "Cost of sales": 18509,
-        "Enterprise cost management": 11564,
-        "Total Operating Expenses": 31431,
-        "Total revenue financing activities": 5389,
-        "Net profit from business activities": 68520,
-        "Profit": -1118,
-        "Profit before tax": 67401,
-        "Present corporate income tax expenses": 13804,
-        "Deferred income taxes expenses": -44,
-        "The interests of minority shareholders": 1646,
-        "Total Cost of profits": 15406,
-        "Profit after tax corporate income": 51995,
-        "Volume": 44200000,
-        "Close of Quarter": 27.6,
-        "EPS": 3903,
-        "Non-adjusted EPS": 3903,
-        "PE": 7.1,
-        "Book Price": 17.2
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 336753,

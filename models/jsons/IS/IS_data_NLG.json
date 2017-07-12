@@ -2,34 +2,6 @@
   "ticker": "NLG",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 255851,
-        "Cost of goods sold": 175042,
-        "Gross Profit": 80809,
-        "Financial expenses": 5108,
-        "Of which: Interest expense": 4306,
-        "Cost of sales": 23088,
-        "Enterprise cost management": 39679,
-        "Total Operating Expenses": 67875,
-        "Total revenue financing activities": 15378,
-        "Net profit from business activities": 28312,
-        "Profit": 1420,
-        "Profit before tax": 29732,
-        "Present corporate income tax expenses": 6891,
-        "Deferred income taxes expenses": -584,
-        "The interests of minority shareholders": 2321,
-        "Total Cost of profits": 8628,
-        "Profit after tax corporate income": 21104,
-        "Volume": 142114510,
-        "Close of Quarter": 26.5,
-        "EPS": 2285,
-        "Non-adjusted EPS": 2285,
-        "PE": 11.6,
-        "Book Price": 22.9
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 862273,

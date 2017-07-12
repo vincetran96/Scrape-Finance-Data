@@ -2,34 +2,6 @@
   "ticker": "CHP",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 244518,
-        "Cost of goods sold": 71482,
-        "Gross Profit": 173036,
-        "Financial expenses": 22628,
-        "Of which: Interest expense": 22628,
-        "Cost of sales": "N/A",
-        "Enterprise cost management": 6311,
-        "Total Operating Expenses": 28939,
-        "Total revenue financing activities": 2368,
-        "Net profit from business activities": 146465,
-        "Profit": -11,
-        "Profit before tax": 146454,
-        "Present corporate income tax expenses": 7331,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 7331,
-        "Profit after tax corporate income": 139123,
-        "Volume": 125999511,
-        "Close of Quarter": 21.4,
-        "EPS": 3080,
-        "Non-adjusted EPS": 3080,
-        "PE": 6.9,
-        "Book Price": 14.4
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 359003,

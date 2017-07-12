@@ -2,34 +2,6 @@
   "ticker": "BII",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 7519,
-        "Cost of goods sold": 3868,
-        "Gross Profit": 3651,
-        "Financial expenses": 2022,
-        "Of which: Interest expense": 2022,
-        "Cost of sales": 239,
-        "Enterprise cost management": 2971,
-        "Total Operating Expenses": 5232,
-        "Total revenue financing activities": 3576,
-        "Net profit from business activities": 1995,
-        "Profit": -205,
-        "Profit before tax": 1791,
-        "Present corporate income tax expenses": "N/A",
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": 549,
-        "Total Cost of profits": 549,
-        "Profit after tax corporate income": 1242,
-        "Volume": 57680000,
-        "Close of Quarter": 2.6,
-        "EPS": 155,
-        "Non-adjusted EPS": 155,
-        "PE": 16.8,
-        "Book Price": 10.6
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 23599,

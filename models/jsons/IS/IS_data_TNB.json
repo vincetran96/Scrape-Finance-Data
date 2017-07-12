@@ -2,34 +2,6 @@
   "ticker": "TNB",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 436000,
-        "Cost of goods sold": 412334,
-        "Gross Profit": 23666,
-        "Financial expenses": 2547,
-        "Of which: Interest expense": 1941,
-        "Cost of sales": 5395,
-        "Enterprise cost management": 8165,
-        "Total Operating Expenses": 16107,
-        "Total revenue financing activities": 195,
-        "Net profit from business activities": 7754,
-        "Profit": 399,
-        "Profit before tax": 8152,
-        "Present corporate income tax expenses": 1774,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 1774,
-        "Profit after tax corporate income": 6378,
-        "Volume": 11500000,
-        "Close of Quarter": 6.4,
-        "EPS": 1094,
-        "Non-adjusted EPS": 1094,
-        "PE": 5.8,
-        "Book Price": 15.4
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 409825,
@@ -363,62 +335,6 @@
         "Non-adjusted EPS": 1337,
         "PE": 3.0,
         "Book Price": 14.2
-      }
-    },
-    {
-      "quarter": "Q3 2010",
-      "income status": {
-        "Net sales": 206987,
-        "Cost of goods sold": 194005,
-        "Gross Profit": 12982,
-        "Financial expenses": 127,
-        "Of which: Interest expense": 127,
-        "Cost of sales": 357,
-        "Enterprise cost management": 2730,
-        "Total Operating Expenses": 3214,
-        "Total revenue financing activities": 1578,
-        "Net profit from business activities": 11347,
-        "Profit": -66,
-        "Profit before tax": 11281,
-        "Present corporate income tax expenses": 2820,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 2820,
-        "Profit after tax corporate income": 8460,
-        "Volume": 10000000,
-        "Close of Quarter": 12.1,
-        "EPS": 1210.4,
-        "Non-adjusted EPS": 1392,
-        "PE": 8.7,
-        "Book Price": "N/A"
-      }
-    },
-    {
-      "quarter": "Q2 2010",
-      "income status": {
-        "Net sales": 156107,
-        "Cost of goods sold": 141491,
-        "Gross Profit": 14615,
-        "Financial expenses": 5512,
-        "Of which: Interest expense": 1012,
-        "Cost of sales": 108,
-        "Enterprise cost management": 1982,
-        "Total Operating Expenses": 7602,
-        "Total revenue financing activities": 492,
-        "Net profit from business activities": 7505,
-        "Profit": -228,
-        "Profit before tax": 7278,
-        "Present corporate income tax expenses": 1819,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 1819,
-        "Profit after tax corporate income": 5458,
-        "Volume": 10000000,
-        "Close of Quarter": 20.8,
-        "EPS": 474.8,
-        "Non-adjusted EPS": 546,
-        "PE": 38.1,
-        "Book Price": "N/A"
       }
     }
   ]

@@ -2,34 +2,6 @@
   "ticker": "DRL",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 21323,
-        "Cost of goods sold": 4607,
-        "Gross Profit": 16716,
-        "Financial expenses": "N/A",
-        "Of which: Interest expense": "N/A",
-        "Cost of sales": "N/A",
-        "Enterprise cost management": 794,
-        "Total Operating Expenses": 794,
-        "Total revenue financing activities": 377,
-        "Net profit from business activities": 16299,
-        "Profit": "N/A",
-        "Profit before tax": 16299,
-        "Present corporate income tax expenses": 876,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 876,
-        "Profit after tax corporate income": 15424,
-        "Volume": 9500000,
-        "Close of Quarter": 39.8,
-        "EPS": 4838,
-        "Non-adjusted EPS": 4838,
-        "PE": 8.2,
-        "Book Price": 13.2
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 28630,

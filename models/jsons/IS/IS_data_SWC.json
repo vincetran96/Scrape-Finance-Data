@@ -2,34 +2,6 @@
   "ticker": "SWC",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 42883,
-        "Cost of goods sold": 36587,
-        "Gross Profit": 6296,
-        "Financial expenses": 2461,
-        "Of which: Interest expense": 432,
-        "Cost of sales": "N/A",
-        "Enterprise cost management": 3734,
-        "Total Operating Expenses": 6195,
-        "Total revenue financing activities": 569594,
-        "Net profit from business activities": 543053,
-        "Profit": 1385,
-        "Profit before tax": 544438,
-        "Present corporate income tax expenses": 105622,
-        "Deferred income taxes expenses": -33,
-        "The interests of minority shareholders": 36,
-        "Total Cost of profits": 105625,
-        "Profit after tax corporate income": 438814,
-        "Volume": 67100000,
-        "Close of Quarter": 16.7,
-        "EPS": 7289,
-        "Non-adjusted EPS": 7289,
-        "PE": 2.3,
-        "Book Price": 21.6
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 67010,

@@ -2,34 +2,6 @@
   "ticker": "DNS",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 367856,
-        "Cost of goods sold": 338463,
-        "Gross Profit": 29393,
-        "Financial expenses": 3170,
-        "Of which: Interest expense": "N/A",
-        "Cost of sales": 9907,
-        "Enterprise cost management": 5767,
-        "Total Operating Expenses": 18844,
-        "Total revenue financing activities": 1278,
-        "Net profit from business activities": 11827,
-        "Profit": "N/A",
-        "Profit before tax": 11828,
-        "Present corporate income tax expenses": 1800,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 1800,
-        "Profit after tax corporate income": 10028,
-        "Volume": 21600000,
-        "Close of Quarter": 8,
-        "EPS": 2927,
-        "Non-adjusted EPS": 2927,
-        "PE": 2.7,
-        "Book Price": 10.7
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 289811,

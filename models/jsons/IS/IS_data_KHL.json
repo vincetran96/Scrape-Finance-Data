@@ -2,34 +2,6 @@
   "ticker": "KHL",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 312,
-        "Cost of goods sold": 208,
-        "Gross Profit": 104,
-        "Financial expenses": "N/A",
-        "Of which: Interest expense": "N/A",
-        "Cost of sales": "N/A",
-        "Enterprise cost management": 254,
-        "Total Operating Expenses": 254,
-        "Total revenue financing activities": "N/A",
-        "Net profit from business activities": -150,
-        "Profit": -382,
-        "Profit before tax": -532,
-        "Present corporate income tax expenses": "N/A",
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 0,
-        "Profit after tax corporate income": -532,
-        "Volume": 12000000,
-        "Close of Quarter": 0.8,
-        "EPS": -838,
-        "Non-adjusted EPS": -838,
-        "PE": -1.0,
-        "Book Price": 6.4
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": "N/A",

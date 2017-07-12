@@ -2,34 +2,6 @@
   "ticker": "TTZ",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 13251,
-        "Cost of goods sold": 10495,
-        "Gross Profit": 2756,
-        "Financial expenses": 81,
-        "Of which: Interest expense": 81,
-        "Cost of sales": 314,
-        "Enterprise cost management": 1163,
-        "Total Operating Expenses": 1558,
-        "Total revenue financing activities": 1,
-        "Net profit from business activities": 1199,
-        "Profit": 222,
-        "Profit before tax": 1421,
-        "Present corporate income tax expenses": 284,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 284,
-        "Profit after tax corporate income": 1137,
-        "Volume": 5250000,
-        "Close of Quarter": 3.1,
-        "EPS": 512,
-        "Non-adjusted EPS": 512,
-        "PE": 6.1,
-        "Book Price": 15.2
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 23683,

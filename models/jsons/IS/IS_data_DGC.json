@@ -2,34 +2,6 @@
   "ticker": "DGC",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 822265,
-        "Cost of goods sold": 747871,
-        "Gross Profit": 74394,
-        "Financial expenses": 2574,
-        "Of which: Interest expense": 1300,
-        "Cost of sales": 38989,
-        "Enterprise cost management": 7178,
-        "Total Operating Expenses": 48741,
-        "Total revenue financing activities": 7315,
-        "Net profit from business activities": 47372,
-        "Profit": 135,
-        "Profit before tax": 47507,
-        "Present corporate income tax expenses": 1970,
-        "Deferred income taxes expenses": 45,
-        "The interests of minority shareholders": 10474,
-        "Total Cost of profits": 12489,
-        "Profit after tax corporate income": 35018,
-        "Volume": 50008875,
-        "Close of Quarter": 38,
-        "EPS": 4239,
-        "Non-adjusted EPS": 4239,
-        "PE": 9.0,
-        "Book Price": 28.2
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 796689,

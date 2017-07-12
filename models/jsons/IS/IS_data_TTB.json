@@ -2,34 +2,6 @@
   "ticker": "TTB",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 89712,
-        "Cost of goods sold": 74766,
-        "Gross Profit": 14947,
-        "Financial expenses": 2012,
-        "Of which: Interest expense": 2012,
-        "Cost of sales": 369,
-        "Enterprise cost management": 1642,
-        "Total Operating Expenses": 4023,
-        "Total revenue financing activities": 5,
-        "Net profit from business activities": 10929,
-        "Profit": "N/A",
-        "Profit before tax": 10929,
-        "Present corporate income tax expenses": 2186,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 2186,
-        "Profit after tax corporate income": 8743,
-        "Volume": 38700000,
-        "Close of Quarter": 7,
-        "EPS": 759,
-        "Non-adjusted EPS": 759,
-        "PE": 9.2,
-        "Book Price": 11.3
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 45004,

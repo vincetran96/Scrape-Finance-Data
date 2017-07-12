@@ -2,34 +2,6 @@
   "ticker": "HNB",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 28538,
-        "Cost of goods sold": 23229,
-        "Gross Profit": 5309,
-        "Financial expenses": "N/A",
-        "Of which: Interest expense": "N/A",
-        "Cost of sales": "N/A",
-        "Enterprise cost management": 1865,
-        "Total Operating Expenses": 1865,
-        "Total revenue financing activities": 98,
-        "Net profit from business activities": 3542,
-        "Profit": 12,
-        "Profit before tax": 3554,
-        "Present corporate income tax expenses": 558,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 558,
-        "Profit after tax corporate income": 2231,
-        "Volume": 9500000,
-        "Close of Quarter": 23.4,
-        "EPS": 917,
-        "Non-adjusted EPS": 917,
-        "PE": 25.6,
-        "Book Price": 11.3
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 33370,

@@ -2,34 +2,6 @@
   "ticker": "MTA",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 200905,
-        "Cost of goods sold": 174834,
-        "Gross Profit": 26071,
-        "Financial expenses": 8063,
-        "Of which: Interest expense": 8063,
-        "Cost of sales": 10081,
-        "Enterprise cost management": 16075,
-        "Total Operating Expenses": 34219,
-        "Total revenue financing activities": 530,
-        "Net profit from business activities": -7618,
-        "Profit": 1959,
-        "Profit before tax": -5659,
-        "Present corporate income tax expenses": 1941,
-        "Deferred income taxes expenses": -12,
-        "The interests of minority shareholders": 1397,
-        "Total Cost of profits": 3326,
-        "Profit after tax corporate income": -8985,
-        "Volume": 110113591,
-        "Close of Quarter": 3.1,
-        "EPS": -154,
-        "Non-adjusted EPS": -154,
-        "PE": -20.1,
-        "Book Price": 13.3
-      }
-    },
-    {
       "quarter": "Q3 2016",
       "income status": {
         "Net sales": 240554,

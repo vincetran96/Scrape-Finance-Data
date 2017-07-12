@@ -2,34 +2,6 @@
   "ticker": "KBE",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 10029,
-        "Cost of goods sold": 7290,
-        "Gross Profit": 2739,
-        "Financial expenses": 129,
-        "Of which: Interest expense": 129,
-        "Cost of sales": 1641,
-        "Enterprise cost management": 682,
-        "Total Operating Expenses": 2452,
-        "Total revenue financing activities": 1,
-        "Net profit from business activities": 289,
-        "Profit": 72,
-        "Profit before tax": 361,
-        "Present corporate income tax expenses": 63,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 63,
-        "Profit after tax corporate income": 298,
-        "Volume": 1231060,
-        "Close of Quarter": 17.2,
-        "EPS": 2517,
-        "Non-adjusted EPS": 2517,
-        "PE": 6.8,
-        "Book Price": 16.1
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 10678,

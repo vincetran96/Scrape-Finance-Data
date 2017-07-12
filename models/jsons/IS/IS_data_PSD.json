@@ -2,34 +2,6 @@
   "ticker": "PSD",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 1390841,
-        "Cost of goods sold": 1321582,
-        "Gross Profit": 69259,
-        "Financial expenses": 17990,
-        "Of which: Interest expense": 17314,
-        "Cost of sales": 29017,
-        "Enterprise cost management": 13580,
-        "Total Operating Expenses": 60587,
-        "Total revenue financing activities": 10959,
-        "Net profit from business activities": 19631,
-        "Profit": 113,
-        "Profit before tax": 19744,
-        "Present corporate income tax expenses": 4044,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": 443,
-        "Total Cost of profits": 4487,
-        "Profit after tax corporate income": 15257,
-        "Volume": 21326549,
-        "Close of Quarter": 17.4,
-        "EPS": 2703,
-        "Non-adjusted EPS": 2703,
-        "PE": 6.4,
-        "Book Price": 12.3
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 1499635,

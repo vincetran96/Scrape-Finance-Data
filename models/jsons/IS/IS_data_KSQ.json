@@ -2,34 +2,6 @@
   "ticker": "KSQ",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 2672,
-        "Cost of goods sold": 2988,
-        "Gross Profit": -315,
-        "Financial expenses": 106,
-        "Of which: Interest expense": 106,
-        "Cost of sales": 8,
-        "Enterprise cost management": -522,
-        "Total Operating Expenses": -408,
-        "Total revenue financing activities": "N/A",
-        "Net profit from business activities": 93,
-        "Profit": "N/A",
-        "Profit before tax": 93,
-        "Present corporate income tax expenses": 19,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 19,
-        "Profit after tax corporate income": 74,
-        "Volume": 30000000,
-        "Close of Quarter": 1.8,
-        "EPS": 112,
-        "Non-adjusted EPS": 112,
-        "PE": 16.1,
-        "Book Price": 10.5
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 25506,

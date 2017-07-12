@@ -2,34 +2,6 @@
   "ticker": "KDM",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 9239,
-        "Cost of goods sold": 7615,
-        "Gross Profit": 1624,
-        "Financial expenses": 93,
-        "Of which: Interest expense": 93,
-        "Cost of sales": "N/A",
-        "Enterprise cost management": 191,
-        "Total Operating Expenses": 284,
-        "Total revenue financing activities": 108,
-        "Net profit from business activities": 1448,
-        "Profit": "N/A",
-        "Profit before tax": 1448,
-        "Present corporate income tax expenses": 290,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 290,
-        "Profit after tax corporate income": 1158,
-        "Volume": 7100000,
-        "Close of Quarter": 4.1,
-        "EPS": 173,
-        "Non-adjusted EPS": 173,
-        "PE": 23.7,
-        "Book Price": 10.6
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 8816,

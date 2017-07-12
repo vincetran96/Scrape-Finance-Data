@@ -2,34 +2,6 @@
   "ticker": "CCR",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 26645,
-        "Cost of goods sold": 20661,
-        "Gross Profit": 5985,
-        "Financial expenses": 2248,
-        "Of which: Interest expense": 2248,
-        "Cost of sales": 87,
-        "Enterprise cost management": 3319,
-        "Total Operating Expenses": 5654,
-        "Total revenue financing activities": 229,
-        "Net profit from business activities": 560,
-        "Profit": 117,
-        "Profit before tax": 677,
-        "Present corporate income tax expenses": 126,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": 56,
-        "Total Cost of profits": 182,
-        "Profit after tax corporate income": 494,
-        "Volume": 24501817,
-        "Close of Quarter": 20.9,
-        "EPS": 211,
-        "Non-adjusted EPS": 211,
-        "PE": 98.9,
-        "Book Price": 10.6
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 19578,

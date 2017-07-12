@@ -2,34 +2,6 @@
   "ticker": "VTX",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 53835,
-        "Cost of goods sold": 38551,
-        "Gross Profit": 15284,
-        "Financial expenses": 227,
-        "Of which: Interest expense": 173,
-        "Cost of sales": "N/A",
-        "Enterprise cost management": 5366,
-        "Total Operating Expenses": 5593,
-        "Total revenue financing activities": 727,
-        "Net profit from business activities": 10418,
-        "Profit": 2266,
-        "Profit before tax": 12683,
-        "Present corporate income tax expenses": 3046,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 3046,
-        "Profit after tax corporate income": 9637,
-        "Volume": 20972321,
-        "Close of Quarter": 13.7,
-        "EPS": 2564,
-        "Non-adjusted EPS": 2564,
-        "PE": 5.4,
-        "Book Price": 13.7
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 152947,

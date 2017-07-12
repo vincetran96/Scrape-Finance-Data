@@ -2,34 +2,6 @@
   "ticker": "DHP",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 67135,
-        "Cost of goods sold": 58354,
-        "Gross Profit": 8781,
-        "Financial expenses": 720,
-        "Of which: Interest expense": 435,
-        "Cost of sales": 1048,
-        "Enterprise cost management": 3227,
-        "Total Operating Expenses": 4995,
-        "Total revenue financing activities": 4,
-        "Net profit from business activities": 3789,
-        "Profit": 68,
-        "Profit before tax": 3857,
-        "Present corporate income tax expenses": 771,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 771,
-        "Profit after tax corporate income": 3085,
-        "Volume": 9492200,
-        "Close of Quarter": 8.8,
-        "EPS": 1340,
-        "Non-adjusted EPS": 1340,
-        "PE": 6.6,
-        "Book Price": 15.6
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 33128,

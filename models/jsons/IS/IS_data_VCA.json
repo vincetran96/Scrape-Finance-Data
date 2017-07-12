@@ -2,34 +2,6 @@
   "ticker": "VCA",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 398070,
-        "Cost of goods sold": 364194,
-        "Gross Profit": 33876,
-        "Financial expenses": 582,
-        "Of which: Interest expense": 582,
-        "Cost of sales": 4605,
-        "Enterprise cost management": 7898,
-        "Total Operating Expenses": 13085,
-        "Total revenue financing activities": 284,
-        "Net profit from business activities": 21076,
-        "Profit": -52,
-        "Profit before tax": 21024,
-        "Present corporate income tax expenses": 4205,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 4205,
-        "Profit after tax corporate income": 16819,
-        "Volume": 15187322,
-        "Close of Quarter": 9.6,
-        "EPS": 2842,
-        "Non-adjusted EPS": 2842,
-        "PE": 3.4,
-        "Book Price": 14.5
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 351905,

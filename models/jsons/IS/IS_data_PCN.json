@@ -2,34 +2,6 @@
   "ticker": "PCN",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 9936,
-        "Cost of goods sold": 10425,
-        "Gross Profit": -488,
-        "Financial expenses": 7,
-        "Of which: Interest expense": "N/A",
-        "Cost of sales": 978,
-        "Enterprise cost management": 1161,
-        "Total Operating Expenses": 2146,
-        "Total revenue financing activities": 16,
-        "Net profit from business activities": -2619,
-        "Profit": -32,
-        "Profit before tax": -2651,
-        "Present corporate income tax expenses": "N/A",
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 0,
-        "Profit after tax corporate income": -2651,
-        "Volume": 3924550,
-        "Close of Quarter": 2.9,
-        "EPS": -1480,
-        "Non-adjusted EPS": -1480,
-        "PE": -2.0,
-        "Book Price": 8.9
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 42809,

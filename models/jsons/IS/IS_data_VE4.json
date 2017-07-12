@@ -2,34 +2,6 @@
   "ticker": "VE4",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 3226,
-        "Cost of goods sold": 1926,
-        "Gross Profit": 1300,
-        "Financial expenses": -171,
-        "Of which: Interest expense": 29,
-        "Cost of sales": "N/A",
-        "Enterprise cost management": 898,
-        "Total Operating Expenses": 727,
-        "Total revenue financing activities": 12,
-        "Net profit from business activities": 585,
-        "Profit": -9,
-        "Profit before tax": 577,
-        "Present corporate income tax expenses": 120,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 120,
-        "Profit after tax corporate income": 457,
-        "Volume": 1028000,
-        "Close of Quarter": 10.4,
-        "EPS": 3116,
-        "Non-adjusted EPS": 3116,
-        "PE": 3.4,
-        "Book Price": 17.1
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 25310,

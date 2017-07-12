@@ -2,34 +2,6 @@
   "ticker": "PSB",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 11034,
-        "Cost of goods sold": 10191,
-        "Gross Profit": 842,
-        "Financial expenses": 4,
-        "Of which: Interest expense": "N/A",
-        "Cost of sales": 623,
-        "Enterprise cost management": 6413,
-        "Total Operating Expenses": 7040,
-        "Total revenue financing activities": 6658,
-        "Net profit from business activities": 460,
-        "Profit": -138,
-        "Profit before tax": 322,
-        "Present corporate income tax expenses": "N/A",
-        "Deferred income taxes expenses": 222,
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 222,
-        "Profit after tax corporate income": 100,
-        "Volume": 50000000,
-        "Close of Quarter": 4.6,
-        "EPS": 47,
-        "Non-adjusted EPS": 47,
-        "PE": 97.9,
-        "Book Price": 11.2
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 54394,

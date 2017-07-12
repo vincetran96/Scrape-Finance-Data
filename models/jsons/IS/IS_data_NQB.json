@@ -2,34 +2,6 @@
   "ticker": "NQB",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 15852,
-        "Cost of goods sold": 12835,
-        "Gross Profit": 3017,
-        "Financial expenses": 499,
-        "Of which: Interest expense": 499,
-        "Cost of sales": 367,
-        "Enterprise cost management": 1080,
-        "Total Operating Expenses": 1946,
-        "Total revenue financing activities": 355,
-        "Net profit from business activities": 1426,
-        "Profit": 3,
-        "Profit before tax": 1428,
-        "Present corporate income tax expenses": 286,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 286,
-        "Profit after tax corporate income": 1143,
-        "Volume": 17230204,
-        "Close of Quarter": 9.9,
-        "EPS": 219,
-        "Non-adjusted EPS": 219,
-        "PE": 45.4,
-        "Book Price": 10.3
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 14840,

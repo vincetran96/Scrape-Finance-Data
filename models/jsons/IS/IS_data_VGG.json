@@ -2,34 +2,6 @@
   "ticker": "VGG",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 1511926,
-        "Cost of goods sold": 1298917,
-        "Gross Profit": 213010,
-        "Financial expenses": 9242,
-        "Of which: Interest expense": "N/A",
-        "Cost of sales": 70277,
-        "Enterprise cost management": 57227,
-        "Total Operating Expenses": 136746,
-        "Total revenue financing activities": 7961,
-        "Net profit from business activities": 95372,
-        "Profit": 747,
-        "Profit before tax": 96119,
-        "Present corporate income tax expenses": 18088,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": -2138,
-        "Total Cost of profits": 15950,
-        "Profit after tax corporate income": 80169,
-        "Volume": 42000000,
-        "Close of Quarter": 63,
-        "EPS": 9124,
-        "Non-adjusted EPS": 9124,
-        "PE": 6.9,
-        "Book Price": 32.5
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 1858825,

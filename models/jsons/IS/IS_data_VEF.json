@@ -2,34 +2,6 @@
   "ticker": "VEF",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 4005,
-        "Cost of goods sold": 5255,
-        "Gross Profit": -1250,
-        "Financial expenses": "N/A",
-        "Of which: Interest expense": "N/A",
-        "Cost of sales": 227,
-        "Enterprise cost management": 1840,
-        "Total Operating Expenses": 2067,
-        "Total revenue financing activities": 21785,
-        "Net profit from business activities": 18468,
-        "Profit": -47,
-        "Profit before tax": 18421,
-        "Present corporate income tax expenses": 3695,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 3695,
-        "Profit after tax corporate income": 14727,
-        "Volume": 166604050,
-        "Close of Quarter": 60.8,
-        "EPS": 288,
-        "Non-adjusted EPS": 288,
-        "PE": 211.1,
-        "Book Price": 10.6
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 6323,

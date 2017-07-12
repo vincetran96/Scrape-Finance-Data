@@ -2,34 +2,6 @@
   "ticker": "VGC",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 2028647,
-        "Cost of goods sold": 1523478,
-        "Gross Profit": 505169,
-        "Financial expenses": 40995,
-        "Of which: Interest expense": 35725,
-        "Cost of sales": 120064,
-        "Enterprise cost management": 127852,
-        "Total Operating Expenses": 288911,
-        "Total revenue financing activities": 22579,
-        "Net profit from business activities": 238961,
-        "Profit": 4406,
-        "Profit before tax": 243367,
-        "Present corporate income tax expenses": 44797,
-        "Deferred income taxes expenses": -28,
-        "The interests of minority shareholders": 22010,
-        "Total Cost of profits": 66779,
-        "Profit after tax corporate income": 176589,
-        "Volume": 307000000,
-        "Close of Quarter": 15.6,
-        "EPS": 1886,
-        "Non-adjusted EPS": 1886,
-        "PE": 8.3,
-        "Book Price": 15
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 2376448,

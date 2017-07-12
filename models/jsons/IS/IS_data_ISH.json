@@ -2,34 +2,6 @@
   "ticker": "ISH",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 29247,
-        "Cost of goods sold": 23573,
-        "Gross Profit": 5674,
-        "Financial expenses": 7799,
-        "Of which: Interest expense": 7777,
-        "Cost of sales": "N/A",
-        "Enterprise cost management": 2862,
-        "Total Operating Expenses": 10661,
-        "Total revenue financing activities": 134,
-        "Net profit from business activities": -4854,
-        "Profit": "N/A",
-        "Profit before tax": -4854,
-        "Present corporate income tax expenses": "N/A",
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 0,
-        "Profit after tax corporate income": -4854,
-        "Volume": 45000000,
-        "Close of Quarter": 11,
-        "EPS": 694,
-        "Non-adjusted EPS": 694,
-        "PE": 15.9,
-        "Book Price": 10.7
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 46882,

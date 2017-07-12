@@ -1,0 +1,41 @@
+{
+  "ticker": "SDF",
+  "data": [
+    {
+      "quarter": "Q3 2015",
+      "cash_flow_status": {
+        "cash_collected_from_customers": "N/A",
+        "cash_paid_for_suppliers": "N/A",
+        "cash_paid_for_employees": "N/A",
+        "cash_paid_for_interest": "N/A",
+        "cash_paid_for_taxes": "N/A",
+        "cash_paid_for_VAT": "N/A",
+        "other_cash_collected_for_operating_activities": "N/A",
+        "other_cash_paid_for_operating_activities": "N/A",
+        "net_cash_from_operating": "N/A",
+        "cash_paid_for_new_PPE": "N/A",
+        "cash_collected_from_PPE_sales": "N/A",
+        "cash_paid_for_loans": "N/A",
+        "cash_collected_from_loans": "N/A",
+        "cash_paid_for_investments_in_other_companies": "N/A",
+        "cash_collected_from_investments_in_other_companies": "N/A",
+        "cash_collected_from_interest": "N/A",
+        "net_cash_from_investing": "N/A",
+        "cash_collected_from_issuing_shares": "N/A",
+        "cash_paid_for_capital_contribution": "N/A",
+        "cash_paid_for_short_term_borrowing": "N/A",
+        "cash_paid_for_principles": "N/A",
+        "cash_paid_for_PPE_lease": "N/A",
+        "cash_paid_for_financial_lease": "N/A",
+        "dividends_paid": "N/A",
+        "cash_paid_for_firm_funds": "N/A",
+        "net_cash_from_financing": "N/A",
+        "net_cash_flow": -8286,
+        "cash_cash_equivalent_begin": "N/A",
+        "effects_of_exchange_rate": "N/A",
+        "cash_cash_equivalent_end": "N/A"
+      }
+    }
+  ],
+  "type": "direct"
+}

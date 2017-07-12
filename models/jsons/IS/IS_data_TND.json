@@ -2,34 +2,6 @@
   "ticker": "TND",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 571007,
-        "Cost of goods sold": 506636,
-        "Gross Profit": 64371,
-        "Financial expenses": 23411,
-        "Of which: Interest expense": 23411,
-        "Cost of sales": 339,
-        "Enterprise cost management": 36785,
-        "Total Operating Expenses": 60535,
-        "Total revenue financing activities": 15,
-        "Net profit from business activities": 3851,
-        "Profit": 918,
-        "Profit before tax": 4769,
-        "Present corporate income tax expenses": "N/A",
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 0,
-        "Profit after tax corporate income": 4769,
-        "Volume": 16000000,
-        "Close of Quarter": 7.2,
-        "EPS": 6140,
-        "Non-adjusted EPS": 6140,
-        "PE": 1.2,
-        "Book Price": 16
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 424698,

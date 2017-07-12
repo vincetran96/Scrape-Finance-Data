@@ -2,34 +2,6 @@
   "ticker": "C32",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 98401,
-        "Cost of goods sold": 73537,
-        "Gross Profit": 24863,
-        "Financial expenses": 1022,
-        "Of which: Interest expense": 1022,
-        "Cost of sales": 3033,
-        "Enterprise cost management": 3501,
-        "Total Operating Expenses": 7556,
-        "Total revenue financing activities": 2090,
-        "Net profit from business activities": 19398,
-        "Profit": 98,
-        "Profit before tax": 19496,
-        "Present corporate income tax expenses": 3943,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 3943,
-        "Profit after tax corporate income": 15553,
-        "Volume": 11200000,
-        "Close of Quarter": 40.2,
-        "EPS": 8312,
-        "Non-adjusted EPS": 8312,
-        "PE": 4.8,
-        "Book Price": 35.2
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 154102,

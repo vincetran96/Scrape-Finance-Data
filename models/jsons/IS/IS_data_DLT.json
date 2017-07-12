@@ -2,34 +2,6 @@
   "ticker": "DLT",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 268777,
-        "Cost of goods sold": 217400,
-        "Gross Profit": 51377,
-        "Financial expenses": 3921,
-        "Of which: Interest expense": 3824,
-        "Cost of sales": 35894,
-        "Enterprise cost management": 9264,
-        "Total Operating Expenses": 49079,
-        "Total revenue financing activities": 176,
-        "Net profit from business activities": 2473,
-        "Profit": -5,
-        "Profit before tax": 2468,
-        "Present corporate income tax expenses": 494,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 494,
-        "Profit after tax corporate income": 1975,
-        "Volume": "N/A",
-        "Close of Quarter": 13.7,
-        "EPS": "N/A",
-        "Non-adjusted EPS": " ",
-        "PE": "N/A",
-        "Book Price": "N/A"
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 388984,

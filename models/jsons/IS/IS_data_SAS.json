@@ -2,34 +2,6 @@
   "ticker": "SAS",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 586555,
-        "Cost of goods sold": 336431,
-        "Gross Profit": 250123,
-        "Financial expenses": 2169,
-        "Of which: Interest expense": 395,
-        "Cost of sales": 141877,
-        "Enterprise cost management": 56862,
-        "Total Operating Expenses": 200908,
-        "Total revenue financing activities": 27119,
-        "Net profit from business activities": 76335,
-        "Profit": 1831,
-        "Profit before tax": 78166,
-        "Present corporate income tax expenses": 12161,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 12161,
-        "Profit after tax corporate income": 66004,
-        "Volume": 131500000,
-        "Close of Quarter": 25.0,
-        "EPS": 1956,
-        "Non-adjusted EPS": 1956,
-        "PE": 12.8,
-        "Book Price": 11.6
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 548680,

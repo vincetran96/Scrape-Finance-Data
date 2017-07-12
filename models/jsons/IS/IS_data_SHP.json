@@ -2,34 +2,6 @@
   "ticker": "SHP",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 76483,
-        "Cost of goods sold": 60866,
-        "Gross Profit": 15617,
-        "Financial expenses": 22999,
-        "Of which: Interest expense": 22999,
-        "Cost of sales": "N/A",
-        "Enterprise cost management": 4829,
-        "Total Operating Expenses": 27828,
-        "Total revenue financing activities": 67,
-        "Net profit from business activities": -12143,
-        "Profit": "N/A",
-        "Profit before tax": -12143,
-        "Present corporate income tax expenses": "N/A",
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 0,
-        "Profit after tax corporate income": -12143,
-        "Volume": "N/A",
-        "Close of Quarter": 19.8,
-        "EPS": "N/A",
-        "Non-adjusted EPS": " ",
-        "PE": "N/A",
-        "Book Price": "N/A"
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 171652,

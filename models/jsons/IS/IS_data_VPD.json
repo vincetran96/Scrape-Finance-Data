@@ -2,34 +2,6 @@
   "ticker": "VPD",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 101061,
-        "Cost of goods sold": 59179,
-        "Gross Profit": 41882,
-        "Financial expenses": 28861,
-        "Of which: Interest expense": 28765,
-        "Cost of sales": "N/A",
-        "Enterprise cost management": 5911,
-        "Total Operating Expenses": 34772,
-        "Total revenue financing activities": 568,
-        "Net profit from business activities": 7678,
-        "Profit": -66,
-        "Profit before tax": 7612,
-        "Present corporate income tax expenses": 536,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 536,
-        "Profit after tax corporate income": 7076,
-        "Volume": 102493098,
-        "Close of Quarter": 11.9,
-        "EPS": 881,
-        "Non-adjusted EPS": 881,
-        "PE": 13.5,
-        "Book Price": 10.9
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 123704,

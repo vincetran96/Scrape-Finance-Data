@@ -2,34 +2,6 @@
   "ticker": "HNF",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 340828,
-        "Cost of goods sold": 274171,
-        "Gross Profit": 66657,
-        "Financial expenses": 3179,
-        "Of which: Interest expense": 1364,
-        "Cost of sales": 48513,
-        "Enterprise cost management": 9096,
-        "Total Operating Expenses": 60788,
-        "Total revenue financing activities": 2036,
-        "Net profit from business activities": 7906,
-        "Profit": -58,
-        "Profit before tax": 7848,
-        "Present corporate income tax expenses": 1397,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 1397,
-        "Profit after tax corporate income": 6451,
-        "Volume": 20000000,
-        "Close of Quarter": 25.2,
-        "EPS": 1598,
-        "Non-adjusted EPS": 1598,
-        "PE": 15.8,
-        "Book Price": 14.4
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 369578,

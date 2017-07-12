@@ -2,34 +2,6 @@
   "ticker": "PPS",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 39995,
-        "Cost of goods sold": 29168,
-        "Gross Profit": 10827,
-        "Financial expenses": "N/A",
-        "Of which: Interest expense": "N/A",
-        "Cost of sales": "N/A",
-        "Enterprise cost management": 9023,
-        "Total Operating Expenses": 9023,
-        "Total revenue financing activities": 46,
-        "Net profit from business activities": 1850,
-        "Profit": -20,
-        "Profit before tax": 1830,
-        "Present corporate income tax expenses": 357,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 357,
-        "Profit after tax corporate income": 1473,
-        "Volume": 15000000,
-        "Close of Quarter": 11.7,
-        "EPS": 1686,
-        "Non-adjusted EPS": 1686,
-        "PE": 6.9,
-        "Book Price": 11.3
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 426126,
@@ -699,90 +671,6 @@
         "Non-adjusted EPS": 945,
         "PE": 5.1,
         "Book Price": 12.2
-      }
-    },
-    {
-      "quarter": "Q3 2010",
-      "income status": {
-        "Net sales": 182390,
-        "Cost of goods sold": 177074,
-        "Gross Profit": 5316,
-        "Financial expenses": 17,
-        "Of which: Interest expense": 17,
-        "Cost of sales": "N/A",
-        "Enterprise cost management": 4824,
-        "Total Operating Expenses": 4841,
-        "Total revenue financing activities": 3706,
-        "Net profit from business activities": 4180,
-        "Profit": 12,
-        "Profit before tax": 4192,
-        "Present corporate income tax expenses": 1057,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 1057,
-        "Profit after tax corporate income": 3135,
-        "Volume": 15000000,
-        "Close of Quarter": "N/A",
-        "EPS": 745,
-        "Non-adjusted EPS": 745,
-        "PE": "N/A",
-        "Book Price": 10.8
-      }
-    },
-    {
-      "quarter": "Q1 2010",
-      "income status": {
-        "Net sales": 141627,
-        "Cost of goods sold": 136254,
-        "Gross Profit": 5373,
-        "Financial expenses": 175,
-        "Of which: Interest expense": 175,
-        "Cost of sales": "N/A",
-        "Enterprise cost management": 4659,
-        "Total Operating Expenses": 4834,
-        "Total revenue financing activities": 3193,
-        "Net profit from business activities": 3732,
-        "Profit": 123,
-        "Profit before tax": 3855,
-        "Present corporate income tax expenses": 926,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 926,
-        "Profit after tax corporate income": 2929,
-        "Volume": 15000000,
-        "Close of Quarter": "N/A",
-        "EPS": 536,
-        "Non-adjusted EPS": 536,
-        "PE": "N/A",
-        "Book Price": "N/A"
-      }
-    },
-    {
-      "quarter": "Q3 2009",
-      "income status": {
-        "Net sales": 147861,
-        "Cost of goods sold": 140004,
-        "Gross Profit": 7857,
-        "Financial expenses": "N/A",
-        "Of which: Interest expense": "N/A",
-        "Cost of sales": "N/A",
-        "Enterprise cost management": 4504,
-        "Total Operating Expenses": 4504,
-        "Total revenue financing activities": 2832,
-        "Net profit from business activities": 6185,
-        "Profit": 5,
-        "Profit before tax": 6190,
-        "Present corporate income tax expenses": 1083,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 1083,
-        "Profit after tax corporate income": 5107,
-        "Volume": 15000000,
-        "Close of Quarter": "N/A",
-        "EPS": 340,
-        "Non-adjusted EPS": 340,
-        "PE": "N/A",
-        "Book Price": "N/A"
       }
     }
   ]

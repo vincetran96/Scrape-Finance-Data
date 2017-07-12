@@ -2,34 +2,6 @@
   "ticker": "DGW",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 761492,
-        "Cost of goods sold": 717610,
-        "Gross Profit": 43882,
-        "Financial expenses": 4423,
-        "Of which: Interest expense": 3657,
-        "Cost of sales": 21049,
-        "Enterprise cost management": 13281,
-        "Total Operating Expenses": 38753,
-        "Total revenue financing activities": 5572,
-        "Net profit from business activities": 10700,
-        "Profit": 65,
-        "Profit before tax": 10765,
-        "Present corporate income tax expenses": 2179,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 2179,
-        "Profit after tax corporate income": 8586,
-        "Volume": 39751747,
-        "Close of Quarter": 15.8,
-        "EPS": 1392,
-        "Non-adjusted EPS": 1392,
-        "PE": 11.4,
-        "Book Price": 16.1
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 1009444,

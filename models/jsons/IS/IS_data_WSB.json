@@ -2,34 +2,6 @@
   "ticker": "WSB",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 244189,
-        "Cost of goods sold": 195092,
-        "Gross Profit": 49097,
-        "Financial expenses": 2808,
-        "Of which: Interest expense": 2808,
-        "Cost of sales": 2833,
-        "Enterprise cost management": 7516,
-        "Total Operating Expenses": 13157,
-        "Total revenue financing activities": 73,
-        "Net profit from business activities": 38002,
-        "Profit": -48,
-        "Profit before tax": 37954,
-        "Present corporate income tax expenses": 3066,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 3066,
-        "Profit after tax corporate income": 34889,
-        "Volume": 14500000,
-        "Close of Quarter": 55.6,
-        "EPS": 7910,
-        "Non-adjusted EPS": 7910,
-        "PE": 7.0,
-        "Book Price": 36.5
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 264455,

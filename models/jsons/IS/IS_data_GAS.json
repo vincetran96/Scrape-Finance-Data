@@ -2,34 +2,6 @@
   "ticker": "GAS",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 16257396,
-        "Cost of goods sold": 12859577,
-        "Gross Profit": 3397819,
-        "Financial expenses": 81937,
-        "Of which: Interest expense": 63807,
-        "Cost of sales": 569814,
-        "Enterprise cost management": 246563,
-        "Total Operating Expenses": 898314,
-        "Total revenue financing activities": 238731,
-        "Net profit from business activities": 2737623,
-        "Profit": 46966,
-        "Profit before tax": 2784590,
-        "Present corporate income tax expenses": 559790,
-        "Deferred income taxes expenses": 9032,
-        "The interests of minority shareholders": 39693,
-        "Total Cost of profits": 608515,
-        "Profit after tax corporate income": 2176075,
-        "Volume": 1913950000,
-        "Close of Quarter": 54.3,
-        "EPS": 4113,
-        "Non-adjusted EPS": 4113,
-        "PE": 13.2,
-        "Book Price": 22.2
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 15662687,

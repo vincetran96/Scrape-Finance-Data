@@ -2,34 +2,6 @@
   "ticker": "HKB",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 57012,
-        "Cost of goods sold": 56065,
-        "Gross Profit": 947,
-        "Financial expenses": 3155,
-        "Of which: Interest expense": 2574,
-        "Cost of sales": 452,
-        "Enterprise cost management": 14948,
-        "Total Operating Expenses": 18555,
-        "Total revenue financing activities": 494,
-        "Net profit from business activities": -17115,
-        "Profit": 23874,
-        "Profit before tax": 6759,
-        "Present corporate income tax expenses": 3654,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": -11,
-        "Total Cost of profits": 3643,
-        "Profit after tax corporate income": 3116,
-        "Volume": 51599999,
-        "Close of Quarter": 6.3,
-        "EPS": 1193,
-        "Non-adjusted EPS": 1193,
-        "PE": 5.3,
-        "Book Price": 11.6
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 301255,

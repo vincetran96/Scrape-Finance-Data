@@ -2,34 +2,6 @@
   "ticker": "DAT",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 212339,
-        "Cost of goods sold": 194567,
-        "Gross Profit": 17772,
-        "Financial expenses": 10323,
-        "Of which: Interest expense": 10323,
-        "Cost of sales": 2339,
-        "Enterprise cost management": 1634,
-        "Total Operating Expenses": 14296,
-        "Total revenue financing activities": 2612,
-        "Net profit from business activities": 6088,
-        "Profit": -136,
-        "Profit before tax": 5953,
-        "Present corporate income tax expenses": 506,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 506,
-        "Profit after tax corporate income": 5447,
-        "Volume": 38100000,
-        "Close of Quarter": 21.7,
-        "EPS": 708,
-        "Non-adjusted EPS": 708,
-        "PE": 30.7,
-        "Book Price": 12
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 389285,

@@ -2,34 +2,6 @@
   "ticker": "GEX",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 2828672,
-        "Cost of goods sold": 2344160,
-        "Gross Profit": 484512,
-        "Financial expenses": 107793,
-        "Of which: Interest expense": 102920,
-        "Cost of sales": 74811,
-        "Enterprise cost management": 120075,
-        "Total Operating Expenses": 302679,
-        "Total revenue financing activities": 607903,
-        "Net profit from business activities": 779102,
-        "Profit": 1615,
-        "Profit before tax": 780717,
-        "Present corporate income tax expenses": 156718,
-        "Deferred income taxes expenses": -466,
-        "The interests of minority shareholders": 322760,
-        "Total Cost of profits": 479012,
-        "Profit after tax corporate income": 301706,
-        "Volume": 232000000,
-        "Close of Quarter": 20.4,
-        "EPS": 2905,
-        "Non-adjusted EPS": 2905,
-        "PE": 7.0,
-        "Book Price": 27.2
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 1723941,

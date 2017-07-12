@@ -2,34 +2,6 @@
   "ticker": "TVC",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 8772,
-        "Cost of goods sold": 1498,
-        "Gross Profit": 7274,
-        "Financial expenses": 6738,
-        "Of which: Interest expense": 6248,
-        "Cost of sales": 843,
-        "Enterprise cost management": 3018,
-        "Total Operating Expenses": 10599,
-        "Total revenue financing activities": 13983,
-        "Net profit from business activities": 10659,
-        "Profit": 1266,
-        "Profit before tax": 11925,
-        "Present corporate income tax expenses": 2399,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": 1563,
-        "Total Cost of profits": 3962,
-        "Profit after tax corporate income": 7963,
-        "Volume": 36888630,
-        "Close of Quarter": 14,
-        "EPS": 1130,
-        "Non-adjusted EPS": 1130,
-        "PE": 12.4,
-        "Book Price": 12.6
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 13293,

@@ -2,34 +2,6 @@
   "ticker": "PIS",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 136163,
-        "Cost of goods sold": 113139,
-        "Gross Profit": 23024,
-        "Financial expenses": 706,
-        "Of which: Interest expense": 412,
-        "Cost of sales": 8989,
-        "Enterprise cost management": 5854,
-        "Total Operating Expenses": 15549,
-        "Total revenue financing activities": 678,
-        "Net profit from business activities": 9104,
-        "Profit": -13,
-        "Profit before tax": 9090,
-        "Present corporate income tax expenses": 1603,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": 208,
-        "Total Cost of profits": 1811,
-        "Profit after tax corporate income": 7279,
-        "Volume": 27500000,
-        "Close of Quarter": 6.1,
-        "EPS": 1311,
-        "Non-adjusted EPS": 1311,
-        "PE": 4.6,
-        "Book Price": 12.8
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 82744,

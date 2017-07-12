@@ -2,34 +2,6 @@
   "ticker": "HAH",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 129327,
-        "Cost of goods sold": 90643,
-        "Gross Profit": 38683,
-        "Financial expenses": 1188,
-        "Of which: Interest expense": 1044,
-        "Cost of sales": "N/A",
-        "Enterprise cost management": 7831,
-        "Total Operating Expenses": 9019,
-        "Total revenue financing activities": 2387,
-        "Net profit from business activities": 33796,
-        "Profit": 38,
-        "Profit before tax": 33834,
-        "Present corporate income tax expenses": 2725,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": 37,
-        "Total Cost of profits": 2762,
-        "Profit after tax corporate income": 31072,
-        "Volume": 23196232,
-        "Close of Quarter": 26.2,
-        "EPS": 5560,
-        "Non-adjusted EPS": 5560,
-        "PE": 4.7,
-        "Book Price": 25.5
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 144402,

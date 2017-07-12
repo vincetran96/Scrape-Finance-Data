@@ -2,34 +2,6 @@
   "ticker": "TOP",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 19033,
-        "Cost of goods sold": 21366,
-        "Gross Profit": -2333,
-        "Financial expenses": 7,
-        "Of which: Interest expense": "N/A",
-        "Cost of sales": 2,
-        "Enterprise cost management": 606,
-        "Total Operating Expenses": 615,
-        "Total revenue financing activities": 1,
-        "Net profit from business activities": -2948,
-        "Profit": -63,
-        "Profit before tax": -3010,
-        "Present corporate income tax expenses": "N/A",
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 0,
-        "Profit after tax corporate income": -3010,
-        "Volume": 25350000,
-        "Close of Quarter": 1.9,
-        "EPS": 264,
-        "Non-adjusted EPS": 264,
-        "PE": 7.2,
-        "Book Price": 9.9
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 18273,

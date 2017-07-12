@@ -2,34 +2,6 @@
   "ticker": "PHP",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 563219,
-        "Cost of goods sold": 350420,
-        "Gross Profit": 212799,
-        "Financial expenses": 18515,
-        "Of which: Interest expense": 10631,
-        "Cost of sales": "N/A",
-        "Enterprise cost management": 41893,
-        "Total Operating Expenses": 60408,
-        "Total revenue financing activities": 11343,
-        "Net profit from business activities": 166360,
-        "Profit": 660,
-        "Profit before tax": 167020,
-        "Present corporate income tax expenses": 27629,
-        "Deferred income taxes expenses": -15,
-        "The interests of minority shareholders": 32595,
-        "Total Cost of profits": 60209,
-        "Profit after tax corporate income": 106811,
-        "Volume": 326960000,
-        "Close of Quarter": 15.3,
-        "EPS": 1352,
-        "Non-adjusted EPS": 1352,
-        "PE": 11.3,
-        "Book Price": 12.2
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 621444,

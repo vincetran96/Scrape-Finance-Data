@@ -2,34 +2,6 @@
   "ticker": "DCM",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 1210900,
-        "Cost of goods sold": 694424,
-        "Gross Profit": 516476,
-        "Financial expenses": 82021,
-        "Of which: Interest expense": 46042,
-        "Cost of sales": 107739,
-        "Enterprise cost management": 60158,
-        "Total Operating Expenses": 249918,
-        "Total revenue financing activities": 34524,
-        "Net profit from business activities": 301083,
-        "Profit": 960,
-        "Profit before tax": 302043,
-        "Present corporate income tax expenses": 15622,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": 1998,
-        "Total Cost of profits": 17620,
-        "Profit after tax corporate income": 284423,
-        "Volume": 529400000,
-        "Close of Quarter": 10.1,
-        "EPS": 1490,
-        "Non-adjusted EPS": 1490,
-        "PE": 6.8,
-        "Book Price": 11.6
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 1745984,

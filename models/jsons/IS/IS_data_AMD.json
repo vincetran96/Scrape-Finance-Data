@@ -2,34 +2,6 @@
   "ticker": "AMD",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 291628,
-        "Cost of goods sold": 265097,
-        "Gross Profit": 26531,
-        "Financial expenses": 3334,
-        "Of which: Interest expense": 3179,
-        "Cost of sales": 2138,
-        "Enterprise cost management": 10894,
-        "Total Operating Expenses": 16366,
-        "Total revenue financing activities": 503,
-        "Net profit from business activities": 10535,
-        "Profit": -95,
-        "Profit before tax": 10440,
-        "Present corporate income tax expenses": 2923,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": 287,
-        "Total Cost of profits": 3210,
-        "Profit after tax corporate income": 7230,
-        "Volume": 64878394,
-        "Close of Quarter": 13.6,
-        "EPS": 589,
-        "Non-adjusted EPS": 589,
-        "PE": 23.0,
-        "Book Price": 11.8
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 390771,

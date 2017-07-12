@@ -2,34 +2,6 @@
   "ticker": "BDW",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 35998,
-        "Cost of goods sold": 28282,
-        "Gross Profit": 7715,
-        "Financial expenses": 1303,
-        "Of which: Interest expense": 1303,
-        "Cost of sales": 2003,
-        "Enterprise cost management": 3035,
-        "Total Operating Expenses": 6341,
-        "Total revenue financing activities": 154,
-        "Net profit from business activities": 1528,
-        "Profit": 10,
-        "Profit before tax": 1539,
-        "Present corporate income tax expenses": 314,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 314,
-        "Profit after tax corporate income": 1225,
-        "Volume": 12410800,
-        "Close of Quarter": 7,
-        "EPS": 886,
-        "Non-adjusted EPS": 886,
-        "PE": 7.9,
-        "Book Price": 12.1
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 33674,

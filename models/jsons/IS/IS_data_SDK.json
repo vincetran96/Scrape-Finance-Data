@@ -2,34 +2,6 @@
   "ticker": "SDK",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 39743,
-        "Cost of goods sold": 32341,
-        "Gross Profit": 7403,
-        "Financial expenses": 151,
-        "Of which: Interest expense": "N/A",
-        "Cost of sales": 170,
-        "Enterprise cost management": 3838,
-        "Total Operating Expenses": 4159,
-        "Total revenue financing activities": 68,
-        "Net profit from business activities": 3311,
-        "Profit": "N/A",
-        "Profit before tax": 3311,
-        "Present corporate income tax expenses": 497,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 497,
-        "Profit after tax corporate income": 2814,
-        "Volume": 2600000,
-        "Close of Quarter": 27.6,
-        "EPS": 5350,
-        "Non-adjusted EPS": 5350,
-        "PE": 5.2,
-        "Book Price": 16.4
-      }
-    },
-    {
       "quarter": "Q3 2016",
       "income status": {
         "Net sales": 49209,

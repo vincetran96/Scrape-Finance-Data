@@ -2,34 +2,6 @@
   "ticker": "PSW",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 533127,
-        "Cost of goods sold": 515137,
-        "Gross Profit": 17990,
-        "Financial expenses": "N/A",
-        "Of which: Interest expense": "N/A",
-        "Cost of sales": 6667,
-        "Enterprise cost management": 5744,
-        "Total Operating Expenses": 12411,
-        "Total revenue financing activities": 1342,
-        "Net profit from business activities": 6921,
-        "Profit": 446,
-        "Profit before tax": 7367,
-        "Present corporate income tax expenses": 1473,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 1473,
-        "Profit after tax corporate income": 5894,
-        "Volume": 17000000,
-        "Close of Quarter": 10.5,
-        "EPS": 1737,
-        "Non-adjusted EPS": 1737,
-        "PE": 6.0,
-        "Book Price": 12.9
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 625666,

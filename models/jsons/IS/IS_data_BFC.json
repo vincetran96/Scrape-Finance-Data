@@ -2,34 +2,6 @@
   "ticker": "BFC",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 1172633,
-        "Cost of goods sold": 1000308,
-        "Gross Profit": 172325,
-        "Financial expenses": 25458,
-        "Of which: Interest expense": 22698,
-        "Cost of sales": 45026,
-        "Enterprise cost management": 22560,
-        "Total Operating Expenses": 93044,
-        "Total revenue financing activities": 1125,
-        "Net profit from business activities": 80406,
-        "Profit": 103,
-        "Profit before tax": 80509,
-        "Present corporate income tax expenses": 14795,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": 8703,
-        "Total Cost of profits": 23498,
-        "Profit after tax corporate income": 57011,
-        "Volume": 57167993,
-        "Close of Quarter": 33.7,
-        "EPS": 4362,
-        "Non-adjusted EPS": 4362,
-        "PE": 7.7,
-        "Book Price": 20.7
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 1450208,

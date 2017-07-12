@@ -2,34 +2,6 @@
   "ticker": "MBG",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 56054,
-        "Cost of goods sold": 53828,
-        "Gross Profit": 2226,
-        "Financial expenses": 9,
-        "Of which: Interest expense": "N/A",
-        "Cost of sales": 289,
-        "Enterprise cost management": 840,
-        "Total Operating Expenses": 1138,
-        "Total revenue financing activities": 1,
-        "Net profit from business activities": 1089,
-        "Profit": "N/A",
-        "Profit before tax": 1089,
-        "Present corporate income tax expenses": 218,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 218,
-        "Profit after tax corporate income": 871,
-        "Volume": 8000000,
-        "Close of Quarter": 4.6,
-        "EPS": 912,
-        "Non-adjusted EPS": 912,
-        "PE": 5.0,
-        "Book Price": 12.5
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 133134,

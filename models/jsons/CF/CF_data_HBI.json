@@ -1,0 +1,41 @@
+{
+  "ticker": "HBI",
+  "data": [
+    {
+      "quarter": "Q1 2016",
+      "cash_flow_status": {
+        "cash_collected_from_customers": 513220,
+        "cash_paid_for_suppliers": -510168,
+        "cash_paid_for_employees": -999,
+        "cash_paid_for_interest": -52746,
+        "cash_paid_for_taxes": -13489,
+        "cash_paid_for_VAT": "N/A",
+        "other_cash_collected_for_operating_activities": 66490,
+        "other_cash_paid_for_operating_activities": -1436895,
+        "net_cash_from_operating": -1434586,
+        "cash_paid_for_new_PPE": -44,
+        "cash_collected_from_PPE_sales": "N/A",
+        "cash_paid_for_loans": -305000,
+        "cash_collected_from_loans": 1526952,
+        "cash_paid_for_investments_in_other_companies": "N/A",
+        "cash_collected_from_investments_in_other_companies": "N/A",
+        "cash_collected_from_interest": 54,
+        "net_cash_from_investing": 1221963,
+        "cash_collected_from_issuing_shares": "N/A",
+        "cash_paid_for_capital_contribution": "N/A",
+        "cash_paid_for_short_term_borrowing": 169000,
+        "cash_paid_for_principles": -1405116,
+        "cash_paid_for_PPE_lease": "N/A",
+        "cash_paid_for_financial_lease": "N/A",
+        "dividends_paid": "N/A",
+        "cash_paid_for_firm_funds": "N/A",
+        "net_cash_from_financing": -1236116,
+        "net_cash_flow": -1448739,
+        "cash_cash_equivalent_begin": 1563867,
+        "effects_of_exchange_rate": "N/A",
+        "cash_cash_equivalent_end": 115127
+      }
+    }
+  ],
+  "type": "direct"
+}

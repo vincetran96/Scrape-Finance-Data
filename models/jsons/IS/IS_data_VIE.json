@@ -2,34 +2,6 @@
   "ticker": "VIE",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 877,
-        "Cost of goods sold": 602,
-        "Gross Profit": 275,
-        "Financial expenses": "N/A",
-        "Of which: Interest expense": "N/A",
-        "Cost of sales": 133,
-        "Enterprise cost management": 805,
-        "Total Operating Expenses": 938,
-        "Total revenue financing activities": 1,
-        "Net profit from business activities": -662,
-        "Profit": 59,
-        "Profit before tax": -603,
-        "Present corporate income tax expenses": "N/A",
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 0,
-        "Profit after tax corporate income": -603,
-        "Volume": 1561244,
-        "Close of Quarter": 4.5,
-        "EPS": -1782,
-        "Non-adjusted EPS": -1782,
-        "PE": -2.5,
-        "Book Price": 6
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 6716,
@@ -699,90 +671,6 @@
         "Non-adjusted EPS": 707,
         "PE": "N/A",
         "Book Price": 13.3
-      }
-    },
-    {
-      "quarter": "Q3 2010",
-      "income status": {
-        "Net sales": 13469,
-        "Cost of goods sold": 9717,
-        "Gross Profit": 3752,
-        "Financial expenses": 1311,
-        "Of which: Interest expense": 1311,
-        "Cost of sales": 30,
-        "Enterprise cost management": 2363,
-        "Total Operating Expenses": 3704,
-        "Total revenue financing activities": 436,
-        "Net profit from business activities": 483,
-        "Profit": 54,
-        "Profit before tax": 538,
-        "Present corporate income tax expenses": 134,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 134,
-        "Profit after tax corporate income": 403,
-        "Volume": 1561244,
-        "Close of Quarter": "N/A",
-        "EPS": 680,
-        "Non-adjusted EPS": 680,
-        "PE": "N/A",
-        "Book Price": "N/A"
-      }
-    },
-    {
-      "quarter": "Q2 2010",
-      "income status": {
-        "Net sales": 19525,
-        "Cost of goods sold": 18662,
-        "Gross Profit": 864,
-        "Financial expenses": 103,
-        "Of which: Interest expense": 103,
-        "Cost of sales": 68,
-        "Enterprise cost management": 195,
-        "Total Operating Expenses": 366,
-        "Total revenue financing activities": 174,
-        "Net profit from business activities": 672,
-        "Profit": "N/A",
-        "Profit before tax": 672,
-        "Present corporate income tax expenses": 168,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 168,
-        "Profit after tax corporate income": 504,
-        "Volume": 1561244,
-        "Close of Quarter": "N/A",
-        "EPS": 422,
-        "Non-adjusted EPS": 422,
-        "PE": "N/A",
-        "Book Price": "N/A"
-      }
-    },
-    {
-      "quarter": "Q1 2010",
-      "income status": {
-        "Net sales": 13834,
-        "Cost of goods sold": 11362,
-        "Gross Profit": 2472,
-        "Financial expenses": 682,
-        "Of which: Interest expense": 682,
-        "Cost of sales": 52,
-        "Enterprise cost management": 1997,
-        "Total Operating Expenses": 2731,
-        "Total revenue financing activities": 466,
-        "Net profit from business activities": 207,
-        "Profit": "N/A",
-        "Profit before tax": 207,
-        "Present corporate income tax expenses": 52,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 52,
-        "Profit after tax corporate income": 155,
-        "Volume": 1561244,
-        "Close of Quarter": "N/A",
-        "EPS": 99,
-        "Non-adjusted EPS": 99,
-        "PE": "N/A",
-        "Book Price": "N/A"
       }
     }
   ]

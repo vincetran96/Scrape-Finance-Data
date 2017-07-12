@@ -2,34 +2,6 @@
   "ticker": "ND2",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 51091,
-        "Cost of goods sold": 30085,
-        "Gross Profit": 21005,
-        "Financial expenses": 31996,
-        "Of which: Interest expense": 31771,
-        "Cost of sales": "N/A",
-        "Enterprise cost management": 4325,
-        "Total Operating Expenses": 36321,
-        "Total revenue financing activities": 199,
-        "Net profit from business activities": -15117,
-        "Profit": 18,
-        "Profit before tax": -15099,
-        "Present corporate income tax expenses": "N/A",
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 0,
-        "Profit after tax corporate income": -15099,
-        "Volume": 41529650,
-        "Close of Quarter": 16.5,
-        "EPS": 1543,
-        "Non-adjusted EPS": 1543,
-        "PE": 10.7,
-        "Book Price": 10.8
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 110453,
@@ -277,34 +249,6 @@
         "Close of Quarter": 2.9,
         "EPS": "N/A",
         "Non-adjusted EPS": " ",
-        "PE": "N/A",
-        "Book Price": "N/A"
-      }
-    },
-    {
-      "quarter": "Q1 2010",
-      "income status": {
-        "Net sales": "N/A",
-        "Cost of goods sold": "N/A",
-        "Gross Profit": "N/A",
-        "Financial expenses": 101,
-        "Of which: Interest expense": "N/A",
-        "Cost of sales": "N/A",
-        "Enterprise cost management": "N/A",
-        "Total Operating Expenses": 101,
-        "Total revenue financing activities": "N/A",
-        "Net profit from business activities": 366,
-        "Profit": -366,
-        "Profit before tax": "N/A",
-        "Present corporate income tax expenses": "N/A",
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 0,
-        "Profit after tax corporate income": 0,
-        "Volume": 19389650,
-        "Close of Quarter": "N/A",
-        "EPS": "",
-        "Non-adjusted EPS": "N/A",
         "PE": "N/A",
         "Book Price": "N/A"
       }

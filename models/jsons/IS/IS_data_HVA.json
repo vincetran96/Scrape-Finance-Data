@@ -2,34 +2,6 @@
   "ticker": "HVA",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 18129,
-        "Cost of goods sold": 17651,
-        "Gross Profit": 478,
-        "Financial expenses": 82,
-        "Of which: Interest expense": "N/A",
-        "Cost of sales": "N/A",
-        "Enterprise cost management": 282,
-        "Total Operating Expenses": 364,
-        "Total revenue financing activities": 222,
-        "Net profit from business activities": 336,
-        "Profit": -200,
-        "Profit before tax": 136,
-        "Present corporate income tax expenses": 27,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": 5,
-        "Total Cost of profits": 32,
-        "Profit after tax corporate income": 104,
-        "Volume": 5650000,
-        "Close of Quarter": 2.8,
-        "EPS": 272,
-        "Non-adjusted EPS": 272,
-        "PE": 10.3,
-        "Book Price": 13.8
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 16401,

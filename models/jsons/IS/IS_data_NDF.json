@@ -2,34 +2,6 @@
   "ticker": "NDF",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 8573,
-        "Cost of goods sold": 7484,
-        "Gross Profit": 1089,
-        "Financial expenses": 325,
-        "Of which: Interest expense": 325,
-        "Cost of sales": 21,
-        "Enterprise cost management": 486,
-        "Total Operating Expenses": 832,
-        "Total revenue financing activities": 323,
-        "Net profit from business activities": 580,
-        "Profit": -72,
-        "Profit before tax": 508,
-        "Present corporate income tax expenses": 117,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 117,
-        "Profit after tax corporate income": 391,
-        "Volume": 7853800,
-        "Close of Quarter": 2.6,
-        "EPS": -698,
-        "Non-adjusted EPS": -698,
-        "PE": -3.7,
-        "Book Price": 9.4
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 15787,

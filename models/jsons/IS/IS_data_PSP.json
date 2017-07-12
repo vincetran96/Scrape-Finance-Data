@@ -2,34 +2,6 @@
   "ticker": "PSP",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 37903,
-        "Cost of goods sold": 25849,
-        "Gross Profit": 12054,
-        "Financial expenses": 3322,
-        "Of which: Interest expense": 3067,
-        "Cost of sales": 1488,
-        "Enterprise cost management": 4229,
-        "Total Operating Expenses": 9039,
-        "Total revenue financing activities": 65,
-        "Net profit from business activities": 3080,
-        "Profit": -69,
-        "Profit before tax": 3012,
-        "Present corporate income tax expenses": 110,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 110,
-        "Profit after tax corporate income": 2901,
-        "Volume": 22500000,
-        "Close of Quarter": 7.5,
-        "EPS": 124,
-        "Non-adjusted EPS": 124,
-        "PE": 60.5,
-        "Book Price": 19.1
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 35238,

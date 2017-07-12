@@ -2,34 +2,6 @@
   "ticker": "GHC",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 34490,
-        "Cost of goods sold": 9435,
-        "Gross Profit": 25055,
-        "Financial expenses": "N/A",
-        "Of which: Interest expense": "N/A",
-        "Cost of sales": "N/A",
-        "Enterprise cost management": 620,
-        "Total Operating Expenses": 620,
-        "Total revenue financing activities": 607,
-        "Net profit from business activities": 25041,
-        "Profit": 20,
-        "Profit before tax": 25061,
-        "Present corporate income tax expenses": 1981,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 1981,
-        "Profit after tax corporate income": 23081,
-        "Volume": 41000000,
-        "Close of Quarter": 30.7,
-        "EPS": 2128,
-        "Non-adjusted EPS": 2128,
-        "PE": 14.4,
-        "Book Price": 7.8
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 54734,

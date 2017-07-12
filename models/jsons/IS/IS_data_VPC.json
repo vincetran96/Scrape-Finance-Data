@@ -336,34 +336,6 @@
         "PE": 8.9,
         "Book Price": 12.2
       }
-    },
-    {
-      "quarter": "Q2 2009",
-      "income status": {
-        "Net sales": 13774,
-        "Cost of goods sold": 11766,
-        "Gross Profit": 2008,
-        "Financial expenses": 69,
-        "Of which: Interest expense": 69,
-        "Cost of sales": "N/A",
-        "Enterprise cost management": 732,
-        "Total Operating Expenses": 801,
-        "Total revenue financing activities": 183,
-        "Net profit from business activities": 1390,
-        "Profit": "N/A",
-        "Profit before tax": 1390,
-        "Present corporate income tax expenses": "N/A",
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 0,
-        "Profit after tax corporate income": 1390,
-        "Volume": 5625000,
-        "Close of Quarter": "N/A",
-        "EPS": 247,
-        "Non-adjusted EPS": 247,
-        "PE": "N/A",
-        "Book Price": 11.6
-      }
     }
   ]
 }

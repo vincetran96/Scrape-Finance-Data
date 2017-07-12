@@ -2,34 +2,6 @@
   "ticker": "HPM",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 193,
-        "Cost of goods sold": 169,
-        "Gross Profit": 24,
-        "Financial expenses": "N/A",
-        "Of which: Interest expense": "N/A",
-        "Cost of sales": "N/A",
-        "Enterprise cost management": 559,
-        "Total Operating Expenses": 559,
-        "Total revenue financing activities": "N/A",
-        "Net profit from business activities": -535,
-        "Profit": "N/A",
-        "Profit before tax": -535,
-        "Present corporate income tax expenses": "N/A",
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 0,
-        "Profit after tax corporate income": -535,
-        "Volume": 3800000,
-        "Close of Quarter": 19.1,
-        "EPS": -535,
-        "Non-adjusted EPS": -535,
-        "PE": -35.7,
-        "Book Price": 8.9
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": "N/A",

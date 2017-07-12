@@ -2,34 +2,6 @@
   "ticker": "CKD",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 246983,
-        "Cost of goods sold": 212793,
-        "Gross Profit": 34190,
-        "Financial expenses": 4262,
-        "Of which: Interest expense": 3726,
-        "Cost of sales": 8312,
-        "Enterprise cost management": 13460,
-        "Total Operating Expenses": 26034,
-        "Total revenue financing activities": 96,
-        "Net profit from business activities": 8252,
-        "Profit": -64,
-        "Profit before tax": 8188,
-        "Present corporate income tax expenses": 1683,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 1683,
-        "Profit after tax corporate income": 6505,
-        "Volume": 31000000,
-        "Close of Quarter": 16,
-        "EPS": 2353,
-        "Non-adjusted EPS": 2353,
-        "PE": 6.8,
-        "Book Price": 11.2
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 360845,

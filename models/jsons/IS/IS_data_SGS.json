@@ -2,34 +2,6 @@
   "ticker": "SGS",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 20914,
-        "Cost of goods sold": 17052,
-        "Gross Profit": 3862,
-        "Financial expenses": 8875,
-        "Of which: Interest expense": 80,
-        "Cost of sales": "N/A",
-        "Enterprise cost management": 1554,
-        "Total Operating Expenses": 10429,
-        "Total revenue financing activities": 11177,
-        "Net profit from business activities": 5342,
-        "Profit": 612,
-        "Profit before tax": 5954,
-        "Present corporate income tax expenses": "N/A",
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": 64,
-        "Total Cost of profits": 64,
-        "Profit after tax corporate income": 5890,
-        "Volume": 14420000,
-        "Close of Quarter": 9.4,
-        "EPS": 1299,
-        "Non-adjusted EPS": 1299,
-        "PE": 7.2,
-        "Book Price": 13.2
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 25536,

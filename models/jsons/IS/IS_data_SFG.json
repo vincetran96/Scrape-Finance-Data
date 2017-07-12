@@ -2,34 +2,6 @@
   "ticker": "SFG",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 443431,
-        "Cost of goods sold": 393298,
-        "Gross Profit": 50133,
-        "Financial expenses": 5656,
-        "Of which: Interest expense": 5598,
-        "Cost of sales": 29510,
-        "Enterprise cost management": 5038,
-        "Total Operating Expenses": 40204,
-        "Total revenue financing activities": 13189,
-        "Net profit from business activities": 23118,
-        "Profit": 895,
-        "Profit before tax": 24013,
-        "Present corporate income tax expenses": 2376,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 2376,
-        "Profit after tax corporate income": 21637,
-        "Volume": 47897333,
-        "Close of Quarter": 12.4,
-        "EPS": 1985,
-        "Non-adjusted EPS": 1985,
-        "PE": 6.2,
-        "Book Price": 12.3
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 668653,

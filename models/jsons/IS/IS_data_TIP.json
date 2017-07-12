@@ -2,34 +2,6 @@
   "ticker": "TIP",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 28033,
-        "Cost of goods sold": 14019,
-        "Gross Profit": 14013,
-        "Financial expenses": 137,
-        "Of which: Interest expense": 137,
-        "Cost of sales": 97,
-        "Enterprise cost management": 4133,
-        "Total Operating Expenses": 4367,
-        "Total revenue financing activities": 1746,
-        "Net profit from business activities": 11487,
-        "Profit": -255,
-        "Profit before tax": 11232,
-        "Present corporate income tax expenses": 2237,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": 1,
-        "Total Cost of profits": 2238,
-        "Profit after tax corporate income": 8994,
-        "Volume": "N/A",
-        "Close of Quarter": 16.0,
-        "EPS": "N/A",
-        "Non-adjusted EPS": " ",
-        "PE": "N/A",
-        "Book Price": "N/A"
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 49119,

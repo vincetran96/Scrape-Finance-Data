@@ -2,34 +2,6 @@
   "ticker": "PBP",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 40027,
-        "Cost of goods sold": 32445,
-        "Gross Profit": 7582,
-        "Financial expenses": 636,
-        "Of which: Interest expense": 636,
-        "Cost of sales": 660,
-        "Enterprise cost management": 1861,
-        "Total Operating Expenses": 3157,
-        "Total revenue financing activities": 4,
-        "Net profit from business activities": 4429,
-        "Profit": "N/A",
-        "Profit before tax": 4429,
-        "Present corporate income tax expenses": 443,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 443,
-        "Profit after tax corporate income": 3986,
-        "Volume": 4081249,
-        "Close of Quarter": 11.8,
-        "EPS": 2416,
-        "Non-adjusted EPS": 2416,
-        "PE": 4.9,
-        "Book Price": 14.4
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 41426,

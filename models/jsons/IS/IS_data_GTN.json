@@ -2,34 +2,6 @@
   "ticker": "GTN",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 1131703,
-        "Cost of goods sold": 1006523,
-        "Gross Profit": 125179,
-        "Financial expenses": 23348,
-        "Of which: Interest expense": 1531,
-        "Cost of sales": 65351,
-        "Enterprise cost management": 41404,
-        "Total Operating Expenses": 130103,
-        "Total revenue financing activities": 59284,
-        "Net profit from business activities": 56145,
-        "Profit": 1698,
-        "Profit before tax": 57842,
-        "Present corporate income tax expenses": 4276,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": 35262,
-        "Total Cost of profits": 39538,
-        "Profit after tax corporate income": 18304,
-        "Volume": 250000000,
-        "Close of Quarter": 15.9,
-        "EPS": 118,
-        "Non-adjusted EPS": 118,
-        "PE": 134.8,
-        "Book Price": 14.2
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 500073,

@@ -2,34 +2,6 @@
   "ticker": "UDJ",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 4981,
-        "Cost of goods sold": 3349,
-        "Gross Profit": 1632,
-        "Financial expenses": "N/A",
-        "Of which: Interest expense": "N/A",
-        "Cost of sales": "N/A",
-        "Enterprise cost management": 1068,
-        "Total Operating Expenses": 1068,
-        "Total revenue financing activities": 529,
-        "Net profit from business activities": 1093,
-        "Profit": -30,
-        "Profit before tax": 1063,
-        "Present corporate income tax expenses": 213,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 213,
-        "Profit after tax corporate income": 850,
-        "Volume": 16500000,
-        "Close of Quarter": 6.8,
-        "EPS": 463,
-        "Non-adjusted EPS": 463,
-        "PE": 14.7,
-        "Book Price": 10.3
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 16284,

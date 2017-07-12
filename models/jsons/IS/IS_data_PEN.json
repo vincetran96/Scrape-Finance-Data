@@ -2,34 +2,6 @@
   "ticker": "PEN",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 29418,
-        "Cost of goods sold": 26351,
-        "Gross Profit": 3067,
-        "Financial expenses": 1557,
-        "Of which: Interest expense": 1551,
-        "Cost of sales": -45,
-        "Enterprise cost management": 3396,
-        "Total Operating Expenses": 4908,
-        "Total revenue financing activities": 162,
-        "Net profit from business activities": -1679,
-        "Profit": 2460,
-        "Profit before tax": 781,
-        "Present corporate income tax expenses": 169,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 169,
-        "Profit after tax corporate income": 612,
-        "Volume": 5000000,
-        "Close of Quarter": 9.3,
-        "EPS": 862,
-        "Non-adjusted EPS": 862,
-        "PE": 10.8,
-        "Book Price": 17.1
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 54307,

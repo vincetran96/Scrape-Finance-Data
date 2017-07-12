@@ -2,34 +2,6 @@
   "ticker": "NDP",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 24214,
-        "Cost of goods sold": 13397,
-        "Gross Profit": 10817,
-        "Financial expenses": 134,
-        "Of which: Interest expense": 134,
-        "Cost of sales": 2998,
-        "Enterprise cost management": 4169,
-        "Total Operating Expenses": 7301,
-        "Total revenue financing activities": 394,
-        "Net profit from business activities": 3910,
-        "Profit": 595,
-        "Profit before tax": 4505,
-        "Present corporate income tax expenses": 750,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 750,
-        "Profit after tax corporate income": 3755,
-        "Volume": 6105000,
-        "Close of Quarter": 27.4,
-        "EPS": 3051,
-        "Non-adjusted EPS": 3051,
-        "PE": 9.0,
-        "Book Price": 23.4
-      }
-    },
-    {
       "quarter": "Q2 2016",
       "income status": {
         "Net sales": 22682,

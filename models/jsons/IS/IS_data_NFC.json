@@ -2,34 +2,6 @@
   "ticker": "NFC",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 174212,
-        "Cost of goods sold": 146694,
-        "Gross Profit": 27518,
-        "Financial expenses": 42,
-        "Of which: Interest expense": 19,
-        "Cost of sales": 13959,
-        "Enterprise cost management": 5558,
-        "Total Operating Expenses": 19559,
-        "Total revenue financing activities": 311,
-        "Net profit from business activities": 8271,
-        "Profit": 239,
-        "Profit before tax": 8510,
-        "Present corporate income tax expenses": 1710,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 1710,
-        "Profit after tax corporate income": 6800,
-        "Volume": 15731260,
-        "Close of Quarter": 16.5,
-        "EPS": 1255,
-        "Non-adjusted EPS": 1255,
-        "PE": 13.2,
-        "Book Price": 12
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 123545,

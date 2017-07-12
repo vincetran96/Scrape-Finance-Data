@@ -2,34 +2,6 @@
   "ticker": "HNG",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 470258,
-        "Cost of goods sold": 387022,
-        "Gross Profit": 83236,
-        "Financial expenses": 184167,
-        "Of which: Interest expense": 181241,
-        "Cost of sales": 15809,
-        "Enterprise cost management": 72149,
-        "Total Operating Expenses": 272125,
-        "Total revenue financing activities": 160467,
-        "Net profit from business activities": -28422,
-        "Profit": 38515,
-        "Profit before tax": 10093,
-        "Present corporate income tax expenses": 16,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": 2918,
-        "Total Cost of profits": 2934,
-        "Profit after tax corporate income": 7159,
-        "Volume": 767143895,
-        "Close of Quarter": 11.6,
-        "EPS": -1357,
-        "Non-adjusted EPS": -1357,
-        "PE": -8.6,
-        "Book Price": 13.6
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 1213141,

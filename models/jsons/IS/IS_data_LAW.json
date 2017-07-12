@@ -2,34 +2,6 @@
   "ticker": "LAW",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 29263,
-        "Cost of goods sold": 16663,
-        "Gross Profit": 12600,
-        "Financial expenses": 1364,
-        "Of which: Interest expense": 1364,
-        "Cost of sales": 1321,
-        "Enterprise cost management": 4200,
-        "Total Operating Expenses": 6885,
-        "Total revenue financing activities": 133,
-        "Net profit from business activities": 5847,
-        "Profit": 215,
-        "Profit before tax": 6062,
-        "Present corporate income tax expenses": 606,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 606,
-        "Profit after tax corporate income": 5456,
-        "Volume": 12200000,
-        "Close of Quarter": 13.5,
-        "EPS": 1011,
-        "Non-adjusted EPS": 1011,
-        "PE": 13.4,
-        "Book Price": 12
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 28913,

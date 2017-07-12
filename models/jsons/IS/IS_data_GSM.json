@@ -2,34 +2,6 @@
   "ticker": "GSM",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 22153,
-        "Cost of goods sold": 12564,
-        "Gross Profit": 9589,
-        "Financial expenses": 7942,
-        "Of which: Interest expense": 7942,
-        "Cost of sales": "N/A",
-        "Enterprise cost management": 1840,
-        "Total Operating Expenses": 9782,
-        "Total revenue financing activities": 4,
-        "Net profit from business activities": -189,
-        "Profit": -3,
-        "Profit before tax": -193,
-        "Present corporate income tax expenses": "N/A",
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 0,
-        "Profit after tax corporate income": -193,
-        "Volume": 28562000,
-        "Close of Quarter": 9.7,
-        "EPS": 580,
-        "Non-adjusted EPS": 580,
-        "PE": 16.7,
-        "Book Price": 10.2
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 49760,

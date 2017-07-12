@@ -2,34 +2,6 @@
   "ticker": "NT2",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 1769316,
-        "Cost of goods sold": 1379582,
-        "Gross Profit": 389734,
-        "Financial expenses": 96969,
-        "Of which: Interest expense": 35388,
-        "Cost of sales": "N/A",
-        "Enterprise cost management": 30204,
-        "Total Operating Expenses": 127173,
-        "Total revenue financing activities": 17137,
-        "Net profit from business activities": 279697,
-        "Profit": 820,
-        "Profit before tax": 280517,
-        "Present corporate income tax expenses": 14284,
-        "Deferred income taxes expenses": -129,
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 14155,
-        "Profit after tax corporate income": 266362,
-        "Volume": 287876029,
-        "Close of Quarter": 29.8,
-        "EPS": 3589,
-        "Non-adjusted EPS": 3589,
-        "PE": 8.3,
-        "Book Price": 18.1
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 3522126,

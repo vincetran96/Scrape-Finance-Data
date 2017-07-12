@@ -2,34 +2,6 @@
   "ticker": "SPD",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 183294,
-        "Cost of goods sold": 172734,
-        "Gross Profit": 10560,
-        "Financial expenses": 2586,
-        "Of which: Interest expense": 2219,
-        "Cost of sales": 3322,
-        "Enterprise cost management": 6490,
-        "Total Operating Expenses": 12398,
-        "Total revenue financing activities": 1951,
-        "Net profit from business activities": 113,
-        "Profit": 11,
-        "Profit before tax": 124,
-        "Present corporate income tax expenses": 41,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 41,
-        "Profit after tax corporate income": 83,
-        "Volume": 12000000,
-        "Close of Quarter": 6.6,
-        "EPS": 70,
-        "Non-adjusted EPS": 70,
-        "PE": 94.3,
-        "Book Price": 11.5
-      }
-    },
-    {
       "quarter": "Q3 2016",
       "income status": {
         "Net sales": 333122,
@@ -306,34 +278,6 @@
         "EPS": 607.3,
         "Non-adjusted EPS": 964,
         "PE": 5.4,
-        "Book Price": "N/A"
-      }
-    },
-    {
-      "quarter": "Q3 2010",
-      "income status": {
-        "Net sales": 359200,
-        "Cost of goods sold": 332836,
-        "Gross Profit": 26364,
-        "Financial expenses": 8716,
-        "Of which: Interest expense": 6840,
-        "Cost of sales": 12562,
-        "Enterprise cost management": 8392,
-        "Total Operating Expenses": 29670,
-        "Total revenue financing activities": 6716,
-        "Net profit from business activities": 3409,
-        "Profit": 76,
-        "Profit before tax": 3485,
-        "Present corporate income tax expenses": 436,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": "N/A",
-        "Total Cost of profits": 436,
-        "Profit after tax corporate income": 3050,
-        "Volume": 7560000,
-        "Close of Quarter": 5.0,
-        "EPS": 253.9,
-        "Non-adjusted EPS": 403,
-        "PE": 12.4,
         "Book Price": "N/A"
       }
     }

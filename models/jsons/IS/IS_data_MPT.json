@@ -2,34 +2,6 @@
   "ticker": "MPT",
   "data": [
     {
-      "quarter": "Q1 2017",
-      "income status": {
-        "Net sales": 37083,
-        "Cost of goods sold": 28414,
-        "Gross Profit": 8669,
-        "Financial expenses": 2412,
-        "Of which: Interest expense": 2378,
-        "Cost of sales": 480,
-        "Enterprise cost management": 1688,
-        "Total Operating Expenses": 4580,
-        "Total revenue financing activities": 206,
-        "Net profit from business activities": 4295,
-        "Profit": -403,
-        "Profit before tax": 3892,
-        "Present corporate income tax expenses": 916,
-        "Deferred income taxes expenses": "N/A",
-        "The interests of minority shareholders": 134,
-        "Total Cost of profits": 1050,
-        "Profit after tax corporate income": 2842,
-        "Volume": 15552000,
-        "Close of Quarter": 5.1,
-        "EPS": 396,
-        "Non-adjusted EPS": 396,
-        "PE": 12.9,
-        "Book Price": 11.4
-      }
-    },
-    {
       "quarter": "Q4 2016",
       "income status": {
         "Net sales": 47236,
